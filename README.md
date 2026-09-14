@@ -24,53 +24,7 @@ The Geo Fronts Report is a website used to scrape articles from multiple renowed
 
 ## Setup
 
-Clone the repository and enter the project's directory:
-
-```python
-git clone <repo-url>
-cd GeoMap
-```
-
-Create and activate a virtual environment:
-
-```python
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-```
-
-Install all dependencies:
-
-```python
-pip install -r requirements.txt
-```
-
-Create an .env file in the project directory (don't commit it)
-
-```python
-GEMINI_API_KEY=your_api_key_here
-```
-
-## Running the website
-
-```python
-py flaskstuff.py
-```
-
-Then, open httpL//127.0.0.1:5000 in a browser.
-
-## Running the news scraper
-
-```python
-py newscraper.py
-```
-
-This scrapes and verifies articles, sends to Gemini, checks results and saves them to articles.json. You can check its progress in the terminal.
-
-## Checking for errors
-
-```python
-pytest -v
-```
+Geo Fronts is now hosted on Vercel! Visit: https://geofrontsreport-cpys96cso-travisc44s-projects.vercel.app/ to view it!
 
 ## Acknowledgements
 
