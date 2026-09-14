@@ -12,7 +12,7 @@ var nativeMap=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 })//.addTo(map);
 
-var engMap=L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+var engMap=L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}.png?key=cb1_3ju9_1_3700d3deb651cf84e9745b9f', {
     maxZoom: 19,
     attribution: '&copy; OpenStreetMap &copy; CARTO'
 })//.addTo(map);
