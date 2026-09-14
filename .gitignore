@@ -1,0 +1,17 @@
+# Secret API keys
+.env
+
+# Python virtual environments
+.venv/
+.venv-old/
+
+# Python-generated files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.tmp

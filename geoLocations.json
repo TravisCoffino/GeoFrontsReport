@@ -1,0 +1,4087 @@
+{
+  "Abuja": {
+    "type": "city",
+    "country": "Nigeria",
+    "lat": 9.0765,
+    "lon": 7.3986,
+    "radius_km": null,
+    "keywords": [
+      "abuja",
+      "nigeria"
+    ]
+  },
+  "Addis Ababa": {
+    "type": "city",
+    "country": "Ethiopia",
+    "lat": 8.9806,
+    "lon": 38.7578,
+    "radius_km": null,
+    "keywords": [
+      "addis ababa",
+      "ethiopia"
+    ]
+  },
+  "Afghanistan": {
+    "type": "country",
+    "country": "Afghanistan",
+    "lat": 33.0,
+    "lon": 65.0,
+    "radius_km": 350,
+    "keywords": [
+      "afghanistan"
+    ]
+  },
+  "Albania": {
+    "type": "country",
+    "country": "Albania",
+    "lat": 41.0,
+    "lon": 20.0,
+    "radius_km": 75,
+    "keywords": [
+      "albania"
+    ]
+  },
+  "Alexandria": {
+    "type": "city",
+    "country": "Egypt",
+    "lat": 31.2001,
+    "lon": 29.9187,
+    "radius_km": null,
+    "keywords": [
+      "alexandria",
+      "egypt"
+    ]
+  },
+  "Algeria": {
+    "type": "country",
+    "country": "Algeria",
+    "lat": 28.0,
+    "lon": 3.0,
+    "radius_km": 650,
+    "keywords": [
+      "algeria"
+    ]
+  },
+  "American Samoa": {
+    "type": "country",
+    "country": "American Samoa",
+    "lat": -14.333333,
+    "lon": -170.0,
+    "radius_km": 60,
+    "keywords": [
+      "american samoa",
+      "amelika samoa",
+      "amelika sāmoa",
+      "american samoan",
+      "amerika samoa",
+      "amerika sāmoa",
+      "pago pago",
+      "samoa amelika",
+      "sāmoa amelika"
+    ]
+  },
+  "Amsterdam": {
+    "type": "city",
+    "country": "Netherlands",
+    "lat": 52.3676,
+    "lon": 4.9041,
+    "radius_km": null,
+    "keywords": [
+      "amsterdam",
+      "netherlands"
+    ]
+  },
+  "Angola": {
+    "type": "country",
+    "country": "Angola",
+    "lat": -12.5,
+    "lon": 18.5,
+    "radius_km": 475,
+    "keywords": [
+      "angola",
+      "republica de angola",
+      "república de angola",
+      "ʁɛpublika de an'ɡɔla"
+    ]
+  },
+  "Anguilla": {
+    "type": "country",
+    "country": "Anguilla",
+    "lat": 18.25,
+    "lon": -63.166667,
+    "radius_km": 60,
+    "keywords": [
+      "anguilla"
+    ]
+  },
+  "Ankara": {
+    "type": "city",
+    "country": "Turkey",
+    "lat": 39.9334,
+    "lon": 32.8597,
+    "radius_km": null,
+    "keywords": [
+      "ankara",
+      "turkey"
+    ]
+  },
+  "Antigua and Barbuda": {
+    "type": "country",
+    "country": "Antigua and Barbuda",
+    "lat": 17.05,
+    "lon": -61.8,
+    "radius_km": 60,
+    "keywords": [
+      "antigua and barbuda",
+      "saint john's"
+    ]
+  },
+  "Argentina": {
+    "type": "country",
+    "country": "Argentina",
+    "lat": -34.0,
+    "lon": -64.0,
+    "radius_km": 700,
+    "keywords": [
+      "argentina",
+      "argentine republic",
+      "buenos aires",
+      "republica argentina",
+      "república argentina"
+    ]
+  },
+  "Armenia": {
+    "type": "country",
+    "country": "Armenia",
+    "lat": 40.0,
+    "lon": 45.0,
+    "radius_km": 75,
+    "keywords": [
+      "armenia",
+      "republic of armenia",
+      "հայաստանի հանրապետություն"
+    ]
+  },
+  "Aruba": {
+    "type": "country",
+    "country": "Aruba",
+    "lat": 12.5,
+    "lon": -69.966667,
+    "radius_km": 60,
+    "keywords": [
+      "aruba"
+    ]
+  },
+  "Athens": {
+    "type": "city",
+    "country": "Greece",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "radius_km": null,
+    "keywords": [
+      "athens",
+      "greece"
+    ]
+  },
+  "Auckland": {
+    "type": "city",
+    "country": "New Zealand",
+    "lat": -36.8509,
+    "lon": 174.7645,
+    "radius_km": null,
+    "keywords": [
+      "auckland",
+      "new zealand"
+    ]
+  },
+  "Australia": {
+    "type": "country",
+    "country": "Australia",
+    "lat": -27.0,
+    "lon": 133.0,
+    "radius_km": 1175,
+    "keywords": [
+      "australia"
+    ]
+  },
+  "Austria": {
+    "type": "country",
+    "country": "Austria",
+    "lat": 47.333333,
+    "lon": 13.333333,
+    "radius_km": 125,
+    "keywords": [
+      "austria"
+    ]
+  },
+  "Azerbaijan": {
+    "type": "country",
+    "country": "Azerbaijan",
+    "lat": 40.5,
+    "lon": 47.5,
+    "radius_km": 125,
+    "keywords": [
+      "azerbaijan",
+      "azərbaycan respublikası",
+      "republic of azerbaijan"
+    ]
+  },
+  "Baghdad": {
+    "type": "city",
+    "country": "Iraq",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "radius_km": null,
+    "keywords": [
+      "baghdad",
+      "iraq"
+    ]
+  },
+  "Bahrain": {
+    "type": "country",
+    "country": "Bahrain",
+    "lat": 26.0,
+    "lon": 50.55,
+    "radius_km": 60,
+    "keywords": [
+      "bahrain",
+      "kingdom of bahrain",
+      "mamlakat al-bahrayn",
+      "mamlakat al-baḥrayn"
+    ]
+  },
+  "Bangkok": {
+    "type": "city",
+    "country": "Thailand",
+    "lat": 13.7563,
+    "lon": 100.5018,
+    "radius_km": null,
+    "keywords": [
+      "bangkok",
+      "thailand"
+    ]
+  },
+  "Bangladesh": {
+    "type": "country",
+    "country": "Bangladesh",
+    "lat": 24.0,
+    "lon": 90.0,
+    "radius_km": 175,
+    "keywords": [
+      "bangladesh",
+      "gonoprojatontri bangladesh",
+      "gônôprôjatôntri bangladesh",
+      "people's republic of bangladesh"
+    ]
+  },
+  "Barbados": {
+    "type": "country",
+    "country": "Barbados",
+    "lat": 13.166667,
+    "lon": -59.533333,
+    "radius_km": 60,
+    "keywords": [
+      "barbados"
+    ]
+  },
+  "Barcelona": {
+    "type": "city",
+    "country": "Spain",
+    "lat": 41.3874,
+    "lon": 2.1686,
+    "radius_km": null,
+    "keywords": [
+      "barcelona",
+      "spain"
+    ]
+  },
+  "Beijing": {
+    "type": "city",
+    "country": "China",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "radius_km": null,
+    "keywords": [
+      "beijing",
+      "china"
+    ]
+  },
+  "Beirut": {
+    "type": "city",
+    "country": "Lebanon",
+    "lat": 33.8938,
+    "lon": 35.5018,
+    "radius_km": null,
+    "keywords": [
+      "beirut",
+      "lebanon"
+    ]
+  },
+  "Belarus": {
+    "type": "country",
+    "country": "Belarus",
+    "lat": 53.0,
+    "lon": 28.0,
+    "radius_km": 200,
+    "keywords": [
+      "belarus",
+      "republic of belarus",
+      "respublika belarus’",
+      "республика беларусь"
+    ]
+  },
+  "Belgium": {
+    "type": "country",
+    "country": "Belgium",
+    "lat": 50.833333,
+    "lon": 4.0,
+    "radius_km": 75,
+    "keywords": [
+      "belgium",
+      "kingdom of belgium",
+      "konigreich belgien",
+      "koninkrijk belgie",
+      "koninkrijk belgië",
+      "königreich belgien",
+      "royaume de belgique"
+    ]
+  },
+  "Belize": {
+    "type": "country",
+    "country": "Belize",
+    "lat": 17.25,
+    "lon": -88.75,
+    "radius_km": 75,
+    "keywords": [
+      "belize"
+    ]
+  },
+  "Benin": {
+    "type": "country",
+    "country": "Benin",
+    "lat": 9.5,
+    "lon": 2.25,
+    "radius_km": 150,
+    "keywords": [
+      "benin",
+      "republic of benin",
+      "republique du benin",
+      "république du bénin"
+    ]
+  },
+  "Berlin": {
+    "type": "city",
+    "country": "Germany",
+    "lat": 52.52,
+    "lon": 13.405,
+    "radius_km": null,
+    "keywords": [
+      "berlin",
+      "germany"
+    ]
+  },
+  "Bermuda": {
+    "type": "country",
+    "country": "Bermuda",
+    "lat": 32.333333,
+    "lon": -64.75,
+    "radius_km": 60,
+    "keywords": [
+      "bermuda",
+      "somers isles",
+      "the bermudas",
+      "the islands of bermuda"
+    ]
+  },
+  "Bhutan": {
+    "type": "country",
+    "country": "Bhutan",
+    "lat": 27.5,
+    "lon": 90.5,
+    "radius_km": 75,
+    "keywords": [
+      "bhutan",
+      "kingdom of bhutan"
+    ]
+  },
+  "Bogotá": {
+    "type": "city",
+    "country": "Colombia",
+    "lat": 4.711,
+    "lon": -74.0721,
+    "radius_km": null,
+    "keywords": [
+      "bogotá",
+      "colombia"
+    ]
+  },
+  "Bolivia": {
+    "type": "country",
+    "country": "Bolivia",
+    "lat": -17.0,
+    "lon": -65.0,
+    "radius_km": 450,
+    "keywords": [
+      "bolivia",
+      "buliwya mamallaqta",
+      "estado plurinacional de bolivia",
+      "plurinational state of bolivia",
+      "teta volivia",
+      "tetã volívia",
+      "wuliwya suyu"
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    "type": "country",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.0,
+    "lon": 18.0,
+    "radius_km": 100,
+    "keywords": [
+      "bosnia and herzegovina",
+      "bosna i hercegovina",
+      "босна и херцеговина"
+    ]
+  },
+  "Boston": {
+    "type": "city",
+    "country": "United States",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "radius_km": null,
+    "keywords": [
+      "boston",
+      "united states"
+    ]
+  },
+  "Botswana": {
+    "type": "country",
+    "country": "Botswana",
+    "lat": -22.0,
+    "lon": 24.0,
+    "radius_km": 325,
+    "keywords": [
+      "botswana",
+      "lefatshe la botswana",
+      "republic of botswana"
+    ]
+  },
+  "Brasília": {
+    "type": "city",
+    "country": "Brazil",
+    "lat": -15.7939,
+    "lon": -47.8828,
+    "radius_km": null,
+    "keywords": [
+      "brasília",
+      "brazil"
+    ]
+  },
+  "Brazil": {
+    "type": "country",
+    "country": "Brazil",
+    "lat": -10.0,
+    "lon": -55.0,
+    "radius_km": 1225,
+    "keywords": [
+      "brazil",
+      "federative republic of brazil",
+      "republica federativa do brasil",
+      "república federativa do brasil"
+    ]
+  },
+  "British Indian Ocean Territory": {
+    "type": "country",
+    "country": "British Indian Ocean Territory",
+    "lat": -6.0,
+    "lon": 71.5,
+    "radius_km": 60,
+    "keywords": [
+      "british indian ocean territory",
+      "diego garcia"
+    ]
+  },
+  "Brunei": {
+    "type": "country",
+    "country": "Brunei",
+    "lat": 4.5,
+    "lon": 114.666667,
+    "radius_km": 60,
+    "keywords": [
+      "brunei",
+      "bandar seri begawan",
+      "nation of brunei",
+      "negara brunei darussalam",
+      "the abode of peace"
+    ]
+  },
+  "Brussels": {
+    "type": "city",
+    "country": "Belgium",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "radius_km": null,
+    "keywords": [
+      "brussels",
+      "belgium",
+      "eu capital"
+    ]
+  },
+  "Bucharest": {
+    "type": "city",
+    "country": "Romania",
+    "lat": 44.4268,
+    "lon": 26.1025,
+    "radius_km": null,
+    "keywords": [
+      "bucharest",
+      "romania"
+    ]
+  },
+  "Budapest": {
+    "type": "city",
+    "country": "Hungary",
+    "lat": 47.4979,
+    "lon": 19.0402,
+    "radius_km": null,
+    "keywords": [
+      "budapest",
+      "hungary"
+    ]
+  },
+  "Buenos Aires": {
+    "type": "city",
+    "country": "Argentina",
+    "lat": -34.6037,
+    "lon": -58.3816,
+    "radius_km": null,
+    "keywords": [
+      "buenos aires",
+      "argentina"
+    ]
+  },
+  "Bulgaria": {
+    "type": "country",
+    "country": "Bulgaria",
+    "lat": 43.0,
+    "lon": 25.0,
+    "radius_km": 150,
+    "keywords": [
+      "bulgaria",
+      "republic of bulgaria",
+      "република българия"
+    ]
+  },
+  "Burkina Faso": {
+    "type": "country",
+    "country": "Burkina Faso",
+    "lat": 13.0,
+    "lon": -2.0,
+    "radius_km": 225,
+    "keywords": [
+      "burkina faso"
+    ]
+  },
+  "Burundi": {
+    "type": "country",
+    "country": "Burundi",
+    "lat": -3.5,
+    "lon": 30.0,
+    "radius_km": 75,
+    "keywords": [
+      "burundi",
+      "republic of burundi",
+      "republika y'uburundi",
+      "republique du burundi",
+      "république du burundi"
+    ]
+  },
+  "Cairo": {
+    "type": "city",
+    "country": "Egypt",
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "radius_km": null,
+    "keywords": [
+      "cairo",
+      "egypt"
+    ]
+  },
+  "California": {
+    "type": "region",
+    "country": "United States",
+    "lat": 36.7783,
+    "lon": -119.4179,
+    "radius_km": 400,
+    "keywords": [
+      "california",
+      "los angeles",
+      "san diego",
+      "san francisco",
+      "united states"
+    ]
+  },
+  "Cambodia": {
+    "type": "country",
+    "country": "Cambodia",
+    "lat": 13.0,
+    "lon": 105.0,
+    "radius_km": 175,
+    "keywords": [
+      "cambodia",
+      "kingdom of cambodia",
+      "phnom penh"
+    ]
+  },
+  "Cameroon": {
+    "type": "country",
+    "country": "Cameroon",
+    "lat": 6.0,
+    "lon": 12.0,
+    "radius_km": 300,
+    "keywords": [
+      "cameroon",
+      "republic of cameroon",
+      "republique du cameroun",
+      "république du cameroun"
+    ]
+  },
+  "Canada": {
+    "type": "country",
+    "country": "Canada",
+    "lat": 60.0,
+    "lon": -95.0,
+    "radius_km": 1300,
+    "keywords": [
+      "canada"
+    ]
+  },
+  "Canberra": {
+    "type": "city",
+    "country": "Australia",
+    "lat": -35.2809,
+    "lon": 149.13,
+    "radius_km": null,
+    "keywords": [
+      "canberra",
+      "australia"
+    ]
+  },
+  "Cape Town": {
+    "type": "city",
+    "country": "South Africa",
+    "lat": -33.9249,
+    "lon": 18.4241,
+    "radius_km": null,
+    "keywords": [
+      "cape town",
+      "south africa"
+    ]
+  },
+  "Cape Verde": {
+    "type": "country",
+    "country": "Cape Verde",
+    "lat": 16.0,
+    "lon": -24.0,
+    "radius_km": 60,
+    "keywords": [
+      "cape verde",
+      "cabo verde",
+      "cape verdian",
+      "republic of cabo verde",
+      "republica de cabo verde",
+      "república de cabo verde"
+    ]
+  },
+  "Caracas": {
+    "type": "city",
+    "country": "Venezuela",
+    "lat": 10.4806,
+    "lon": -66.9036,
+    "radius_km": null,
+    "keywords": [
+      "caracas",
+      "venezuela"
+    ]
+  },
+  "Cayman Islands": {
+    "type": "country",
+    "country": "Cayman Islands",
+    "lat": 19.5,
+    "lon": -80.5,
+    "radius_km": 60,
+    "keywords": [
+      "cayman islands",
+      "george town"
+    ]
+  },
+  "Central African Republic": {
+    "type": "country",
+    "country": "Central African Republic",
+    "lat": 7.0,
+    "lon": 21.0,
+    "radius_km": 325,
+    "keywords": [
+      "central african republic",
+      "central african",
+      "kodorosese ti beafrika",
+      "ködörösêse tî bêafrîka",
+      "republique centrafricaine",
+      "république centrafricaine"
+    ]
+  },
+  "Chad": {
+    "type": "country",
+    "country": "Chad",
+    "lat": 15.0,
+    "lon": 19.0,
+    "radius_km": 475,
+    "keywords": [
+      "chad",
+      "republic of chad",
+      "republique du tchad",
+      "république du tchad"
+    ]
+  },
+  "Chicago": {
+    "type": "city",
+    "country": "United States",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "radius_km": null,
+    "keywords": [
+      "chicago",
+      "united states"
+    ]
+  },
+  "Chile": {
+    "type": "country",
+    "country": "Chile",
+    "lat": -30.0,
+    "lon": -71.0,
+    "radius_km": 375,
+    "keywords": [
+      "chile",
+      "republic of chile",
+      "republica de chile",
+      "república de chile"
+    ]
+  },
+  "China": {
+    "type": "country",
+    "country": "China",
+    "lat": 35.0,
+    "lon": 105.0,
+    "radius_km": 1300,
+    "keywords": [
+      "china",
+      "people's republic of china",
+      "zhonghua renmin gongheguo",
+      "zhōnghuá rénmín gònghéguó"
+    ]
+  },
+  "Christmas Island": {
+    "type": "country",
+    "country": "Christmas Island",
+    "lat": -10.5,
+    "lon": 105.666667,
+    "radius_km": 60,
+    "keywords": [
+      "christmas island",
+      "flying fish cove",
+      "territory of christmas island"
+    ]
+  },
+  "Cocos (Keeling) Islands": {
+    "type": "country",
+    "country": "Cocos (Keeling) Islands",
+    "lat": -12.5,
+    "lon": 96.833333,
+    "radius_km": 60,
+    "keywords": [
+      "cocos (keeling) islands",
+      "cocos islander",
+      "keeling islands",
+      "territory of the cocos (keeling) islands",
+      "west island"
+    ]
+  },
+  "Colombia": {
+    "type": "country",
+    "country": "Colombia",
+    "lat": 4.0,
+    "lon": -72.0,
+    "radius_km": 450,
+    "keywords": [
+      "colombia",
+      "republic of colombia",
+      "republica de colombia",
+      "república de colombia"
+    ]
+  },
+  "Comoros": {
+    "type": "country",
+    "country": "Comoros",
+    "lat": -12.166667,
+    "lon": 44.25,
+    "radius_km": 60,
+    "keywords": [
+      "comoros",
+      "al-ittihad al-qumuri",
+      "al-ittiḥād al-qumurī",
+      "udzima wa komori",
+      "union des comores",
+      "union of the comoros"
+    ]
+  },
+  "Cook Islands": {
+    "type": "country",
+    "country": "Cook Islands",
+    "lat": -21.233333,
+    "lon": -159.766667,
+    "radius_km": 60,
+    "keywords": [
+      "cook islands",
+      "cook islander",
+      "kuki 'airani",
+      "kūki 'āirani"
+    ]
+  },
+  "Copenhagen": {
+    "type": "city",
+    "country": "Denmark",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "radius_km": null,
+    "keywords": [
+      "copenhagen",
+      "denmark"
+    ]
+  },
+  "Costa Rica": {
+    "type": "country",
+    "country": "Costa Rica",
+    "lat": 10.0,
+    "lon": -84.0,
+    "radius_km": 100,
+    "keywords": [
+      "costa rica",
+      "costa rican",
+      "republic of costa rica",
+      "republica de costa rica",
+      "república de costa rica",
+      "san jose",
+      "san josé"
+    ]
+  },
+  "Crimea": {
+    "type": "region",
+    "country": "Ukraine",
+    "lat": 45.3453,
+    "lon": 34.4997,
+    "radius_km": 180,
+    "keywords": [
+      "crimea",
+      "ukraine"
+    ]
+  },
+  "Croatia": {
+    "type": "country",
+    "country": "Croatia",
+    "lat": 45.166667,
+    "lon": 15.5,
+    "radius_km": 100,
+    "keywords": [
+      "croatia",
+      "republic of croatia",
+      "republika hrvatska"
+    ]
+  },
+  "Cuba": {
+    "type": "country",
+    "country": "Cuba",
+    "lat": 21.5,
+    "lon": -80.0,
+    "radius_km": 150,
+    "keywords": [
+      "cuba",
+      "republic of cuba",
+      "republica de cuba",
+      "república de cuba"
+    ]
+  },
+  "Cyprus": {
+    "type": "country",
+    "country": "Cyprus",
+    "lat": 35.0,
+    "lon": 33.0,
+    "radius_km": 60,
+    "keywords": [
+      "cyprus",
+      "kıbrıs cumhuriyeti",
+      "republic of cyprus",
+      "κυπριακή δημοκρατία",
+      "κυπριακη δημοκρατια"
+    ]
+  },
+  "Czech Republic": {
+    "type": "country",
+    "country": "Czech Republic",
+    "lat": 49.75,
+    "lon": 15.5,
+    "radius_km": 125,
+    "keywords": [
+      "czech republic",
+      "ceska republika",
+      "česká republika"
+    ]
+  },
+  "Damascus": {
+    "type": "city",
+    "country": "Syria",
+    "lat": 33.5138,
+    "lon": 36.2765,
+    "radius_km": null,
+    "keywords": [
+      "damascus",
+      "syria"
+    ]
+  },
+  "Darfur": {
+    "type": "region",
+    "country": "Sudan",
+    "lat": 13.0,
+    "lon": 24.0,
+    "radius_km": 400,
+    "keywords": [
+      "darfur",
+      "el fasher",
+      "sudan"
+    ]
+  },
+  "Democratic Republic of the Congo": {
+    "type": "country",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.0,
+    "lon": 25.0,
+    "radius_km": 650,
+    "keywords": [
+      "democratic republic of the congo",
+      "dr congo",
+      "republique democratique du congo",
+      "république démocratique du congo"
+    ]
+  },
+  "Denmark": {
+    "type": "country",
+    "country": "Denmark",
+    "lat": 56.0,
+    "lon": 10.0,
+    "radius_km": 100,
+    "keywords": [
+      "denmark",
+      "kingdom of denmark",
+      "kongeriget danmark"
+    ]
+  },
+  "Djibouti": {
+    "type": "country",
+    "country": "Djibouti",
+    "lat": 11.5,
+    "lon": 43.0,
+    "radius_km": 75,
+    "keywords": [
+      "djibouti",
+      "gabuutih ummuuno",
+      "jamhuuriyadda jabuuti",
+      "republic of djibouti",
+      "republique de djibouti",
+      "république de djibouti"
+    ]
+  },
+  "Doha": {
+    "type": "city",
+    "country": "Qatar",
+    "lat": 25.2854,
+    "lon": 51.531,
+    "radius_km": null,
+    "keywords": [
+      "doha",
+      "qatar"
+    ]
+  },
+  "Dominica": {
+    "type": "country",
+    "country": "Dominica",
+    "lat": 15.416667,
+    "lon": -61.333333,
+    "radius_km": 60,
+    "keywords": [
+      "dominica",
+      "commonwealth of dominica",
+      "wai‘tu kubuli"
+    ]
+  },
+  "Dominican Republic": {
+    "type": "country",
+    "country": "Dominican Republic",
+    "lat": 19.0,
+    "lon": -70.666667,
+    "radius_km": 100,
+    "keywords": [
+      "dominican republic",
+      "republica dominicana",
+      "república dominicana",
+      "santo domingo"
+    ]
+  },
+  "Dubai": {
+    "type": "city",
+    "country": "United Arab Emirates",
+    "lat": 25.2048,
+    "lon": 55.2708,
+    "radius_km": null,
+    "keywords": [
+      "dubai",
+      "united arab emirates"
+    ]
+  },
+  "Dublin": {
+    "type": "city",
+    "country": "Ireland",
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "radius_km": null,
+    "keywords": [
+      "dublin",
+      "ireland"
+    ]
+  },
+  "East Timor": {
+    "type": "country",
+    "country": "East Timor",
+    "lat": -8.833333,
+    "lon": 125.916667,
+    "radius_km": 60,
+    "keywords": [
+      "east timor",
+      "democratic republic of timor-leste",
+      "east timorese",
+      "republica democratica de timor-leste",
+      "republika demokratika timor-leste",
+      "república democrática de timor-leste",
+      "repúblika demokrátika timór-leste"
+    ]
+  },
+  "Ecuador": {
+    "type": "country",
+    "country": "Ecuador",
+    "lat": -2.0,
+    "lon": -77.5,
+    "radius_km": 225,
+    "keywords": [
+      "ecuador",
+      "republic of ecuador",
+      "republica del ecuador",
+      "república del ecuador"
+    ]
+  },
+  "Egypt": {
+    "type": "country",
+    "country": "Egypt",
+    "lat": 27.0,
+    "lon": 30.0,
+    "radius_km": 425,
+    "keywords": [
+      "egypt",
+      "arab republic of egypt"
+    ]
+  },
+  "El Salvador": {
+    "type": "country",
+    "country": "El Salvador",
+    "lat": 13.833333,
+    "lon": -88.916667,
+    "radius_km": 60,
+    "keywords": [
+      "el salvador",
+      "republic of el salvador",
+      "republica de el salvador",
+      "república de el salvador",
+      "san salvador"
+    ]
+  },
+  "Equatorial Guinea": {
+    "type": "country",
+    "country": "Equatorial Guinea",
+    "lat": 2.0,
+    "lon": 10.0,
+    "radius_km": 75,
+    "keywords": [
+      "equatorial guinea",
+      "equatorial guinean",
+      "guinea ecuatorial",
+      "republic of equatorial guinea",
+      "republica da guine equatorial",
+      "republica de guinea ecuatorial",
+      "republique de guinee equatoriale",
+      "república da guiné equatorial",
+      "república de guinea ecuatorial",
+      "république de guinée équatoriale"
+    ]
+  },
+  "Eritrea": {
+    "type": "country",
+    "country": "Eritrea",
+    "lat": 15.0,
+    "lon": 39.0,
+    "radius_km": 150,
+    "keywords": [
+      "eritrea",
+      "dawlat iritriya",
+      "dawlat iritriyá",
+      "state of eritrea",
+      "ሃገረ ኤርትራ"
+    ]
+  },
+  "Estonia": {
+    "type": "country",
+    "country": "Estonia",
+    "lat": 59.0,
+    "lon": 26.0,
+    "radius_km": 100,
+    "keywords": [
+      "estonia",
+      "eesti vabariik",
+      "republic of estonia"
+    ]
+  },
+  "Ethiopia": {
+    "type": "country",
+    "country": "Ethiopia",
+    "lat": 8.0,
+    "lon": 38.0,
+    "radius_km": 450,
+    "keywords": [
+      "ethiopia",
+      "addis ababa",
+      "federal democratic republic of ethiopia",
+      "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+    ]
+  },
+  "Falkland Islands": {
+    "type": "country",
+    "country": "Falkland Islands",
+    "lat": -51.75,
+    "lon": -59.0,
+    "radius_km": 60,
+    "keywords": [
+      "falkland islands",
+      "falkland islander",
+      "islas malvinas"
+    ]
+  },
+  "Faroe Islands": {
+    "type": "country",
+    "country": "Faroe Islands",
+    "lat": 62.0,
+    "lon": -7.0,
+    "radius_km": 60,
+    "keywords": [
+      "faroe islands"
+    ]
+  },
+  "Federated States of Micronesia": {
+    "type": "country",
+    "country": "Federated States of Micronesia",
+    "lat": 6.916667,
+    "lon": 158.25,
+    "radius_km": 60,
+    "keywords": [
+      "federated states of micronesia"
+    ]
+  },
+  "Fiji": {
+    "type": "country",
+    "country": "Fiji",
+    "lat": -18.0,
+    "lon": 175.0,
+    "radius_km": 60,
+    "keywords": [
+      "fiji",
+      "fiji ganarajya",
+      "fijī gaṇarājya",
+      "matanitu ko viti",
+      "republic of fiji"
+    ]
+  },
+  "Finland": {
+    "type": "country",
+    "country": "Finland",
+    "lat": 64.0,
+    "lon": 26.0,
+    "radius_km": 250,
+    "keywords": [
+      "finland",
+      "republic of finland",
+      "republiken finland",
+      "suomen tasavalta"
+    ]
+  },
+  "Florida": {
+    "type": "region",
+    "country": "United States",
+    "lat": 27.6648,
+    "lon": -81.5158,
+    "radius_km": 350,
+    "keywords": [
+      "florida",
+      "united states"
+    ]
+  },
+  "France": {
+    "type": "country",
+    "country": "France",
+    "lat": 46.0,
+    "lon": 2.0,
+    "radius_km": 350,
+    "keywords": [
+      "france",
+      "french republic",
+      "republique francaise",
+      "république française"
+    ]
+  },
+  "French Guiana": {
+    "type": "country",
+    "country": "French Guiana",
+    "lat": 4.0,
+    "lon": -53.0,
+    "radius_km": 400,
+    "keywords": [
+      "french guiana",
+      "guyane francaise",
+      "guyane française"
+    ]
+  },
+  "French Polynesia": {
+    "type": "country",
+    "country": "French Polynesia",
+    "lat": -15.0,
+    "lon": -140.0,
+    "radius_km": 60,
+    "keywords": [
+      "french polynesia",
+      "french polynesian",
+      "polynesie francaise",
+      "polynésie française",
+      "porinetia farani",
+      "pōrīnetia farāni"
+    ]
+  },
+  "French Southern and Antarctic Lands": {
+    "type": "country",
+    "country": "French Southern and Antarctic Lands",
+    "lat": -49.25,
+    "lon": 69.167,
+    "radius_km": 60,
+    "keywords": [
+      "french southern and antarctic lands",
+      "territoire des terres australes et antarctiques francaises",
+      "territoire des terres australes et antarctiques françaises"
+    ]
+  },
+  "Gabon": {
+    "type": "country",
+    "country": "Gabon",
+    "lat": -1.0,
+    "lon": 11.75,
+    "radius_km": 225,
+    "keywords": [
+      "gabon",
+      "gabonese republic",
+      "republique gabonaise",
+      "république gabonaise"
+    ]
+  },
+  "Gaza Strip": {
+    "type": "region",
+    "country": "Palestine",
+    "lat": 31.3547,
+    "lon": 34.3088,
+    "radius_km": 40,
+    "keywords": [
+      "gaza strip",
+      "palestine"
+    ]
+  },
+  "Georgia": {
+    "type": "country",
+    "country": "Georgia",
+    "lat": 42.0,
+    "lon": 43.5,
+    "radius_km": 100,
+    "keywords": [
+      "georgia"
+    ]
+  },
+  "Germany": {
+    "type": "country",
+    "country": "Germany",
+    "lat": 51.0,
+    "lon": 9.0,
+    "radius_km": 250,
+    "keywords": [
+      "germany",
+      "bundesrepublik deutschland",
+      "federal republic of germany"
+    ]
+  },
+  "Ghana": {
+    "type": "country",
+    "country": "Ghana",
+    "lat": 8.0,
+    "lon": -2.0,
+    "radius_km": 200,
+    "keywords": [
+      "ghana"
+    ]
+  },
+  "Gibraltar": {
+    "type": "country",
+    "country": "Gibraltar",
+    "lat": 36.133333,
+    "lon": -5.35,
+    "radius_km": 60,
+    "keywords": [
+      "gibraltar"
+    ]
+  },
+  "Greece": {
+    "type": "country",
+    "country": "Greece",
+    "lat": 39.0,
+    "lon": 22.0,
+    "radius_km": 150,
+    "keywords": [
+      "greece",
+      "hellenic republic",
+      "ελληνική δημοκρατία",
+      "ελληνικη δημοκρατια"
+    ]
+  },
+  "Greenland": {
+    "type": "country",
+    "country": "Greenland",
+    "lat": 72.0,
+    "lon": -40.0,
+    "radius_km": 625,
+    "keywords": [
+      "greenland",
+      "kalaallit nunaat"
+    ]
+  },
+  "Grenada": {
+    "type": "country",
+    "country": "Grenada",
+    "lat": 12.116667,
+    "lon": -61.666667,
+    "radius_km": 60,
+    "keywords": [
+      "grenada",
+      "st. george's"
+    ]
+  },
+  "Guadeloupe": {
+    "type": "country",
+    "country": "Guadeloupe",
+    "lat": 16.25,
+    "lon": -61.583333,
+    "radius_km": 400,
+    "keywords": [
+      "guadeloupe"
+    ]
+  },
+  "Guam": {
+    "type": "country",
+    "country": "Guam",
+    "lat": 13.466667,
+    "lon": 144.783333,
+    "radius_km": 60,
+    "keywords": [
+      "guam"
+    ]
+  },
+  "Guatemala": {
+    "type": "country",
+    "country": "Guatemala",
+    "lat": 15.5,
+    "lon": -90.25,
+    "radius_km": 150,
+    "keywords": [
+      "guatemala",
+      "guatemala city"
+    ]
+  },
+  "Guernsey": {
+    "type": "country",
+    "country": "Guernsey",
+    "lat": 49.466667,
+    "lon": -2.583333,
+    "radius_km": 60,
+    "keywords": [
+      "guernsey",
+      "bailiwick of guernsey",
+      "bailliage de guernesey",
+      "channel islander",
+      "st. peter port"
+    ]
+  },
+  "Guinea": {
+    "type": "country",
+    "country": "Guinea",
+    "lat": 11.0,
+    "lon": -10.0,
+    "radius_km": 200,
+    "keywords": [
+      "guinea",
+      "republic of guinea",
+      "republique de guinee",
+      "république de guinée"
+    ]
+  },
+  "Guinea-Bissau": {
+    "type": "country",
+    "country": "Guinea-Bissau",
+    "lat": 12.0,
+    "lon": -15.0,
+    "radius_km": 75,
+    "keywords": [
+      "guinea-bissau",
+      "republic of guinea-bissau",
+      "republica da guine-bissau",
+      "república da guiné-bissau"
+    ]
+  },
+  "Guyana": {
+    "type": "country",
+    "country": "Guyana",
+    "lat": 5.0,
+    "lon": -59.0,
+    "radius_km": 200,
+    "keywords": [
+      "guyana",
+      "co-operative republic of guyana"
+    ]
+  },
+  "Haiti": {
+    "type": "country",
+    "country": "Haiti",
+    "lat": 19.0,
+    "lon": -72.416667,
+    "radius_km": 75,
+    "keywords": [
+      "haiti",
+      "repiblik ayiti",
+      "republic of haiti",
+      "republique d'haiti",
+      "république d'haïti"
+    ]
+  },
+  "Hanoi": {
+    "type": "city",
+    "country": "Vietnam",
+    "lat": 21.0278,
+    "lon": 105.8342,
+    "radius_km": null,
+    "keywords": [
+      "hanoi",
+      "vietnam"
+    ]
+  },
+  "Havana": {
+    "type": "city",
+    "country": "Cuba",
+    "lat": 23.1136,
+    "lon": -82.3666,
+    "radius_km": null,
+    "keywords": [
+      "havana",
+      "cuba",
+      "la habana"
+    ]
+  },
+  "Heard Island and McDonald Islands": {
+    "type": "country",
+    "country": "Heard Island and McDonald Islands",
+    "lat": -53.1,
+    "lon": 72.516667,
+    "radius_km": 60,
+    "keywords": [
+      "heard island and mcdonald islands",
+      "heard and mcdonald islander"
+    ]
+  },
+  "Helsinki": {
+    "type": "city",
+    "country": "Finland",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "radius_km": null,
+    "keywords": [
+      "helsinki",
+      "finland"
+    ]
+  },
+  "Honduras": {
+    "type": "country",
+    "country": "Honduras",
+    "lat": 15.0,
+    "lon": -86.5,
+    "radius_km": 150,
+    "keywords": [
+      "honduras",
+      "republic of honduras",
+      "republica de honduras",
+      "república de honduras"
+    ]
+  },
+  "Hong Kong": {
+    "type": "city",
+    "country": "China",
+    "lat": 22.3193,
+    "lon": 114.1694,
+    "radius_km": null,
+    "keywords": [
+      "hong kong",
+      "china"
+    ]
+  },
+  "Houston": {
+    "type": "city",
+    "country": "United States",
+    "lat": 29.7604,
+    "lon": -95.3698,
+    "radius_km": null,
+    "keywords": [
+      "houston",
+      "united states"
+    ]
+  },
+  "Hungary": {
+    "type": "country",
+    "country": "Hungary",
+    "lat": 47.0,
+    "lon": 20.0,
+    "radius_km": 125,
+    "keywords": [
+      "hungary"
+    ]
+  },
+  "Iceland": {
+    "type": "country",
+    "country": "Iceland",
+    "lat": 65.0,
+    "lon": -18.0,
+    "radius_km": 125,
+    "keywords": [
+      "iceland",
+      "lyðveldið island",
+      "lýðveldið ísland",
+      "republic of iceland"
+    ]
+  },
+  "India": {
+    "type": "country",
+    "country": "India",
+    "lat": 20.0,
+    "lon": 77.0,
+    "radius_km": 775,
+    "keywords": [
+      "india",
+      "bharat ganrajya",
+      "new delhi",
+      "republic of india"
+    ]
+  },
+  "Indonesia": {
+    "type": "country",
+    "country": "Indonesia",
+    "lat": -5.0,
+    "lon": 120.0,
+    "radius_km": 575,
+    "keywords": [
+      "indonesia",
+      "republic of indonesia",
+      "republik indonesia"
+    ]
+  },
+  "Iran": {
+    "type": "country",
+    "country": "Iran",
+    "lat": 32.0,
+    "lon": 53.0,
+    "radius_km": 550,
+    "keywords": [
+      "iran",
+      "islamic republic of iran",
+      "jomhuri-ye eslami-ye iran",
+      "jomhuri-ye eslāmi-ye irān"
+    ]
+  },
+  "Iraq": {
+    "type": "country",
+    "country": "Iraq",
+    "lat": 33.0,
+    "lon": 44.0,
+    "radius_km": 275,
+    "keywords": [
+      "iraq",
+      "jumhuriyyat al-‘iraq",
+      "jumhūriyyat al-‘irāq",
+      "republic of iraq"
+    ]
+  },
+  "Ireland": {
+    "type": "country",
+    "country": "Ireland",
+    "lat": 53.0,
+    "lon": -8.0,
+    "radius_km": 100,
+    "keywords": [
+      "ireland",
+      "poblacht na heireann",
+      "poblacht na héireann",
+      "republic of ireland"
+    ]
+  },
+  "Islamabad": {
+    "type": "city",
+    "country": "Pakistan",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "radius_km": null,
+    "keywords": [
+      "islamabad",
+      "pakistan"
+    ]
+  },
+  "Isle of Man": {
+    "type": "country",
+    "country": "Isle of Man",
+    "lat": 54.25,
+    "lon": -4.5,
+    "radius_km": 60,
+    "keywords": [
+      "isle of man",
+      "ellan vannin"
+    ]
+  },
+  "Israel": {
+    "type": "country",
+    "country": "Israel",
+    "lat": 31.5,
+    "lon": 34.75,
+    "radius_km": 60,
+    "keywords": [
+      "israel",
+      "medinat yisra'el",
+      "medīnat yisrā'el",
+      "state of israel"
+    ]
+  },
+  "Istanbul": {
+    "type": "city",
+    "country": "Turkey",
+    "lat": 41.0082,
+    "lon": 28.9784,
+    "radius_km": null,
+    "keywords": [
+      "istanbul",
+      "turkey"
+    ]
+  },
+  "Italy": {
+    "type": "country",
+    "country": "Italy",
+    "lat": 42.833333,
+    "lon": 12.833333,
+    "radius_km": 225,
+    "keywords": [
+      "italy",
+      "italian republic",
+      "repubblica italiana"
+    ]
+  },
+  "Ivory Coast": {
+    "type": "country",
+    "country": "Ivory Coast",
+    "lat": 8.0,
+    "lon": -5.0,
+    "radius_km": 250,
+    "keywords": [
+      "ivory coast",
+      "cote d'ivoire",
+      "côte d'ivoire",
+      "republic of cote d'ivoire",
+      "republic of côte d'ivoire",
+      "republique de cote d'ivoire",
+      "république de côte d'ivoire"
+    ]
+  },
+  "Jakarta": {
+    "type": "city",
+    "country": "Indonesia",
+    "lat": -6.2088,
+    "lon": 106.8456,
+    "radius_km": null,
+    "keywords": [
+      "jakarta",
+      "indonesia"
+    ]
+  },
+  "Jamaica": {
+    "type": "country",
+    "country": "Jamaica",
+    "lat": 18.25,
+    "lon": -77.5,
+    "radius_km": 60,
+    "keywords": [
+      "jamaica"
+    ]
+  },
+  "Japan": {
+    "type": "country",
+    "country": "Japan",
+    "lat": 36.0,
+    "lon": 138.0,
+    "radius_km": 250,
+    "keywords": [
+      "japan"
+    ]
+  },
+  "Jersey": {
+    "type": "country",
+    "country": "Jersey",
+    "lat": 49.25,
+    "lon": -2.166667,
+    "radius_km": 60,
+    "keywords": [
+      "jersey",
+      "bailiwick of jersey",
+      "bailliage de jerri",
+      "bailliage de jersey",
+      "bailliage dé jèrri",
+      "channel islander",
+      "saint helier"
+    ]
+  },
+  "Jerusalem": {
+    "type": "city",
+    "country": "Israel",
+    "lat": 31.7683,
+    "lon": 35.2137,
+    "radius_km": null,
+    "keywords": [
+      "jerusalem",
+      "israel"
+    ]
+  },
+  "Johannesburg": {
+    "type": "city",
+    "country": "South Africa",
+    "lat": -26.2041,
+    "lon": 28.0473,
+    "radius_km": null,
+    "keywords": [
+      "johannesburg",
+      "south africa"
+    ]
+  },
+  "Jordan": {
+    "type": "country",
+    "country": "Jordan",
+    "lat": 31.0,
+    "lon": 36.0,
+    "radius_km": 125,
+    "keywords": [
+      "jordan",
+      "al-mamlakah al-urduniyah al-hashimiyah",
+      "al-mamlakah al-urdunīyah al-hāshimīyah",
+      "hashemite kingdom of jordan"
+    ]
+  },
+  "Kabul": {
+    "type": "city",
+    "country": "Afghanistan",
+    "lat": 34.5553,
+    "lon": 69.2075,
+    "radius_km": null,
+    "keywords": [
+      "kabul",
+      "afghanistan"
+    ]
+  },
+  "Karachi": {
+    "type": "city",
+    "country": "Pakistan",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "radius_km": null,
+    "keywords": [
+      "karachi",
+      "pakistan"
+    ]
+  },
+  "Kashmir": {
+    "type": "region",
+    "country": "Multiple",
+    "lat": 34.0837,
+    "lon": 74.7973,
+    "radius_km": 250,
+    "keywords": [
+      "kashmir",
+      "jammu and kashmir"
+    ]
+  },
+  "Kazakhstan": {
+    "type": "country",
+    "country": "Kazakhstan",
+    "lat": 48.0,
+    "lon": 68.0,
+    "radius_km": 700,
+    "keywords": [
+      "kazakhstan",
+      "qazaqstan respublikası",
+      "qazaqstan respublïkası",
+      "republic of kazakhstan",
+      "respublika kazakhstan",
+      "республика казахстан",
+      "қазақстан республикасы"
+    ]
+  },
+  "Kenya": {
+    "type": "country",
+    "country": "Kenya",
+    "lat": 1.0,
+    "lon": 38.0,
+    "radius_km": 325,
+    "keywords": [
+      "kenya",
+      "jamhuri ya kenya",
+      "republic of kenya"
+    ]
+  },
+  "Khartoum": {
+    "type": "city",
+    "country": "Sudan",
+    "lat": 15.5007,
+    "lon": 32.5599,
+    "radius_km": null,
+    "keywords": [
+      "khartoum",
+      "sudan"
+    ]
+  },
+  "Kinshasa": {
+    "type": "city",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.4419,
+    "lon": 15.2663,
+    "radius_km": null,
+    "keywords": [
+      "kinshasa",
+      "democratic republic of the congo"
+    ]
+  },
+  "Kiribati": {
+    "type": "country",
+    "country": "Kiribati",
+    "lat": 1.416667,
+    "lon": 173.0,
+    "radius_km": 60,
+    "keywords": [
+      "kiribati",
+      "republic of kiribati",
+      "ribaberiki kiribati",
+      "south tarawa"
+    ]
+  },
+  "Korean Peninsula": {
+    "type": "region",
+    "country": "Multiple",
+    "lat": 37.5,
+    "lon": 127.8,
+    "radius_km": 450,
+    "keywords": [
+      "korean peninsula",
+      "north korea",
+      "south korea"
+    ]
+  },
+  "Kuwait": {
+    "type": "country",
+    "country": "Kuwait",
+    "lat": 29.5,
+    "lon": 45.75,
+    "radius_km": 60,
+    "keywords": [
+      "kuwait",
+      "dawlat al-kuwait",
+      "kuwait city",
+      "state of kuwait"
+    ]
+  },
+  "Kyiv": {
+    "type": "city",
+    "country": "Ukraine",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "radius_km": null,
+    "keywords": [
+      "kyiv",
+      "ukraine"
+    ]
+  },
+  "Kyrgyzstan": {
+    "type": "country",
+    "country": "Kyrgyzstan",
+    "lat": 41.0,
+    "lon": 75.0,
+    "radius_km": 200,
+    "keywords": [
+      "kyrgyzstan",
+      "kyrgyz republic",
+      "kyrgyz respublikasy",
+      "кыргыз республикасы"
+    ]
+  },
+  "Lagos": {
+    "type": "city",
+    "country": "Nigeria",
+    "lat": 6.5244,
+    "lon": 3.3792,
+    "radius_km": null,
+    "keywords": [
+      "lagos",
+      "nigeria"
+    ]
+  },
+  "Laos": {
+    "type": "country",
+    "country": "Laos",
+    "lat": 18.0,
+    "lon": 105.0,
+    "radius_km": 200,
+    "keywords": [
+      "laos",
+      "lao people's democratic republic",
+      "sathalanalat paxathipatai paxaxon lao"
+    ]
+  },
+  "Latvia": {
+    "type": "country",
+    "country": "Latvia",
+    "lat": 57.0,
+    "lon": 25.0,
+    "radius_km": 100,
+    "keywords": [
+      "latvia",
+      "latvijas republika",
+      "republic of latvia"
+    ]
+  },
+  "Lebanon": {
+    "type": "country",
+    "country": "Lebanon",
+    "lat": 33.833333,
+    "lon": 35.833333,
+    "radius_km": 60,
+    "keywords": [
+      "lebanon",
+      "al-jumhuriyah al-libnaniyah",
+      "al-jumhūrīyah al-libnānīyah",
+      "lebanese republic"
+    ]
+  },
+  "Lesotho": {
+    "type": "country",
+    "country": "Lesotho",
+    "lat": -29.5,
+    "lon": 28.5,
+    "radius_km": 75,
+    "keywords": [
+      "lesotho",
+      "kingdom of lesotho",
+      "muso oa lesotho"
+    ]
+  },
+  "Liberia": {
+    "type": "country",
+    "country": "Liberia",
+    "lat": 6.5,
+    "lon": -9.5,
+    "radius_km": 150,
+    "keywords": [
+      "liberia",
+      "republic of liberia"
+    ]
+  },
+  "Libya": {
+    "type": "country",
+    "country": "Libya",
+    "lat": 25.0,
+    "lon": 17.0,
+    "radius_km": 550,
+    "keywords": [
+      "libya",
+      "dawlat libya",
+      "state of libya"
+    ]
+  },
+  "Liechtenstein": {
+    "type": "country",
+    "country": "Liechtenstein",
+    "lat": 47.266667,
+    "lon": 9.533333,
+    "radius_km": 60,
+    "keywords": [
+      "liechtenstein",
+      "furstentum liechtenstein",
+      "fürstentum liechtenstein",
+      "principality of liechtenstein"
+    ]
+  },
+  "Lima": {
+    "type": "city",
+    "country": "Peru",
+    "lat": -12.0464,
+    "lon": -77.0428,
+    "radius_km": null,
+    "keywords": [
+      "lima",
+      "peru"
+    ]
+  },
+  "Lisbon": {
+    "type": "city",
+    "country": "Portugal",
+    "lat": 38.7223,
+    "lon": -9.1393,
+    "radius_km": null,
+    "keywords": [
+      "lisbon",
+      "portugal"
+    ]
+  },
+  "Lithuania": {
+    "type": "country",
+    "country": "Lithuania",
+    "lat": 56.0,
+    "lon": 24.0,
+    "radius_km": 100,
+    "keywords": [
+      "lithuania",
+      "lietuvos respublika",
+      "republic of lithuania"
+    ]
+  },
+  "London": {
+    "type": "city",
+    "country": "United Kingdom",
+    "lat": 51.5072,
+    "lon": -0.1276,
+    "radius_km": null,
+    "keywords": [
+      "london",
+      "united kingdom"
+    ]
+  },
+  "Los Angeles": {
+    "type": "city",
+    "country": "United States",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "radius_km": null,
+    "keywords": [
+      "los angeles",
+      "united states"
+    ]
+  },
+  "Luxembourg": {
+    "type": "country",
+    "country": "Luxembourg",
+    "lat": 49.75,
+    "lon": 6.166667,
+    "radius_km": 60,
+    "keywords": [
+      "luxembourg",
+      "grand duchy of luxembourg",
+      "grand-duche de luxembourg",
+      "grand-duché de luxembourg",
+      "groussherzogtum letzebuerg",
+      "groussherzogtum lëtzebuerg",
+      "großherzogtum luxemburg"
+    ]
+  },
+  "Macau": {
+    "type": "country",
+    "country": "Macau",
+    "lat": 22.166667,
+    "lon": 113.55,
+    "radius_km": 60,
+    "keywords": [
+      "macau",
+      "macao special administrative region of the people's republic of china",
+      "regiao administrativa especial de macau da republica popular da china",
+      "região administrativa especial de macau da república popular da china"
+    ]
+  },
+  "Madagascar": {
+    "type": "country",
+    "country": "Madagascar",
+    "lat": -20.0,
+    "lon": 47.0,
+    "radius_km": 325,
+    "keywords": [
+      "madagascar",
+      "repoblikan'i madagasikara",
+      "republic of madagascar",
+      "republique de madagascar",
+      "république de madagascar"
+    ]
+  },
+  "Madrid": {
+    "type": "city",
+    "country": "Spain",
+    "lat": 40.4168,
+    "lon": -3.7038,
+    "radius_km": null,
+    "keywords": [
+      "madrid",
+      "spain"
+    ]
+  },
+  "Malawi": {
+    "type": "country",
+    "country": "Malawi",
+    "lat": -13.5,
+    "lon": 34.0,
+    "radius_km": 150,
+    "keywords": [
+      "malawi",
+      "republic of malawi"
+    ]
+  },
+  "Malaysia": {
+    "type": "country",
+    "country": "Malaysia",
+    "lat": 2.5,
+    "lon": 112.5,
+    "radius_km": 250,
+    "keywords": [
+      "malaysia",
+      "kuala lumpur"
+    ]
+  },
+  "Maldives": {
+    "type": "country",
+    "country": "Maldives",
+    "lat": 3.25,
+    "lon": 73.0,
+    "radius_km": 60,
+    "keywords": [
+      "maldives",
+      "dhivehi raajjeyge jumhooriyya",
+      "maldive islands",
+      "republic of the maldives"
+    ]
+  },
+  "Mali": {
+    "type": "country",
+    "country": "Mali",
+    "lat": 17.0,
+    "lon": -4.0,
+    "radius_km": 475,
+    "keywords": [
+      "mali",
+      "republic of mali",
+      "republique du mali",
+      "république du mali"
+    ]
+  },
+  "Malta": {
+    "type": "country",
+    "country": "Malta",
+    "lat": 35.833333,
+    "lon": 14.583333,
+    "radius_km": 60,
+    "keywords": [
+      "malta",
+      "repubblika ta' malta",
+      "republic of malta"
+    ]
+  },
+  "Manila": {
+    "type": "city",
+    "country": "Philippines",
+    "lat": 14.5995,
+    "lon": 120.9842,
+    "radius_km": null,
+    "keywords": [
+      "manila",
+      "philippines"
+    ]
+  },
+  "Marshall Islands": {
+    "type": "country",
+    "country": "Marshall Islands",
+    "lat": 9.0,
+    "lon": 168.0,
+    "radius_km": 60,
+    "keywords": [
+      "marshall islands",
+      "aolepan aorokin majel",
+      "aolepān aorōkin m̧ajeļ",
+      "republic of the marshall islands"
+    ]
+  },
+  "Martinique": {
+    "type": "country",
+    "country": "Martinique",
+    "lat": 14.666667,
+    "lon": -61.0,
+    "radius_km": 400,
+    "keywords": [
+      "martinique"
+    ]
+  },
+  "Mauritania": {
+    "type": "country",
+    "country": "Mauritania",
+    "lat": 20.0,
+    "lon": -12.0,
+    "radius_km": 425,
+    "keywords": [
+      "mauritania",
+      "al-jumhuriyyah al-ʾislamiyyah al-muritaniyyah",
+      "al-jumhūriyyah al-ʾislāmiyyah al-mūrītāniyyah",
+      "islamic republic of mauritania"
+    ]
+  },
+  "Mauritius": {
+    "type": "country",
+    "country": "Mauritius",
+    "lat": -20.283333,
+    "lon": 57.55,
+    "radius_km": 60,
+    "keywords": [
+      "mauritius",
+      "port louis",
+      "republic of mauritius",
+      "republique de maurice",
+      "république de maurice"
+    ]
+  },
+  "Mayotte": {
+    "type": "country",
+    "country": "Mayotte",
+    "lat": -12.833333,
+    "lon": 45.166667,
+    "radius_km": 400,
+    "keywords": [
+      "mayotte",
+      "departement de mayotte",
+      "department of mayotte",
+      "département de mayotte"
+    ]
+  },
+  "Melbourne": {
+    "type": "city",
+    "country": "Australia",
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "radius_km": null,
+    "keywords": [
+      "melbourne",
+      "australia"
+    ]
+  },
+  "Mexico": {
+    "type": "country",
+    "country": "Mexico",
+    "lat": 23.0,
+    "lon": -102.0,
+    "radius_km": 600,
+    "keywords": [
+      "mexico",
+      "estados unidos mexicanos",
+      "mexico city",
+      "united mexican states"
+    ]
+  },
+  "Mexico City": {
+    "type": "city",
+    "country": "Mexico",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "radius_km": null,
+    "keywords": [
+      "mexico city",
+      "mexico"
+    ]
+  },
+  "Miami": {
+    "type": "city",
+    "country": "United States",
+    "lat": 25.7617,
+    "lon": -80.1918,
+    "radius_km": null,
+    "keywords": [
+      "miami",
+      "united states"
+    ]
+  },
+  "Mogadishu": {
+    "type": "city",
+    "country": "Somalia",
+    "lat": 2.0469,
+    "lon": 45.3182,
+    "radius_km": null,
+    "keywords": [
+      "mogadishu",
+      "somalia"
+    ]
+  },
+  "Moldova": {
+    "type": "country",
+    "country": "Moldova",
+    "lat": 47.0,
+    "lon": 29.0,
+    "radius_km": 75,
+    "keywords": [
+      "moldova",
+      "republic of moldova",
+      "republica moldova"
+    ]
+  },
+  "Monaco": {
+    "type": "country",
+    "country": "Monaco",
+    "lat": 43.733333,
+    "lon": 7.4,
+    "radius_km": 60,
+    "keywords": [
+      "monaco",
+      "principality of monaco",
+      "principaute de monaco",
+      "principauté de monaco"
+    ]
+  },
+  "Mongolia": {
+    "type": "country",
+    "country": "Mongolia",
+    "lat": 46.0,
+    "lon": 105.0,
+    "radius_km": 525,
+    "keywords": [
+      "mongolia",
+      "ulan bator",
+      "монгол улс"
+    ]
+  },
+  "Montreal": {
+    "type": "city",
+    "country": "Canada",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "radius_km": null,
+    "keywords": [
+      "montreal",
+      "canada"
+    ]
+  },
+  "Montserrat": {
+    "type": "country",
+    "country": "Montserrat",
+    "lat": 16.75,
+    "lon": -62.2,
+    "radius_km": 60,
+    "keywords": [
+      "montserrat"
+    ]
+  },
+  "Morocco": {
+    "type": "country",
+    "country": "Morocco",
+    "lat": 32.0,
+    "lon": -5.0,
+    "radius_km": 275,
+    "keywords": [
+      "morocco",
+      "al-mamlakah al-magribiyah",
+      "al-mamlakah al-maġribiyah",
+      "kingdom of morocco"
+    ]
+  },
+  "Moscow": {
+    "type": "city",
+    "country": "Russia",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "radius_km": null,
+    "keywords": [
+      "moscow",
+      "russia"
+    ]
+  },
+  "Mozambique": {
+    "type": "country",
+    "country": "Mozambique",
+    "lat": -18.25,
+    "lon": 35.0,
+    "radius_km": 375,
+    "keywords": [
+      "mozambique",
+      "republic of mozambique",
+      "republica de mocambique",
+      "república de moçambique"
+    ]
+  },
+  "Mumbai": {
+    "type": "city",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "radius_km": null,
+    "keywords": [
+      "mumbai",
+      "india"
+    ]
+  },
+  "Nairobi": {
+    "type": "city",
+    "country": "Kenya",
+    "lat": -1.2921,
+    "lon": 36.8219,
+    "radius_km": null,
+    "keywords": [
+      "nairobi",
+      "kenya"
+    ]
+  },
+  "Namibia": {
+    "type": "country",
+    "country": "Namibia",
+    "lat": -22.0,
+    "lon": 17.0,
+    "radius_km": 375,
+    "keywords": [
+      "namibia",
+      "republic of namibia"
+    ]
+  },
+  "Nauru": {
+    "type": "country",
+    "country": "Nauru",
+    "lat": -0.533333,
+    "lon": 166.916667,
+    "radius_km": 60,
+    "keywords": [
+      "nauru",
+      "pleasant island",
+      "republic of nauru",
+      "ripublik naoero"
+    ]
+  },
+  "Nepal": {
+    "type": "country",
+    "country": "Nepal",
+    "lat": 28.0,
+    "lon": 84.0,
+    "radius_km": 150,
+    "keywords": [
+      "nepal",
+      "federal democratic republic of nepal",
+      "loktantrik ganatantra nepal",
+      "loktāntrik ganatantra nepāl"
+    ]
+  },
+  "Netherlands": {
+    "type": "country",
+    "country": "Netherlands",
+    "lat": 52.5,
+    "lon": 5.75,
+    "radius_km": 75,
+    "keywords": [
+      "netherlands"
+    ]
+  },
+  "New Caledonia": {
+    "type": "country",
+    "country": "New Caledonia",
+    "lat": -21.5,
+    "lon": 165.5,
+    "radius_km": 60,
+    "keywords": [
+      "new caledonia",
+      "new caledonian"
+    ]
+  },
+  "New Delhi": {
+    "type": "city",
+    "country": "India",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "radius_km": null,
+    "keywords": [
+      "new delhi",
+      "india"
+    ]
+  },
+  "New Jersey": {
+    "type": "region",
+    "country": "United States",
+    "lat": 40.0583,
+    "lon": -74.4057,
+    "radius_km": 160,
+    "keywords": [
+      "new jersey",
+      "jersey city",
+      "united states"
+    ]
+  },
+  "New York City": {
+    "type": "city",
+    "country": "United States",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "radius_km": null,
+    "keywords": [
+      "new york city",
+      "new york",
+      "staten island",
+      "united states"
+    ]
+  },
+  "New York State": {
+    "type": "region",
+    "country": "United States",
+    "lat": 43.2994,
+    "lon": -74.2179,
+    "radius_km": 300,
+    "keywords": [
+      "new york state",
+      "long island",
+      "united states",
+      "upstate new york"
+    ]
+  },
+  "New Zealand": {
+    "type": "country",
+    "country": "New Zealand",
+    "lat": -41.0,
+    "lon": 174.0,
+    "radius_km": 225,
+    "keywords": [
+      "new zealand",
+      "new zealander"
+    ]
+  },
+  "Nicaragua": {
+    "type": "country",
+    "country": "Nicaragua",
+    "lat": 13.0,
+    "lon": -85.0,
+    "radius_km": 150,
+    "keywords": [
+      "nicaragua",
+      "republic of nicaragua",
+      "republica de nicaragua",
+      "república de nicaragua"
+    ]
+  },
+  "Niger": {
+    "type": "country",
+    "country": "Niger",
+    "lat": 16.0,
+    "lon": 8.0,
+    "radius_km": 475,
+    "keywords": [
+      "niger",
+      "republic of niger",
+      "republique du niger",
+      "république du niger"
+    ]
+  },
+  "Nigeria": {
+    "type": "country",
+    "country": "Nigeria",
+    "lat": 10.0,
+    "lon": 8.0,
+    "radius_km": 400,
+    "keywords": [
+      "nigeria",
+      "federal republic of nigeria"
+    ]
+  },
+  "Niue": {
+    "type": "country",
+    "country": "Niue",
+    "lat": -19.033333,
+    "lon": -169.866667,
+    "radius_km": 60,
+    "keywords": [
+      "niue"
+    ]
+  },
+  "Norfolk Island": {
+    "type": "country",
+    "country": "Norfolk Island",
+    "lat": -29.033333,
+    "lon": 167.95,
+    "radius_km": 60,
+    "keywords": [
+      "norfolk island",
+      "norfolk islander",
+      "teratri of norf'k ailen",
+      "territory of norfolk island"
+    ]
+  },
+  "North Korea": {
+    "type": "country",
+    "country": "North Korea",
+    "lat": 40.0,
+    "lon": 127.0,
+    "radius_km": 150,
+    "keywords": [
+      "north korea",
+      "choson minjujuui inmin konghwaguk",
+      "chosŏn minjujuŭi inmin konghwaguk",
+      "democratic people's republic of korea",
+      "north korean"
+    ]
+  },
+  "Northern Mariana Islands": {
+    "type": "country",
+    "country": "Northern Mariana Islands",
+    "lat": 15.2,
+    "lon": 145.75,
+    "radius_km": 60,
+    "keywords": [
+      "northern mariana islands",
+      "commonwealth of the northern mariana islands",
+      "sankattan siha na islas marianas",
+      "sankattan siha na islas mariånas"
+    ]
+  },
+  "Norway": {
+    "type": "country",
+    "country": "Norway",
+    "lat": 62.0,
+    "lon": 10.0,
+    "radius_km": 250,
+    "keywords": [
+      "norway",
+      "kingdom of norway",
+      "kongeriket noreg",
+      "kongeriket norge"
+    ]
+  },
+  "Oman": {
+    "type": "country",
+    "country": "Oman",
+    "lat": 21.0,
+    "lon": 57.0,
+    "radius_km": 225,
+    "keywords": [
+      "oman",
+      "saltanat ʻuman",
+      "salṭanat ʻumān",
+      "sultanate of oman"
+    ]
+  },
+  "Oslo": {
+    "type": "city",
+    "country": "Norway",
+    "lat": 59.9139,
+    "lon": 10.7522,
+    "radius_km": null,
+    "keywords": [
+      "oslo",
+      "norway"
+    ]
+  },
+  "Ottawa": {
+    "type": "city",
+    "country": "Canada",
+    "lat": 45.4215,
+    "lon": -75.6972,
+    "radius_km": null,
+    "keywords": [
+      "ottawa",
+      "canada"
+    ]
+  },
+  "Pakistan": {
+    "type": "country",
+    "country": "Pakistan",
+    "lat": 30.0,
+    "lon": 70.0,
+    "radius_km": 400,
+    "keywords": [
+      "pakistan",
+      "islami jumhuriya'eh pakistan",
+      "islamic republic of pakistan",
+      "islāmī jumhūriya'eh pākistān"
+    ]
+  },
+  "Palau": {
+    "type": "country",
+    "country": "Palau",
+    "lat": 7.5,
+    "lon": 134.5,
+    "radius_km": 60,
+    "keywords": [
+      "palau",
+      "beluu er a belau",
+      "republic of palau"
+    ]
+  },
+  "Panama": {
+    "type": "country",
+    "country": "Panama",
+    "lat": 9.0,
+    "lon": -80.0,
+    "radius_km": 125,
+    "keywords": [
+      "panama",
+      "panama city",
+      "republic of panama",
+      "republica de panama",
+      "república de panamá"
+    ]
+  },
+  "Papua New Guinea": {
+    "type": "country",
+    "country": "Papua New Guinea",
+    "lat": -6.0,
+    "lon": 147.0,
+    "radius_km": 300,
+    "keywords": [
+      "papua new guinea",
+      "independen stet bilong papua niugini",
+      "independent state of papua new guinea",
+      "papua new guinean",
+      "papua niugini",
+      "port moresby"
+    ]
+  },
+  "Paraguay": {
+    "type": "country",
+    "country": "Paraguay",
+    "lat": -23.0,
+    "lon": -58.0,
+    "radius_km": 275,
+    "keywords": [
+      "paraguay",
+      "republic of paraguay",
+      "republica del paraguay",
+      "república del paraguay",
+      "teta paraguai",
+      "tetã paraguái"
+    ]
+  },
+  "Paris": {
+    "type": "city",
+    "country": "France",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "radius_km": null,
+    "keywords": [
+      "paris",
+      "france"
+    ]
+  },
+  "Peru": {
+    "type": "country",
+    "country": "Peru",
+    "lat": -10.0,
+    "lon": -76.0,
+    "radius_km": 475,
+    "keywords": [
+      "peru",
+      "republic of peru",
+      "republica del peru",
+      "república del perú"
+    ]
+  },
+  "Philippines": {
+    "type": "country",
+    "country": "Philippines",
+    "lat": 13.0,
+    "lon": 122.0,
+    "radius_km": 250,
+    "keywords": [
+      "philippines",
+      "republic of the philippines",
+      "republika ng pilipinas",
+      "repúblika ng pilipinas"
+    ]
+  },
+  "Pitcairn Islands": {
+    "type": "country",
+    "country": "Pitcairn Islands",
+    "lat": -25.066667,
+    "lon": -130.1,
+    "radius_km": 60,
+    "keywords": [
+      "pitcairn islands",
+      "pitcairn henderson ducie and oeno islands",
+      "pitcairn islander"
+    ]
+  },
+  "Poland": {
+    "type": "country",
+    "country": "Poland",
+    "lat": 52.0,
+    "lon": 20.0,
+    "radius_km": 225,
+    "keywords": [
+      "poland",
+      "republic of poland",
+      "rzeczpospolita polska"
+    ]
+  },
+  "Port-au-Prince": {
+    "type": "city",
+    "country": "Haiti",
+    "lat": 18.5944,
+    "lon": -72.3074,
+    "radius_km": null,
+    "keywords": [
+      "port-au-prince",
+      "haiti",
+      "port au prince"
+    ]
+  },
+  "Portugal": {
+    "type": "country",
+    "country": "Portugal",
+    "lat": 39.5,
+    "lon": -8.0,
+    "radius_km": 125,
+    "keywords": [
+      "portugal",
+      "portuguese republic",
+      "republica portuguesa",
+      "república portuguesa"
+    ]
+  },
+  "Puerto Rico": {
+    "type": "country",
+    "country": "Puerto Rico",
+    "lat": 18.25,
+    "lon": -66.5,
+    "radius_km": 60,
+    "keywords": [
+      "puerto rico",
+      "commonwealth of puerto rico",
+      "estado libre asociado de puerto rico",
+      "puerto rican",
+      "san juan"
+    ]
+  },
+  "Pyongyang": {
+    "type": "city",
+    "country": "North Korea",
+    "lat": 39.0392,
+    "lon": 125.7625,
+    "radius_km": null,
+    "keywords": [
+      "pyongyang",
+      "north korea"
+    ]
+  },
+  "Qatar": {
+    "type": "country",
+    "country": "Qatar",
+    "lat": 25.5,
+    "lon": 51.25,
+    "radius_km": 60,
+    "keywords": [
+      "qatar",
+      "dawlat qatar",
+      "dawlat qaṭar",
+      "state of qatar"
+    ]
+  },
+  "Quito": {
+    "type": "city",
+    "country": "Ecuador",
+    "lat": -0.1807,
+    "lon": -78.4678,
+    "radius_km": null,
+    "keywords": [
+      "quito",
+      "ecuador"
+    ]
+  },
+  "Rafah": {
+    "type": "city",
+    "country": "Palestine",
+    "lat": 31.2969,
+    "lon": 34.2435,
+    "radius_km": null,
+    "keywords": [
+      "rafah",
+      "palestine"
+    ]
+  },
+  "Red Sea": {
+    "type": "region",
+    "country": "Multiple",
+    "lat": 20.0,
+    "lon": 38.0,
+    "radius_km": 900,
+    "keywords": [
+      "bab al-mandab",
+      "bab el-mandeb"
+    ]
+  },
+  "Republic of Macedonia": {
+    "type": "country",
+    "country": "Republic of Macedonia",
+    "lat": 41.833333,
+    "lon": 22.0,
+    "radius_km": 75,
+    "keywords": [
+      "republic of macedonia",
+      "република македонија"
+    ]
+  },
+  "Republic of the Congo": {
+    "type": "country",
+    "country": "Republic of the Congo",
+    "lat": -1.0,
+    "lon": 15.0,
+    "radius_km": 250,
+    "keywords": [
+      "republic of the congo",
+      "republique du congo",
+      "république du congo"
+    ]
+  },
+  "Rio de Janeiro": {
+    "type": "city",
+    "country": "Brazil",
+    "lat": -22.9068,
+    "lon": -43.1729,
+    "radius_km": null,
+    "keywords": [
+      "rio de janeiro",
+      "brazil"
+    ]
+  },
+  "Riyadh": {
+    "type": "city",
+    "country": "Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "radius_km": null,
+    "keywords": [
+      "riyadh",
+      "saudi arabia"
+    ]
+  },
+  "Romania": {
+    "type": "country",
+    "country": "Romania",
+    "lat": 46.0,
+    "lon": 25.0,
+    "radius_km": 200,
+    "keywords": [
+      "romania"
+    ]
+  },
+  "Rome": {
+    "type": "city",
+    "country": "Italy",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "keywords": [
+      "rome",
+      "italy"
+    ]
+  },
+  "Russia": {
+    "type": "country",
+    "country": "Russia",
+    "lat": 60.0,
+    "lon": 100.0,
+    "radius_km": 1300,
+    "keywords": [
+      "russia",
+      "rossiyskaya federatsiya",
+      "russian federation",
+      "россииская федерация",
+      "российская федерация"
+    ]
+  },
+  "Rwanda": {
+    "type": "country",
+    "country": "Rwanda",
+    "lat": -2.0,
+    "lon": 30.0,
+    "radius_km": 75,
+    "keywords": [
+      "rwanda",
+      "republic of rwanda",
+      "republique du rwanda",
+      "repubulika y'u rwanda",
+      "république du rwanda"
+    ]
+  },
+  "Réunion": {
+    "type": "country",
+    "country": "Réunion",
+    "lat": -21.15,
+    "lon": 55.5,
+    "radius_km": 400,
+    "keywords": [
+      "réunion",
+      "la reunion",
+      "la réunion"
+    ]
+  },
+  "Sahel": {
+    "type": "region",
+    "country": "Multiple",
+    "lat": 15.0,
+    "lon": 0.0,
+    "radius_km": 1500,
+    "keywords": [
+      "sahel",
+      "burkina faso"
+    ]
+  },
+  "Saint Helena": {
+    "type": "country",
+    "country": "Saint Helena",
+    "lat": -15.95,
+    "lon": -5.7,
+    "radius_km": 400,
+    "keywords": [
+      "saint helena",
+      "saint helenian"
+    ]
+  },
+  "Saint Kitts and Nevis": {
+    "type": "country",
+    "country": "Saint Kitts and Nevis",
+    "lat": 17.333333,
+    "lon": -62.75,
+    "radius_km": 60,
+    "keywords": [
+      "saint kitts and nevis",
+      "federation of saint christopher and nevis",
+      "kittian and nevisian"
+    ]
+  },
+  "Saint Lucia": {
+    "type": "country",
+    "country": "Saint Lucia",
+    "lat": 13.883333,
+    "lon": -60.966667,
+    "radius_km": 60,
+    "keywords": [
+      "saint lucia",
+      "saint lucian"
+    ]
+  },
+  "Saint Pierre and Miquelon": {
+    "type": "country",
+    "country": "Saint Pierre and Miquelon",
+    "lat": 46.833333,
+    "lon": -56.333333,
+    "radius_km": 60,
+    "keywords": [
+      "saint pierre and miquelon",
+      "collectivite territoriale de saint-pierre-et-miquelon",
+      "collectivité territoriale de saint-pierre-et-miquelon"
+    ]
+  },
+  "Saint Vincent and the Grenadines": {
+    "type": "country",
+    "country": "Saint Vincent and the Grenadines",
+    "lat": 13.25,
+    "lon": -61.2,
+    "radius_km": 60,
+    "keywords": [
+      "saint vincent and the grenadines",
+      "saint vincentian"
+    ]
+  },
+  "Samoa": {
+    "type": "country",
+    "country": "Samoa",
+    "lat": -13.583333,
+    "lon": -172.333333,
+    "radius_km": 60,
+    "keywords": [
+      "samoa",
+      "independent state of samoa",
+      "malo saʻoloto tutoʻatasi o samoa",
+      "malo saʻoloto tutoʻatasi o sāmoa"
+    ]
+  },
+  "San Francisco": {
+    "type": "city",
+    "country": "United States",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "radius_km": null,
+    "keywords": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  "San Marino": {
+    "type": "country",
+    "country": "San Marino",
+    "lat": 43.766667,
+    "lon": 12.416667,
+    "radius_km": 60,
+    "keywords": [
+      "san marino",
+      "city of san marino",
+      "repubblica di san marino",
+      "republic of san marino"
+    ]
+  },
+  "Santiago": {
+    "type": "city",
+    "country": "Chile",
+    "lat": -33.4489,
+    "lon": -70.6693,
+    "radius_km": null,
+    "keywords": [
+      "santiago",
+      "chile",
+      "santiago de chile"
+    ]
+  },
+  "Saudi Arabia": {
+    "type": "country",
+    "country": "Saudi Arabia",
+    "lat": 25.0,
+    "lon": 45.0,
+    "radius_km": 625,
+    "keywords": [
+      "saudi arabia",
+      "al-mamlakah al-‘arabiyyah as-su‘udiyyah",
+      "al-mamlakah al-‘arabiyyah as-su‘ūdiyyah",
+      "kingdom of saudi arabia",
+      "saudi arabian",
+      "العربية السعودية"
+    ]
+  },
+  "Seattle": {
+    "type": "city",
+    "country": "United States",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "radius_km": null,
+    "keywords": [
+      "seattle",
+      "united states"
+    ]
+  },
+  "Senegal": {
+    "type": "country",
+    "country": "Senegal",
+    "lat": 14.0,
+    "lon": -14.0,
+    "radius_km": 200,
+    "keywords": [
+      "senegal",
+      "republic of senegal",
+      "republique du senegal",
+      "république du sénégal"
+    ]
+  },
+  "Seoul": {
+    "type": "city",
+    "country": "South Korea",
+    "lat": 37.5665,
+    "lon": 126.978,
+    "radius_km": null,
+    "keywords": [
+      "seoul",
+      "south korea"
+    ]
+  },
+  "Serbia": {
+    "type": "country",
+    "country": "Serbia",
+    "lat": 44.130502,
+    "lon": 16.428418,
+    "radius_km": 100,
+    "keywords": [
+      "serbia",
+      "republic of serbia",
+      "republika srbija"
+    ]
+  },
+  "Seychelles": {
+    "type": "country",
+    "country": "Seychelles",
+    "lat": -4.583333,
+    "lon": 55.666667,
+    "radius_km": 60,
+    "keywords": [
+      "seychelles",
+      "repiblik sesel",
+      "republic of seychelles",
+      "republique des seychelles",
+      "république des seychelles"
+    ]
+  },
+  "Shanghai": {
+    "type": "city",
+    "country": "China",
+    "lat": 31.2304,
+    "lon": 121.4737,
+    "radius_km": null,
+    "keywords": [
+      "shanghai",
+      "china"
+    ]
+  },
+  "Sierra Leone": {
+    "type": "country",
+    "country": "Sierra Leone",
+    "lat": 8.5,
+    "lon": -11.5,
+    "radius_km": 125,
+    "keywords": [
+      "sierra leone",
+      "republic of sierra leone",
+      "sierra leonean"
+    ]
+  },
+  "Singapore": {
+    "type": "country",
+    "country": "Singapore",
+    "lat": 1.366667,
+    "lon": 103.8,
+    "radius_km": 60,
+    "keywords": [
+      "singapore",
+      "republik singapura"
+    ]
+  },
+  "Singapore City": {
+    "type": "city",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198,
+    "radius_km": null,
+    "keywords": [
+      "singapore city",
+      "singapore"
+    ]
+  },
+  "Slovakia": {
+    "type": "country",
+    "country": "Slovakia",
+    "lat": 48.666667,
+    "lon": 19.5,
+    "radius_km": 100,
+    "keywords": [
+      "slovakia",
+      "slovak republic",
+      "slovenska republika",
+      "slovenská republika"
+    ]
+  },
+  "Slovenia": {
+    "type": "country",
+    "country": "Slovenia",
+    "lat": 46.116667,
+    "lon": 14.816667,
+    "radius_km": 60,
+    "keywords": [
+      "slovenia",
+      "republic of slovenia",
+      "republika slovenija"
+    ]
+  },
+  "Solomon Islands": {
+    "type": "country",
+    "country": "Solomon Islands",
+    "lat": -8.0,
+    "lon": 159.0,
+    "radius_km": 75,
+    "keywords": [
+      "solomon islands",
+      "solomon islander"
+    ]
+  },
+  "Somalia": {
+    "type": "country",
+    "country": "Somalia",
+    "lat": 10.0,
+    "lon": 49.0,
+    "radius_km": 350,
+    "keywords": [
+      "somalia",
+      "federal republic of somalia",
+      "jamhuuriyadda federaalka soomaaliya",
+      "jumhuriyyat as-sumal al-fideraliyya",
+      "jumhūriyyat aṣ-ṣūmāl al-fiderāliyya"
+    ]
+  },
+  "South Africa": {
+    "type": "country",
+    "country": "South Africa",
+    "lat": -29.0,
+    "lon": 24.0,
+    "radius_km": 475,
+    "keywords": [
+      "south africa",
+      "republic of south africa",
+      "south african"
+    ]
+  },
+  "South China Sea": {
+    "type": "region",
+    "country": "Multiple",
+    "lat": 12.0,
+    "lon": 114.0,
+    "radius_km": 800,
+    "keywords": [
+      "south china sea",
+      "paracel islands",
+      "spratly islands"
+    ]
+  },
+  "South Georgia": {
+    "type": "country",
+    "country": "South Georgia",
+    "lat": -54.5,
+    "lon": -37.0,
+    "radius_km": 400,
+    "keywords": [
+      "south georgia",
+      "king edward point",
+      "south georgia and the south sandwich islander",
+      "south georgia and the south sandwich islands"
+    ]
+  },
+  "South Korea": {
+    "type": "country",
+    "country": "South Korea",
+    "lat": 37.0,
+    "lon": 127.5,
+    "radius_km": 125,
+    "keywords": [
+      "south korea",
+      "republic of korea",
+      "south korean"
+    ]
+  },
+  "South Sudan": {
+    "type": "country",
+    "country": "South Sudan",
+    "lat": 7.0,
+    "lon": 30.0,
+    "radius_km": 325,
+    "keywords": [
+      "south sudan",
+      "south sudanese"
+    ]
+  },
+  "Spain": {
+    "type": "country",
+    "country": "Spain",
+    "lat": 40.0,
+    "lon": -4.0,
+    "radius_km": 300,
+    "keywords": [
+      "spain",
+      "kingdom of spain",
+      "reino de espana",
+      "reino de españa"
+    ]
+  },
+  "Sri Lanka": {
+    "type": "country",
+    "country": "Sri Lanka",
+    "lat": 7.0,
+    "lon": 81.0,
+    "radius_km": 100,
+    "keywords": [
+      "sri lanka",
+      "democratic socialist republic of sri lanka",
+      "sri lamkava",
+      "sri lankan",
+      "śrī laṃkāva"
+    ]
+  },
+  "Stockholm": {
+    "type": "city",
+    "country": "Sweden",
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "radius_km": null,
+    "keywords": [
+      "stockholm",
+      "sweden"
+    ]
+  },
+  "Sudan": {
+    "type": "country",
+    "country": "Sudan",
+    "lat": 12.8628,
+    "lon": 30.2176,
+    "radius_km": 700,
+    "keywords": [
+      "sudan",
+      "jumhuriyat as-sudan",
+      "jumhūrīyat as-sūdān",
+      "republic of the sudan"
+    ]
+  },
+  "Suriname": {
+    "type": "country",
+    "country": "Suriname",
+    "lat": 4.0,
+    "lon": -56.0,
+    "radius_km": 175,
+    "keywords": [
+      "suriname",
+      "republic of suriname",
+      "republiek suriname"
+    ]
+  },
+  "Svalbard and Jan Mayen": {
+    "type": "country",
+    "country": "Svalbard and Jan Mayen",
+    "lat": 78.0,
+    "lon": 20.0,
+    "radius_km": 400,
+    "keywords": [
+      "svalbard and jan mayen",
+      "svalbard and jan mayen islands",
+      "svalbard og jan mayen"
+    ]
+  },
+  "Swaziland": {
+    "type": "country",
+    "country": "Swaziland",
+    "lat": -26.5,
+    "lon": 31.5,
+    "radius_km": 60,
+    "keywords": [
+      "swaziland",
+      "kingdom of swaziland",
+      "umbuso waseswatini"
+    ]
+  },
+  "Sweden": {
+    "type": "country",
+    "country": "Sweden",
+    "lat": 62.0,
+    "lon": 15.0,
+    "radius_km": 275,
+    "keywords": [
+      "sweden",
+      "kingdom of sweden",
+      "konungariket sverige"
+    ]
+  },
+  "Switzerland": {
+    "type": "country",
+    "country": "Switzerland",
+    "lat": 47.0,
+    "lon": 8.0,
+    "radius_km": 75,
+    "keywords": [
+      "switzerland",
+      "swiss confederation"
+    ]
+  },
+  "Sydney": {
+    "type": "city",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "radius_km": null,
+    "keywords": [
+      "sydney",
+      "australia"
+    ]
+  },
+  "Syria": {
+    "type": "country",
+    "country": "Syria",
+    "lat": 35.0,
+    "lon": 38.0,
+    "radius_km": 175,
+    "keywords": [
+      "syria",
+      "al-jumhuriyah al-ʻarabiyah as-suriyah",
+      "al-jumhūrīyah al-ʻarabīyah as-sūrīyah",
+      "syrian arab republic"
+    ]
+  },
+  "São Paulo": {
+    "type": "city",
+    "country": "Brazil",
+    "lat": -23.5558,
+    "lon": -46.6396,
+    "radius_km": null,
+    "keywords": [
+      "são paulo",
+      "brazil",
+      "sao paulo"
+    ]
+  },
+  "São Tomé and Príncipe": {
+    "type": "country",
+    "country": "São Tomé and Príncipe",
+    "lat": 1.0,
+    "lon": 7.0,
+    "radius_km": 60,
+    "keywords": [
+      "são tomé and príncipe",
+      "democratic republic of sao tome and principe",
+      "democratic republic of são tomé and príncipe",
+      "republica democratica de sao tome e principe",
+      "república democrática de são tomé e príncipe",
+      "sao tome",
+      "sao tome and principe",
+      "sao tome e principe",
+      "sao tomean",
+      "são tomé",
+      "são tomé e príncipe"
+    ]
+  },
+  "Taipei": {
+    "type": "city",
+    "country": "Taiwan",
+    "lat": 25.033,
+    "lon": 121.5654,
+    "radius_km": null,
+    "keywords": [
+      "taipei",
+      "taiwan"
+    ]
+  },
+  "Taiwan": {
+    "type": "country",
+    "country": "Taiwan",
+    "lat": 23.5,
+    "lon": 121.0,
+    "radius_km": 75,
+    "keywords": [
+      "taiwan",
+      "republic of china",
+      "zhonghua minguo",
+      "zhōnghuá mínguó"
+    ]
+  },
+  "Taiwan Strait": {
+    "type": "region",
+    "country": "Taiwan",
+    "lat": 24.0,
+    "lon": 119.0,
+    "radius_km": 250,
+    "keywords": [
+      "taiwan strait",
+      "taiwan"
+    ]
+  },
+  "Tajikistan": {
+    "type": "country",
+    "country": "Tajikistan",
+    "lat": 39.0,
+    "lon": 71.0,
+    "radius_km": 150,
+    "keywords": [
+      "tajikistan",
+      "cumhuriyi tocikiston",
+      "republic of tajikistan",
+      "çumhuriyi toçikiston",
+      "ҷумҳурии тоҷикистон"
+    ]
+  },
+  "Tanzania": {
+    "type": "country",
+    "country": "Tanzania",
+    "lat": -6.0,
+    "lon": 35.0,
+    "radius_km": 400,
+    "keywords": [
+      "tanzania",
+      "jamhuri ya muungano wa tanzania",
+      "united republic of tanzania"
+    ]
+  },
+  "Tehran": {
+    "type": "city",
+    "country": "Iran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "radius_km": null,
+    "keywords": [
+      "tehran",
+      "iran"
+    ]
+  },
+  "Tel Aviv": {
+    "type": "city",
+    "country": "Israel",
+    "lat": 32.0853,
+    "lon": 34.7818,
+    "radius_km": null,
+    "keywords": [
+      "tel aviv",
+      "israel"
+    ]
+  },
+  "Texas": {
+    "type": "region",
+    "country": "United States",
+    "lat": 31.9686,
+    "lon": -99.9018,
+    "radius_km": 500,
+    "keywords": [
+      "texas",
+      "san antonio",
+      "united states"
+    ]
+  },
+  "Thailand": {
+    "type": "country",
+    "country": "Thailand",
+    "lat": 15.0,
+    "lon": 100.0,
+    "radius_km": 300,
+    "keywords": [
+      "thailand",
+      "kingdom of thailand",
+      "ratcha anachak thai"
+    ]
+  },
+  "The Bahamas": {
+    "type": "country",
+    "country": "The Bahamas",
+    "lat": 24.25,
+    "lon": -76.0,
+    "radius_km": 60,
+    "keywords": [
+      "the bahamas",
+      "commonwealth of the bahamas"
+    ]
+  },
+  "The Gambia": {
+    "type": "country",
+    "country": "The Gambia",
+    "lat": 13.466667,
+    "lon": -16.566667,
+    "radius_km": 60,
+    "keywords": [
+      "the gambia",
+      "republic of the gambia"
+    ]
+  },
+  "Togo": {
+    "type": "country",
+    "country": "Togo",
+    "lat": 8.0,
+    "lon": 1.166667,
+    "radius_km": 100,
+    "keywords": [
+      "togo",
+      "republique togolaise",
+      "république togolaise",
+      "togolese republic"
+    ]
+  },
+  "Tokelau": {
+    "type": "country",
+    "country": "Tokelau",
+    "lat": -9.0,
+    "lon": -172.0,
+    "radius_km": 60,
+    "keywords": [
+      "tokelau"
+    ]
+  },
+  "Tokyo": {
+    "type": "city",
+    "country": "Japan",
+    "lat": 35.6762,
+    "lon": 139.6503,
+    "radius_km": null,
+    "keywords": [
+      "tokyo",
+      "japan"
+    ]
+  },
+  "Tonga": {
+    "type": "country",
+    "country": "Tonga",
+    "lat": -20.0,
+    "lon": -175.0,
+    "radius_km": 60,
+    "keywords": [
+      "tonga"
+    ]
+  },
+  "Toronto": {
+    "type": "city",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "radius_km": null,
+    "keywords": [
+      "toronto",
+      "canada"
+    ]
+  },
+  "Trinidad and Tobago": {
+    "type": "country",
+    "country": "Trinidad and Tobago",
+    "lat": 11.0,
+    "lon": -61.0,
+    "radius_km": 60,
+    "keywords": [
+      "trinidad and tobago",
+      "port of spain",
+      "republic of trinidad and tobago"
+    ]
+  },
+  "Tunisia": {
+    "type": "country",
+    "country": "Tunisia",
+    "lat": 34.0,
+    "lon": 9.0,
+    "radius_km": 175,
+    "keywords": [
+      "tunisia",
+      "al-jumhuriyyah at-tunisiyyah",
+      "al-jumhūriyyah at-tūnisiyyah",
+      "republic of tunisia"
+    ]
+  },
+  "Turkey": {
+    "type": "country",
+    "country": "Turkey",
+    "lat": 39.0,
+    "lon": 35.0,
+    "radius_km": 375,
+    "keywords": [
+      "turkey",
+      "republic of turkey",
+      "turkiye cumhuriyeti",
+      "türkiye cumhuriyeti"
+    ]
+  },
+  "Turkmenistan": {
+    "type": "country",
+    "country": "Turkmenistan",
+    "lat": 40.0,
+    "lon": 60.0,
+    "radius_km": 300,
+    "keywords": [
+      "turkmenistan"
+    ]
+  },
+  "Tuvalu": {
+    "type": "country",
+    "country": "Tuvalu",
+    "lat": -8.0,
+    "lon": 178.0,
+    "radius_km": 60,
+    "keywords": [
+      "tuvalu"
+    ]
+  },
+  "Uganda": {
+    "type": "country",
+    "country": "Uganda",
+    "lat": 1.0,
+    "lon": 32.0,
+    "radius_km": 200,
+    "keywords": [
+      "uganda",
+      "jamhuri ya uganda",
+      "republic of uganda"
+    ]
+  },
+  "Ukraine": {
+    "type": "country",
+    "country": "Ukraine",
+    "lat": 49.0,
+    "lon": 32.0,
+    "radius_km": 325,
+    "keywords": [
+      "ukraine"
+    ]
+  },
+  "Ukraine Eastern Front": {
+    "type": "region",
+    "country": "Ukraine",
+    "lat": 48.3794,
+    "lon": 37.8029,
+    "radius_km": 250,
+    "keywords": [
+      "ukraine eastern front",
+      "eastern ukraine",
+      "ukraine"
+    ]
+  },
+  "United Arab Emirates": {
+    "type": "country",
+    "country": "United Arab Emirates",
+    "lat": 24.0,
+    "lon": 54.0,
+    "radius_km": 125,
+    "keywords": [
+      "united arab emirates",
+      "abu dhabi",
+      "دولة الإمارات العربية المتحدة",
+      "دولة الامارات العربية المتحدة"
+    ]
+  },
+  "United Kingdom": {
+    "type": "country",
+    "country": "United Kingdom",
+    "lat": 54.0,
+    "lon": -2.0,
+    "radius_km": 200,
+    "keywords": [
+      "united kingdom",
+      "great britain"
+    ]
+  },
+  "United States": {
+    "type": "country",
+    "country": "United States",
+    "lat": 38.0,
+    "lon": -97.0,
+    "radius_km": 1300,
+    "keywords": [
+      "united states",
+      "united states of america",
+      "washington d.c."
+    ]
+  },
+  "Uruguay": {
+    "type": "country",
+    "country": "Uruguay",
+    "lat": -33.0,
+    "lon": -56.0,
+    "radius_km": 175,
+    "keywords": [
+      "uruguay",
+      "oriental republic of uruguay",
+      "republica oriental del uruguay",
+      "república oriental del uruguay"
+    ]
+  },
+  "Uzbekistan": {
+    "type": "country",
+    "country": "Uzbekistan",
+    "lat": 41.0,
+    "lon": 64.0,
+    "radius_km": 275,
+    "keywords": [
+      "uzbekistan",
+      "o‘zbekiston respublikasi",
+      "republic of uzbekistan",
+      "узбекистон республикаси",
+      "ўзбекистон республикаси"
+    ]
+  },
+  "Vancouver": {
+    "type": "city",
+    "country": "Canada",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "radius_km": null,
+    "keywords": [
+      "vancouver",
+      "canada"
+    ]
+  },
+  "Vanuatu": {
+    "type": "country",
+    "country": "Vanuatu",
+    "lat": -16.0,
+    "lon": 167.0,
+    "radius_km": 60,
+    "keywords": [
+      "vanuatu",
+      "port vila",
+      "republic of vanuatu",
+      "republique de vanuatu",
+      "ripablik blong vanuatu",
+      "république de vanuatu"
+    ]
+  },
+  "Venezuela": {
+    "type": "country",
+    "country": "Venezuela",
+    "lat": 8.0,
+    "lon": -66.0,
+    "radius_km": 400,
+    "keywords": [
+      "venezuela",
+      "bolivarian republic of venezuela",
+      "republica bolivariana de venezuela",
+      "república bolivariana de venezuela"
+    ]
+  },
+  "Vienna": {
+    "type": "city",
+    "country": "Austria",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "radius_km": null,
+    "keywords": [
+      "vienna",
+      "austria"
+    ]
+  },
+  "Vietnam": {
+    "type": "country",
+    "country": "Vietnam",
+    "lat": 16.166667,
+    "lon": 107.833333,
+    "radius_km": 250,
+    "keywords": [
+      "vietnam",
+      "cong hoa xa hoi chu nghia viet nam",
+      "cộng hòa xã hội chủ nghĩa việt nam",
+      "socialist republic of vietnam",
+      "viet nam",
+      "việt nam"
+    ]
+  },
+  "Wallis and Futuna": {
+    "type": "country",
+    "country": "Wallis and Futuna",
+    "lat": -13.3,
+    "lon": -176.2,
+    "radius_km": 60,
+    "keywords": [
+      "wallis and futuna",
+      "territoire des iles wallis et futuna",
+      "territoire des îles wallis et futuna",
+      "territory of the wallis and futuna islands",
+      "wallis and futuna islander",
+      "wallis et futuna"
+    ]
+  },
+  "Warsaw": {
+    "type": "city",
+    "country": "Poland",
+    "lat": 52.2297,
+    "lon": 21.0122,
+    "radius_km": null,
+    "keywords": [
+      "warsaw",
+      "poland"
+    ]
+  },
+  "Washington DC": {
+    "type": "city",
+    "country": "United States",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "radius_km": null,
+    "keywords": [
+      "washington dc",
+      "united states",
+      "washington d.c.",
+      "washington, dc"
+    ]
+  },
+  "Wellington": {
+    "type": "city",
+    "country": "New Zealand",
+    "lat": -41.2865,
+    "lon": 174.7762,
+    "radius_km": null,
+    "keywords": [
+      "wellington",
+      "new zealand"
+    ]
+  },
+  "West Bank": {
+    "type": "region",
+    "country": "Palestine",
+    "lat": 31.9466,
+    "lon": 35.3027,
+    "radius_km": 90,
+    "keywords": [
+      "west bank",
+      "palestine"
+    ]
+  },
+  "Western Sahara": {
+    "type": "country",
+    "country": "Western Sahara",
+    "lat": 24.5,
+    "lon": -13.0,
+    "radius_km": 225,
+    "keywords": [
+      "western sahara",
+      "el aaiun",
+      "el aaiún",
+      "tanezroft tutrimt",
+      "taneẓroft tutrimt",
+      "الصحراء الغربية"
+    ]
+  },
+  "Yemen": {
+    "type": "country",
+    "country": "Yemen",
+    "lat": 15.0,
+    "lon": 48.0,
+    "radius_km": 300,
+    "keywords": [
+      "yemen",
+      "al-jumhuriyyah al-yamaniyyah",
+      "al-jumhūriyyah al-yamaniyyah",
+      "yemeni republic"
+    ]
+  },
+  "Zambia": {
+    "type": "country",
+    "country": "Zambia",
+    "lat": -15.0,
+    "lon": 30.0,
+    "radius_km": 375,
+    "keywords": [
+      "zambia",
+      "republic of zambia"
+    ]
+  },
+  "Zimbabwe": {
+    "type": "country",
+    "country": "Zimbabwe",
+    "lat": -20.0,
+    "lon": 30.0,
+    "radius_km": 275,
+    "keywords": [
+      "zimbabwe",
+      "republic of zimbabwe"
+    ]
+  }
+}

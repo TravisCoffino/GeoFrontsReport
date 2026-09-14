@@ -1,0 +1,20 @@
+[
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Russia's missile and drone attacks on Ukraine kill at least 22",
+        "summary": "Russia continues its military conflict with Ukraine through missile and drone attacks.",
+        "url": "https://apnews.com/article/russia-ukraine-war-july-6-2026-0280e3d86022720fd5fa0236122ad90e",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-07-06"
+    },
+    {
+        "relationshipKey": "Saudi Arabia-Russia",
+        "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
+        "summary": "Saudi Arabia and Russia, as key members of OPEC+, agreed to a modest increase in oil production.",
+        "url": "https://apnews.com/article/opec-increase-oil-production-iran-hormuz-bae40a1146cea569ddfdfc39d4867441",
+        "country": "Saudi Arabia",
+        "relatedCountry": "Russia",
+        "published": "2026-07-06"
+    }
+]

@@ -1,0 +1,77 @@
+const articlesTest=[
+/*{
+    title: "Russian assault on Ukrainian town",
+    country:"Ukraine",
+    lat:50.450100,
+    long:30.523399,
+    summary:"A Russian division has started an assault on...",
+    url:"https://reuters.com",
+    geoLevel: "city",
+    displayType:"pin",
+    radius:0
+},*/
+
+{
+    title: "Finland keeps eastern border closed as risk of instrumentalised migration 'remains likely'",
+    country:"Finland",
+    relatedCountry:"Russia",
+    lat:62.391006,
+    long:25.861857,
+    relLat: 55.777345,
+    relLong: 38.595821,
+
+    summary:"The border was shut in late 2023",
+    url:"https://yle.fi/a/74-20229880",
+    
+    //not needed for now
+    geoLevel: "country",
+    displayType:"line",
+    relationshipKey:"Finland-Russia",
+    //^^
+
+    published: "2026-06-04",
+
+    radius:700000
+
+},
+
+{
+    title: "Finnish border closed to Russians with tourist visas",
+    country:"Finland",
+    relatedCountry:"Russia",
+    lat:62.391006,
+    long:25.861857,
+    relLat: 55.777345,
+    relLong: 38.595821,
+
+    summary:"Finland’s border with Russia was closed to Russians with tourist visas Friday",
+    url:"https://apnews.com/article/russia-ukraine-travel-denmark-international-relations-e6a9905a4b6a12b565a86aff803799d9",
+    
+    //not needed for now
+    geoLevel: "country",
+    displayType:"line",
+    //^^
+    relationshipKey:"Finland-Russia",
+    
+
+    published: "2026-06-04",
+
+    radius:700000
+
+},
+
+{
+    title: "USA renews Taiwan Chip Deal",
+    country:"United States",
+    relatedCountry:"Taiwan",
+    lat:37.722935,
+    long:-79.293486,
+    relLat:23.503867,
+    relLong:-239.539886,
+    summary:"The United States has renewed a $400 Chip Deal with TSMC",
+    url:"https://www.cfr.org/articles/new-us-taiwan-trade-and-chip-deal-announced",
+
+    relationshipKey:"United States-Taiwan",
+    published:"2026-05-31"
+}
+]

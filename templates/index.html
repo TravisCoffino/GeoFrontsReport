@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Geo Fronts Report</title>
+        
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css')}}">
+    </head>
+
+    <body>
+        <h1 style="text-align:center;">The Geo Fronts Report</h1>
+        <h2 style="text-align:center;">Stay up to date with the worlds geopolitics</h2>
+        <!--<div id="authForm">
+            <button id="loginButton">Login to submit articles</button>
+        </div>-->
+        <button id="switchMapButton">Switch Between Map Details</button>
+        <!--<button id="switchGeoLevelButton">Switch Geo Level Button</button>-->
+        <div id="mainLayout">
+            <div id="map"></div>
+
+            <div id="articleSidebar">
+                <h2>Recent Relationships:</h2>
+                <div id="articleList"></div>
+            </div>
+        </div>
+        
+         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+        <script src="{{ url_for('static',filename='script.js')}}"></script>
+
+        <img 
+        class="windowsButton"
+        src="https://capstasher.neocities.org/88x31Buttons/36581483_P5h.gif" alt="88x31 button">
+        
+    </body>
+</html>

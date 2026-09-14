@@ -1,0 +1,65 @@
+#mainLayout{
+    display:flex;
+    gap:15px;
+    width:100%
+}
+#map{
+    height: 500px;
+    flex:3;
+}
+
+#articleSidebar{
+    height:400px;
+    flex:1;
+    overflow-y:auto;
+    border-left:1px solid #666666;
+    border-bottom:1px solid #666666;
+    border-right:1px solid #666666;
+    border-top:1px solid #666666;
+    
+    padding:10px;
+    background-color:rgb(252, 252, 252)
+}
+
+.articleCard{
+    border-bottom:1px solid #666666;
+    padding:10px 0;
+}
+.articleCard h3{
+    margin:0;
+    font-size:16px;
+}
+.articleCard p{
+    margin: 5px 0;
+    font-size:12px;
+}
+.articleCard a{
+    font-size:12px;
+}
+
+#switchMapButton {
+    margin-bottom: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+#switchGeoLevelButton {
+    margin-bottom: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+#windowsButton{
+    width:88px;
+    height:31px;
+    position:absolute;
+    bottom:20px;
+}
+
+
+/*#loginButton{
+    position:absolute;
+    top:15px;
+    right:15px;
+
+}*/
