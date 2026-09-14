@@ -37,6 +37,18 @@
     font-size:12px;
 }
 
+.popupArticle {
+    margin-bottom: 10px;
+}
+
+.popupArticle:last-child {
+    margin-bottom: 0;
+}
+
+.popupArticle hr {
+    margin: 8px 0;
+}
+
 #switchMapButton {
     margin-bottom: 10px;
     padding: 8px 12px;

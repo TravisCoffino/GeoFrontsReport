@@ -162,12 +162,13 @@ for (var key in relationshipPairs){
 
 groupedArticles.forEach(function(article){
     popupText+=`
-    <div style="margin-bottom: 10px;">
+    <div class="popupArticle">
         <b>${article.title}</b><br>
         <i>${article.summary}</i><br>
 
         <a href="${article.url}" target="_blank">Read article:</a>
         <hr />
+    </div>
     `;
 
     /*<i>${article.country}</i><br><br>
@@ -213,7 +214,12 @@ var line=L.polyline([
             opacity:0.25,
             color:"red"
         }).addTo(map);
-        line.bindPopup(popupText);
+        line.bindPopup(popupText, {
+            maxWidth: 380,
+            maxHeight: 320,
+            autoPan: true,
+            keepInView: true
+        });
         line.bringToFront();
 }
 
