@@ -1,81 +1,5 @@
 [
     {
-        "relationshipKey": "Finland-Russia",
-        "title": "Finnish border closed to Russians with tourist visas",
-        "summary": "Finlandâ€™s border with Russia was closed to Russians with tourist visas Friday",
-        "url": "https://apnews.com/article/russia-ukraine-travel-denmark-international-relations-e6a9905a4b6a12b565a86aff803799d9",
-        "country": "Finland",
-        "relatedCountry": "Russia",
-        "published": "2026-07-04"
-    },
-    {
-        "relationshipKey": "Finland-Russia",
-        "title": "Finland keeps eastern border closed as risk of instrumentalised migration 'remains likely'",
-        "summary": "The border was shut in late 2023",
-        "url": "https://yle.fi/a/74-20229880",
-        "country": "Finland",
-        "relatedCountry": "Russia",
-        "published": "2026-07-03"
-    },
-    {
-        "relationshipKey": "United States-Taiwan",
-        "title": "USA renews Taiwan Chip Deal",
-        "summary": "The United States has renewed a $400 Chip Deal with TSMC",
-        "url": "https://www.cfr.org/articles/new-us-taiwan-trade-and-chip-deal-announced",
-        "country": "United States",
-        "relatedCountry": "Taiwan",
-        "published": "2026-07-03"
-    },
-    {
-        "relationshipKey": "Ethiopia-Eritrea",
-        "title": "Ethiopia and Eritrea are on the brink of war again",
-        "summary": "Eight years into Abiy Ahmedâ€™s tenure as prime minister",
-        "url": "https://www.atlanticcouncil.org/blogs/africasource/ethiopia-and-eritrea-are-on-the-brink-of-war-again/",
-        "country": "Ethiopia",
-        "relatedCountry": "Eritrea",
-        "published": "2026-07-03"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "Understanding Chinaâ€™s Party-State Intelligence System",
-        "summary": "China's party-state intelligence system conducts global espionage and influence activities, impacting the national security of countries like the United States.",
-        "url": "https://thediplomat.com/2026/07/understanding-chinas-party-state-intelligence-system/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-07-03",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Russia-China",
-        "title": "Asia Is Racing to the Arctic, But Itâ€™s Not Easy",
-        "summary": "While Asian nations pursue Arctic shipping, Chinese companies are the most prominent non-Russian operators on the Northern Sea Route, navigating geopolitical complexities and sanctions.",
-        "url": "https://thediplomat.com/2026/07/asia-is-racing-to-the-arctic-but-its-not-easy/",
-        "country": "Russia",
-        "relatedCountry": "China",
-        "published": "2026-07-03",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Russia-Ukraine",
-        "title": "Russia's missile and drone attacks on Ukraine kill at least 22",
-        "summary": "Russia launched missile and drone attacks against Ukraine, resulting in casualties.",
-        "url": "https://apnews.com/article/russia-ukraine-war-july-6-2026-0280e3d86022720fd5fa0236122ad90e",
-        "country": "Russia",
-        "relatedCountry": "Ukraine",
-        "published": "2026-07-06",
-        "source": "AP News"
-    },
-    {
-        "relationshipKey": "Bhutan-United States",
-        "title": "Twice Stateless: The Double Erasure of Bhutanese Refugees",
-        "summary": "Bhutanese refugees, originally displaced by ethnic cleansing in Bhutan, face renewed statelessness after being deported by the United States, highlighting complex international refugee and immigration policies.",
-        "url": "https://thediplomat.com/2026/07/twice-stateless-the-double-erasure-of-bhutanese-refugees/",
-        "country": "Bhutan",
-        "relatedCountry": "United States",
-        "published": "2026-07-06",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "United States-Iran",
         "title": "Expansion of US strikes on Iran leads to more retaliation across the Gulf",
         "summary": "Military actions by the United States against Iran are expanding, leading to increased retaliation from Tehran across the Gulf.",
@@ -243,6 +167,116 @@
         "country": "China",
         "relatedCountry": "United States",
         "published": "2026-07-30",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
+        "summary": "China's advancements in AI and robotics are poised to significantly alter the global balance of power, influencing its future relations with the United States.",
+        "url": "https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-11",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "India-Pakistan",
+        "title": "From 9/11 to Pahalgam: India’s Evolving Strategy in the Global War on Terror",
+        "summary": "India's foreign policy on counter-terrorism has evolved, leading to military operations into Pakistan in response to cross-border attacks.",
+        "url": "https://thediplomat.com/2026/09/from-9-11-to-pahalgam-indias-evolving-strategy-in-the-global-war-on-terror/",
+        "country": "India",
+        "relatedCountry": "Pakistan",
+        "published": "2026-09-11",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Nicaragua-North Korea",
+        "title": "North Korea’s Nicaragua Courtship",
+        "summary": "North Korea is actively pursuing stronger diplomatic ties with Nicaragua, indicating a potential shift in its foreign policy.",
+        "url": "https://thediplomat.com/2026/09/north-koreas-nicaragua-courtship/",
+        "country": "Nicaragua",
+        "relatedCountry": "North Korea",
+        "published": "2026-09-10",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Nepal",
+        "title": "A Himalayan Flood Brings Economic Collapse to Nepal’s Border Region",
+        "summary": "A devastating flood in Nepal has destroyed its primary trade gateway with China, severely disrupting cross-border trade and impacting Nepal's economy.",
+        "url": "https://thediplomat.com/2026/09/a-himalayan-flood-brings-economic-collapse-to-nepals-border-region/",
+        "country": "China",
+        "relatedCountry": "Nepal",
+        "published": "2026-09-09",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Taiwan",
+        "title": "Is China Really a Cyber Threat to Taiwan?",
+        "summary": "The article evaluates the extent of China's cyber threat to Taiwan, considering China's intent and capability in its goal to integrate Taiwan.",
+        "url": "https://thediplomat.com/2026/09/is-china-really-a-cyber-threat-to-taiwan/",
+        "country": "China",
+        "relatedCountry": "Taiwan",
+        "published": "2026-09-08",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Cambodia-Myanmar",
+        "title": "Myanmar’s Military-backed President Ticks Cambodia Off His Diplomatic Bucket List",
+        "summary": "Myanmar's military-backed president visited Cambodia as part of a diplomatic effort to gain regional legitimacy.",
+        "url": "https://thediplomat.com/2026/09/myanmars-military-backed-president-ticks-cambodia-off-his-diplomatic-bucket-list/",
+        "country": "Cambodia",
+        "relatedCountry": "Myanmar",
+        "published": "2026-09-14",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Cambodia-Thailand",
+        "title": "Thailand Accuses Cambodia of Stationing Troops at World Heritage Site During Border Fighting",
+        "summary": "Thailand accuses Cambodia of stationing troops at the disputed Preah Vihear temple during border fighting, following a UNESCO report detailing damage to the site.",
+        "url": "https://thediplomat.com/2026/09/thailand-accuses-cambodia-of-stationing-troops-at-world-heritage-site-during-border-fighting/",
+        "country": "Cambodia",
+        "relatedCountry": "Thailand",
+        "published": "2026-09-14",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-India",
+        "title": "Episodic Summitry Alone Cannot Reset India-China Relations",
+        "summary": "India and China are working to improve their strained relationship through high-level meetings and border agreements, often coinciding with multilateral summits.",
+        "url": "https://thediplomat.com/2026/09/episodic-summitry-alone-cannot-reset-india-china-relations/",
+        "country": "China",
+        "relatedCountry": "India",
+        "published": "2026-09-14",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Myanmar-United States",
+        "title": "Ahead of Credentials Showdown, Myanmar Accuses UN Representative of ‘Illegal’ Acts",
+        "summary": "Myanmar's military-backed government is challenging its United Nations representative over alleged illegal activities and ties to opposition groups, coordinating with the United States on the matter.",
+        "url": "https://thediplomat.com/2026/09/ahead-of-credentials-showdown-myanmar-accuses-un-representative-of-illegal-acts/",
+        "country": "Myanmar",
+        "relatedCountry": "United States",
+        "published": "2026-09-14",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "India-Russia",
+        "title": "SCO Summit Produces Surprising Winners",
+        "summary": "At the Shanghai Cooperation Organization summit, India directly urged Russia to end the war in Ukraine, highlighting diplomatic tensions among major member states.",
+        "url": "https://thediplomat.com/2026/09/sco-summit-produces-surprising-winners/",
+        "country": "India",
+        "relatedCountry": "Russia",
+        "published": "2026-09-11",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "North Korea-United States",
+        "title": "What Role Does Denuclearization Have in North Korea-US Dialogue Today?",
+        "summary": "The United States and North Korea are engaged in diplomatic tensions over denuclearization, with North Korea rejecting renewed engagement while the U.S. maintains its denuclearization policy objective.",
+        "url": "https://thediplomat.com/2026/09/what-role-does-denuclearization-have-in-north-korea-us-dialogue-today/",
+        "country": "North Korea",
+        "relatedCountry": "United States",
+        "published": "2026-09-11",
         "source": "The Diplomat"
     }
 ]

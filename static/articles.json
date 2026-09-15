@@ -50,16 +50,6 @@
         "source": "The Diplomat"
     },
     {
-        "relationshipKey": "Malaysia-Myanmar",
-        "title": "How Social Media Posts Are Fueling the Dehumanization of Malaysia’s Rohingya Population",
-        "summary": "Social media posts are fueling dehumanization and calls for the removal of the Rohingya population in Malaysia, who were displaced from Myanmar in 2017.",
-        "url": "https://thediplomat.com/2026/07/how-social-media-posts-are-fueling-the-dehumanization-of-malaysias-rohingya-population/",
-        "country": "Malaysia",
-        "relatedCountry": "Myanmar",
-        "published": "2026-07-16",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "United States-Iran",
         "title": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks",
         "summary": "The United States and Iran are engaged in military conflict, leading to reciprocal attacks across the Gulf region.",
@@ -277,6 +267,66 @@
         "country": "North Korea",
         "relatedCountry": "United States",
         "published": "2026-09-11",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Myanmar-Russia",
+        "title": "Fighters Without Borders: Mercenaries, Adventurers, and Volunteers in Myanmar’s Civil War",
+        "summary": "Russia and Myanmar are strengthening military cooperation, including joint exercises and the potential involvement of Russian personnel in Myanmar's civil war.",
+        "url": "https://thediplomat.com/2026/09/fighters-without-borders-mercenaries-adventurers-and-volunteers-in-myanmars-civil-war/",
+        "country": "Myanmar",
+        "relatedCountry": "Russia",
+        "published": "2026-09-15",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Australia-United States",
+        "title": "5 Years Later, Where Does AUKUS Stand?",
+        "summary": "Australia, the United States, and the United Kingdom are strengthening their AUKUS security alliance to counter China's growing military influence in the Pacific, impacting Australia's prior defense deal with France.",
+        "url": "https://thediplomat.com/2026/09/5-years-later-where-does-aukus-stand/",
+        "country": "Australia",
+        "relatedCountry": "United States",
+        "published": "2026-09-14",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "The Perils of Mind-Reading in the Taiwan Strait",
+        "summary": "A lack of sustained communication between China and the United States over Taiwan increases the risk of dangerous miscalculations.",
+        "url": "https://thediplomat.com/2026/09/the-perils-of-mind-reading-in-the-taiwan-strait/",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-15",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Japan-Russia",
+        "title": "Japan Faces Hard Choices in Weaning off Russian Energy",
+        "summary": "Japan is balancing its energy security needs, which involve continued imports of Russian liquefied natural gas, against pressure from the United States to reduce reliance on Russia and diplomatic tensions over disputed territories.",
+        "url": "https://thediplomat.com/2026/09/japan-faces-hard-choices-in-weaning-off-russian-energy/",
+        "country": "Japan",
+        "relatedCountry": "Russia",
+        "published": "2026-09-15",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Mexico",
+        "title": "China and Mexico: How Far Should Technology Cooperation Go?",
+        "summary": "Mexico is deepening technology cooperation with China, raising concerns for the United States.",
+        "url": "https://thediplomat.com/2026/09/china-and-mexico-how-far-should-technology-cooperation-go/",
+        "country": "China",
+        "relatedCountry": "Mexico",
+        "published": "2026-09-15",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "International Monetary Fund-Turkmenistan",
+        "title": "In Turkmenistan’s Data Desert, the Golden Age Is a Mirage",
+        "summary": "The International Monetary Fund declared Turkmenistan in breach of its obligations for failing to provide key economic data.",
+        "url": "https://thediplomat.com/2026/09/in-turkmenistans-data-desert-the-golden-age-is-a-mirage/",
+        "country": "International Monetary Fund",
+        "relatedCountry": "Turkmenistan",
+        "published": "2026-09-15",
         "source": "The Diplomat"
     }
 ]
