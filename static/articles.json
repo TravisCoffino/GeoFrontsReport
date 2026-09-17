@@ -30,26 +30,6 @@
         "source": "The Diplomat"
     },
     {
-        "relationshipKey": "China-United States",
-        "title": "China, the US, and Nuclear Energy Geopolitics in Southeast Asia",
-        "summary": "China and the United States are engaged in strategic competition over nuclear energy reactor exports and influence in Southeast Asia.",
-        "url": "https://thediplomat.com/2026/07/china-the-us-and-nuclear-energy-geopolitics-in-southeast-asia/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-07-18",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "India-New Zealand",
-        "title": "New Zealand’s Trade Agreement With India Reflects a Foreign Policy Shift",
-        "summary": "New Zealand and India have strengthened their economic and security ties through a new Free Trade Agreement, marking a shift in New Zealand's foreign policy to expand its partnerships.",
-        "url": "https://thediplomat.com/2026/07/new-zealands-trade-agreement-with-india-reflects-a-foreign-policy-shift/",
-        "country": "New Zealand",
-        "relatedCountry": "India",
-        "published": "2026-07-17",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "United States-Iran",
         "title": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks",
         "summary": "The United States and Iran are engaged in military conflict, leading to reciprocal attacks across the Gulf region.",
@@ -327,6 +307,76 @@
         "country": "International Monetary Fund",
         "relatedCountry": "Turkmenistan",
         "published": "2026-09-15",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Nepal",
+        "title": "Who Is to Blame for the Massive Death Toll in the Nepal Floods?",
+        "summary": "Nepal and China are involved in a dispute over responsibility and data sharing following a devastating flood in Nepal, with some Nepalis blaming China for withholding information, a claim China denies.",
+        "url": "https://thediplomat.com/2026/09/who-is-to-blame-for-the-massive-death-toll-in-the-nepal-floods/",
+        "country": "China",
+        "relatedCountry": "Nepal",
+        "published": "2026-09-17",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Kyrgyzstan-Russia",
+        "title": "From Nomad Festival to National Showcase: Kyrgyzstan Takes Center Stage",
+        "summary": "Kyrgyzstan hosted the Shanghai Cooperation Organization (SCO) summit, attended by leaders from Russia, China, India, and Türkiye, showcasing its national pride and strengthening its diplomatic ties, particularly with Russia which will host the next World Nomad Games.",
+        "url": "https://thediplomat.com/2026/09/from-nomad-festival-to-national-showcase-kyrgyzstan-takes-center-stage/",
+        "country": "Kyrgyzstan",
+        "relatedCountry": "Russia",
+        "published": "2026-09-16",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Japan-United States",
+        "title": "The Potential Mismatch Between Japan and the US on China",
+        "summary": "Japan seeks to ensure the United States remains aligned on strategy regarding the challenge posed by China, emphasizing the importance of their alliance cohesion.",
+        "url": "https://thediplomat.com/2026/09/the-potential-mismatch-between-japan-and-the-us-on-china/",
+        "country": "Japan",
+        "relatedCountry": "United States",
+        "published": "2026-09-17",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "The Space Security Landscape Is Deteriorating Rapidly",
+        "summary": "The United States has deployed space control weapons in response to the development of similar capabilities by China and Russia, intensifying a global space arms race.",
+        "url": "https://thediplomat.com/2026/09/the-space-security-landscape-is-deteriorating-rapidly/",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-17",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Taiwan",
+        "title": "Will Taiwan Fight? We Need Better Evidence.",
+        "summary": "The article discusses the debate around Taiwan's potential willingness to fight if China were to use force, reflecting ongoing cross-strait tensions.",
+        "url": "https://thediplomat.com/2026/09/will-taiwan-fight-we-need-better-evidence/",
+        "country": "China",
+        "relatedCountry": "Taiwan",
+        "published": "2026-09-17",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "India-Pakistan",
+        "title": "Indian, Pakistani Naval Vessels Collide in Arabian Sea, Prompting Diplomatic Tensions",
+        "summary": "A naval collision between Indian and Pakistani vessels in the Arabian Sea has escalated diplomatic tensions between the two nations.",
+        "url": "https://thediplomat.com/2026/09/indian-pakistani-naval-vessels-collide-in-arabian-sea-prompting-diplomatic-tensions/",
+        "country": "India",
+        "relatedCountry": "Pakistan",
+        "published": "2026-09-17",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Cambodia-United States",
+        "title": "US Congressmen Call for Tougher Actions Against Key Southeast Asian Scam Enablers",
+        "summary": "United States congressmen called for the Trump administration to investigate and potentially sanction individuals and entities involved in online scam operations in Cambodia, Laos, and Myanmar.",
+        "url": "https://thediplomat.com/2026/09/us-congressmen-call-for-tougher-actions-against-key-southeast-asian-scam-enablers/",
+        "country": "Cambodia",
+        "relatedCountry": "United States",
+        "published": "2026-09-17",
         "source": "The Diplomat"
     }
 ]
