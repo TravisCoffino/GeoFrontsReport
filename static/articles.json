@@ -1,115 +1,5 @@
 [
     {
-        "relationshipKey": "United States-Iran",
-        "title": "Expansion of US strikes on Iran leads to more retaliation across the Gulf",
-        "summary": "Military actions by the United States against Iran are expanding, leading to increased retaliation from Tehran across the Gulf.",
-        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297",
-        "country": "United States",
-        "relatedCountry": "Iran",
-        "published": "2026-07-20",
-        "source": "AP News"
-    },
-    {
-        "relationshipKey": "Ukraine-Russia",
-        "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
-        "summary": "Ukraine launched a large-scale drone attack on Moscow, intensifying military conflict with Russia.",
-        "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-f42baa61109fcb43b7efabf5334c4f50",
-        "country": "Ukraine",
-        "relatedCountry": "Russia",
-        "published": "2026-07-20",
-        "source": "AP News"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "Ongoing Belt and Road Initiative Poses Strategic Risks in the Western Balkans",
-        "summary": "The United States is actively working to counter China's Belt and Road Initiative and its associated technological risks in the Western Balkans, leading to geopolitical competition in countries like Serbia and Kosovo.",
-        "url": "https://thediplomat.com/2026/07/ongoing-belt-and-road-initiative-poses-strategic-risks-in-the-western-balkans/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-07-20",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "United States-Iran",
-        "title": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks",
-        "summary": "The United States and Iran are engaged in military conflict, leading to reciprocal attacks across the Gulf region.",
-        "url": "https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e",
-        "country": "United States",
-        "relatedCountry": "Iran",
-        "published": "2026-07-20",
-        "source": "AP News"
-    },
-    {
-        "relationshipKey": "European Union-China",
-        "title": "EU hits AliExpress with a record 550 million-euro fine over unsafe and counterfeit goods",
-        "summary": "The European Union fined Chinese e-commerce giant AliExpress 550 million euros for failing to comply with digital product safety regulations.",
-        "url": "https://apnews.com/article/aliexpress-europe-fine-digital-services-counterfeit-648226ac1df90879063d12ffabd83886",
-        "country": "European Union",
-        "relatedCountry": "China",
-        "published": "2026-07-20",
-        "source": "AP News"
-    },
-    {
-        "relationshipKey": "Japan-China",
-        "title": "Beyond the South China Sea: 4 Other Maritime Flashpoints in East Asia",
-        "summary": "The article surveys several maritime flashpoints in East Asia, including the dispute between Japan and China over the Senkaku/Diaoyu Islands, which could lead to regional conflict.",
-        "url": "https://thediplomat.com/2026/07/beyond-the-south-china-sea-4-other-maritime-flashpoints-in-east-asia/",
-        "country": "Japan",
-        "relatedCountry": "China",
-        "published": "2026-07-20",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Australia-Tuvalu",
-        "title": "Australia’s Tuvalu Migration Deal Tests the Limits of Climate Mobility",
-        "summary": "Australia and Tuvalu have established a migration deal allowing Tuvaluans to relocate to Australia due to climate change, raising concerns about potential workforce drain in Tuvalu.",
-        "url": "https://thediplomat.com/2026/07/australias-tuvalu-migration-deal-tests-the-limits-of-climate-mobility/",
-        "country": "Australia",
-        "relatedCountry": "Tuvalu",
-        "published": "2026-07-20",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "United States-Canada",
-        "title": "5 Myths About the Five Eyes",
-        "summary": "The Five Eyes intelligence alliance faces strain due to diplomatic tensions and disputes among its member nations, particularly concerning the United States' actions and policies towards Canada and the United Kingdom.",
-        "url": "https://thediplomat.com/2026/07/5-myths-about-the-five-eyes/",
-        "country": "United States",
-        "relatedCountry": "Canada",
-        "published": "2026-07-20",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "European Union-China",
-        "title": "Why Europe’s China Anxiety Is About More Than China",
-        "summary": "The European Union is increasingly anxious about China's economic practices and its challenge to the existing global order.",
-        "url": "https://thediplomat.com/2026/07/why-europes-china-anxiety-is-about-more-than-china/",
-        "country": "European Union",
-        "relatedCountry": "China",
-        "published": "2026-07-20",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Thailand-Germany",
-        "title": "Is Thailand’s PM More Concerned About Sound Cannabis Policy or Political Optics?",
-        "summary": "Thailand is facing international pressure and blame from European partners like Germany over increased cannabis smuggling, stemming from its decriminalization policy, which could jeopardize its OECD bid.",
-        "url": "https://thediplomat.com/2026/07/is-thailands-pm-more-concerned-about-sound-cannabis-policy-or-political-optics/",
-        "country": "Thailand",
-        "relatedCountry": "Germany",
-        "published": "2026-07-20",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Philippines-Myanmar",
-        "title": "Philippines’ Lazaro Dismisses Criticisms Over ASEAN’s ‘Informal Meeting’ With Myanmar FM",
-        "summary": "The Philippines, as chair of ASEAN, defended its decision to host an informal meeting with Myanmar's foreign minister amidst criticisms that it undermined efforts to resolve Myanmar's conflict.",
-        "url": "https://thediplomat.com/2026/07/philippines-lazaro-dismisses-criticisms-over-aseans-informal-meeting-with-myanmar-fm/",
-        "country": "Philippines",
-        "relatedCountry": "Myanmar",
-        "published": "2026-07-20",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "Bangladesh-India",
         "title": "Is Islamic Extremism Taking Over Bangladesh?",
         "summary": "India expresses concern over the rise of Islamist movements in Bangladesh and the potential for cross-border extremist activities.",
@@ -377,6 +267,76 @@
         "country": "Cambodia",
         "relatedCountry": "United States",
         "published": "2026-09-17",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "What’s Wrong With US Pacific Islands Policy?",
+        "summary": "The article critically examines United States foreign policy in the Pacific Islands, using the Federated States of Micronesia as a case study, highlighting perceived shortcomings in light of increasing Chinese influence and infrastructure development in the region.",
+        "url": "https://thediplomat.com/2026/09/whats-wrong-with-us-pacific-islands-policy/",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-18",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "India-Pakistan",
+        "title": "India’s New Eye in the Sky: EOS-05 Satellite and What It Means for South Asia",
+        "summary": "India has launched the EOS-05 surveillance satellite to enhance its intelligence capabilities, specifically to track military movements from Pakistan.",
+        "url": "https://thediplomat.com/2026/09/indias-new-eye-in-the-sky-eos-05-satellite-and-what-it-means-for-south-asia/",
+        "country": "India",
+        "relatedCountry": "Pakistan",
+        "published": "2026-09-19",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Pakistan",
+        "title": "From Symbolism to Strategy: The Expanding Operational Role of Women in Baloch Militancy",
+        "summary": "Baloch militants in Pakistan have expanded the operational role of women, conducting attacks that have killed Chinese teachers and highlighting security challenges for Pakistan's relationship with China.",
+        "url": "https://thediplomat.com/2026/09/from-symbolism-to-strategy-the-expanding-operational-role-of-women-in-baloch-militancy/",
+        "country": "China",
+        "relatedCountry": "Pakistan",
+        "published": "2026-09-19",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-India",
+        "title": "Shipki La and the Battle Over the History of China-India Trade",
+        "summary": "China and India have resumed border trade via Shipki Pass, reigniting historical and geopolitical disputes over Tibet's role in their bilateral trade relations.",
+        "url": "https://thediplomat.com/2026/09/shipki-la-and-the-battle-over-the-history-of-china-india-trade/",
+        "country": "China",
+        "relatedCountry": "India",
+        "published": "2026-09-19",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Pakistan",
+        "title": "Infrastructure Gaps Test Pakistan’s Flagship CPEC Industrial Zone",
+        "summary": "Infrastructure deficiencies are challenging the functionality of Pakistan's flagship CPEC industrial zone, a vital part of its economic cooperation with China.",
+        "url": "https://thediplomat.com/2026/09/infrastructure-gaps-test-pakistans-flagship-cpec-industrial-zone-field-survey-finds/",
+        "country": "China",
+        "relatedCountry": "Pakistan",
+        "published": "2026-09-19",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Netherlands",
+        "title": "The Nexperia Case Was Actually a Success. Does Europe Know That?",
+        "summary": "The Netherlands and China navigate ongoing economic security tensions surrounding the ownership and control of the chip manufacturer Nexperia.",
+        "url": "https://thediplomat.com/2026/09/the-nexperia-case-was-actually-a-success-does-europe-know-that/",
+        "country": "China",
+        "relatedCountry": "Netherlands",
+        "published": "2026-09-19",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "United States-Uzbekistan",
+        "title": "Making the Most Out of Growing US-Uzbekistan Trade and Investment",
+        "summary": "The United States and Uzbekistan are strengthening their economic and diplomatic ties through increased trade, investment, and strategic partnerships.",
+        "url": "https://thediplomat.com/2026/09/making-the-most-out-of-growing-us-uzbekistan-trade-and-investment/",
+        "country": "United States",
+        "relatedCountry": "Uzbekistan",
+        "published": "2026-09-19",
         "source": "The Diplomat"
     }
 ]
