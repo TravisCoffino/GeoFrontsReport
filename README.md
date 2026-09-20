@@ -24,7 +24,7 @@ The Geo Fronts Report is a website used to scrape articles from multiple renowed
 
 ## Setup
 
-Geo Fronts is now hosted on Vercel! Visit: https://geofrontsreport-cpys96cso-travisc44s-projects.vercel.app/ to view it!
+Geo Fronts is now hosted on Vercel! Visit: https://geofrontsreport.vercel.app to view it!
 
 ## Acknowledgements
 
