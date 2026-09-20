@@ -28,8 +28,21 @@ var routeRecords= [];
 var countryLayer= null;
 var selectedCountry= null;
 
+var countryNameAliases = {
+    "United States of America": "United States",
+    "Democratic Republic of the Congo": "Democratic Republic of Congo",
+    "United Republic of Tanzania": "Tanzania",
+    "Czech Republic": "Czechia",
+    "Ivory Coast": "Côte d'Ivoire",
+    "Turkey": "Turkiye"
+};
+
+function normalizeCountryName(countryName) {
+    return countryNameAliases[countryName] || countryName;
+}
+
 var normalCountryStyle = {
-    color: "6495ED",
+    color: "#6495ED",
     opacity: 0.4,
     weight: 0.7,
     fillOpacity: 0.05
@@ -63,7 +76,10 @@ fetch("/static/countries.geo.json")
                         return;
                     }
 
-                    showRoutesForCountry(feature.properties.name, layer);
+                    showRoutesForCountry(
+                        normalizeCountryName(feature.properties.name),
+                        layer
+                    );
                 });
             }
         }).addTo(map);
@@ -154,7 +170,7 @@ function addToSidebar(relationshipPairs,daysSince){
 
 function drawMapLines(articlesTest,coords){
     var relationshipPairs={};
-    var daysSince=60;
+    var daysSince=30;
 
 
     articlesTest.forEach(function(article){
@@ -252,8 +268,8 @@ var line=L.polyline([
 
     if (
         routeMode === "all" ||
-        selectedCountry === firstArticle.country ||
-        selectedCountry === firstArticle.relatedCountry
+        selectedCountry === normalizeCountryName(firstArticle.country) ||
+        selectedCountry === normalizeCountryName(firstArticle.relatedCountry)
     ) {
         line.addTo(map);
     }
@@ -312,12 +328,13 @@ function startCountryExploration() {
 }
 
 function showRoutesForCountry(countryName, clickedLayer){
-    selectedCountry = countryName;
+    selectedCountry = normalizeCountryName(countryName);
     hideEveryRoute();
 
     routeRecords.forEach(function (route){
         var isConnected=
-            route.country1===countryName || route.country2===countryName;
+            normalizeCountryName(route.country1) === selectedCountry ||
+            normalizeCountryName(route.country2) === selectedCountry;
 
         if (isConnected){
             route.line.addTo(map);
@@ -333,7 +350,7 @@ function showRoutesForCountry(countryName, clickedLayer){
     clickedLayer.bringToFront();
 
     document.getElementById("selectedCountryLabel").textContent=
-        "Showing routes for " +countryName;
+        "Showing routes for " + selectedCountry;
 
     document.getElementById("hideCountryRoutesButton").hidden=false;
     }

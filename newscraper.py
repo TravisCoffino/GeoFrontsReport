@@ -1,5 +1,6 @@
 import json
 import os
+import time
 import xml.etree.ElementTree as ElementTree
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -164,19 +165,17 @@ def scrapeReutersWorld():
 
 def scrapeNytWorld():
     print("Scraping New York Times...")
-    return scrapeHtmlListing(
-        "https://www.nytimes.com/topic/subject/international-relations",
+    return scrapeRssFeed(
+        "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
         "New York Times",
-        ["/202"],
     )
 
 
 def scrapeWsjWorld():
     print("Scraping Wall Street Journal...")
-    return scrapeHtmlListing(
-        "https://www.wsj.com/world",
+    return scrapeRssFeed(
+        "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
         "Wall Street Journal",
-        ["/world/", "/politics/", "/economy/"],
     )
 
 
@@ -285,19 +284,29 @@ def scrapeGdelt():
         '(diplomacy OR sanctions OR military OR conflict OR treaty OR NATO '
         'OR "foreign policy" OR "international relations")'
     )
-    response = requests.get(
-        "https://api.gdeltproject.org/api/v2/doc/doc",
-        params={
-            "query": query,
-            "mode": "artlist",
-            "maxrecords": 250,
-            "timespan": "3d",
-            "sort": "datedesc",
-            "format": "json",
-        },
-        headers=requestHeaders,
-        timeout=30,
-    )
+    requestParams = {
+        "query": query,
+        "mode": "artlist",
+        "maxrecords": 250,
+        "timespan": "3d",
+        "sort": "datedesc",
+        "format": "json",
+    }
+
+    for attempt in range(3):
+        response = requests.get(
+            "https://api.gdeltproject.org/api/v2/doc/doc",
+            params=requestParams,
+            headers=requestHeaders,
+            timeout=30,
+        )
+        if response.status_code != 429 or attempt == 2:
+            break
+
+        retryDelay = min(5 * (attempt + 1), 10)
+        print("GDELT rate limited; retrying in", retryDelay, "seconds...")
+        time.sleep(retryDelay)
+
     response.raise_for_status()
     articleLinks = []
 
@@ -359,7 +368,7 @@ def main():
         savedArticles = []
         print("No old articles file found.")
 
-    retentionDays = 60
+    retentionDays = 30
     cutoffDate = date.today() - timedelta(days=retentionDays)
     recentArticles = []
 
@@ -433,7 +442,7 @@ def main():
     ]
 
     checkedCount = 0
-    maxGeminiChecks = 100
+    maxGeminiChecks = 30
     sourceResults = {
         source: {
             "candidates": count,

@@ -1,35 +1,5 @@
 [
     {
-        "relationshipKey": "Bangladesh-India",
-        "title": "Is Islamic Extremism Taking Over Bangladesh?",
-        "summary": "India expresses concern over the rise of Islamist movements in Bangladesh and the potential for cross-border extremist activities.",
-        "url": "https://thediplomat.com/2026/08/is-islamic-extremism-taking-over-bangladesh/",
-        "country": "Bangladesh",
-        "relatedCountry": "India",
-        "published": "2026-08-03",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-North Korea",
-        "title": "North Korea Needs China and Russia – But Doesn’t Want Its People Admiring Them",
-        "summary": "North Korea is deepening strategic cooperation with China and Russia while simultaneously suppressing any admiration of their economic or social models by its own citizens.",
-        "url": "https://thediplomat.com/2026/07/north-korea-needs-china-and-russia-but-doesnt-want-its-people-admiring-them/",
-        "country": "China",
-        "relatedCountry": "North Korea",
-        "published": "2026-07-31",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "How the United States Can Counter China’s Emerging Tech Trap",
-        "summary": "The United States is strategizing to counter China's emerging AI diplomacy and its global influence efforts, particularly through the Belt and Road Initiative.",
-        "url": "https://thediplomat.com/2026/07/how-the-us-can-counter-chinas-emerging-tech-trap/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-07-30",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "China-United States",
         "title": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
         "summary": "China's advancements in AI and robotics are poised to significantly alter the global balance of power, influencing its future relations with the United States.",
@@ -338,5 +308,535 @@
         "relatedCountry": "Uzbekistan",
         "published": "2026-09-19",
         "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "France-Russia",
+        "title": "France’s National Rally criticizes Russia in rare rebuke",
+        "summary": "France's far-right National Rally condemned Russia for hostile actions, including asset seizures and hybrid attacks, marking a rare rebuke.",
+        "url": "https://www.politico.eu/article/france-national-rally-russia-rebuke/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "France",
+        "relatedCountry": "Russia",
+        "published": "2026-09-19",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Iran-Saudi Arabia",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "summary": "Iran-backed Houthi militants launched missile and drone attacks on Saudi Arabia, prompting a US travel warning.",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "country": "Iran",
+        "relatedCountry": "Saudi Arabia",
+        "published": "2026-09-19",
+        "source": "BBC News"
+    },
+    {
+        "relationshipKey": "South Africa-United States",
+        "title": "US to expel South Africa ambassador as relations deteriorate",
+        "summary": "The United States is expelling South Africa's ambassador and suspending aid, signaling deteriorating relations over disagreements on land expropriation and foreign policy.",
+        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
+        "country": "South Africa",
+        "relatedCountry": "United States",
+        "published": "2025-03-14",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+        "summary": "Iran has conveyed its conditions for ending the war and lifting US sanctions to the United States via Qatari mediators.",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-09-20",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Germany-United States",
+        "title": "Germany’s top general to lead NATO’s highest military authority",
+        "summary": "Germany's top general has been elected to lead NATO's highest military authority, signifying Germany's growing influence within the alliance and aligning with U.S. expectations for European defense spending.",
+        "url": "https://www.politico.eu/article/germany-carsten-breuer-nato-military-committee/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "Germany",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "The U.S. Is Highly Vulnerable to Cyber Threats From China. Here’s What It Should Do",
+        "summary": "The United States faces significant cyber threats from China, highlighting a growing asymmetry in cyber capabilities and a need for a national defense strategy.",
+        "url": "https://www.cfr.org/articles/the-u-s-is-highly-vulnerable-to-cyber-threats-from-china-heres-what-it-should-do",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-18",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Denmark-United States",
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+        "summary": "The United States and Denmark have reached a deal on Greenland's security, resolving a diplomatic dispute sparked by former President Trump's threats to acquire the territory.",
+        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "country": "Denmark",
+        "relatedCountry": "United States",
+        "published": "2026-09-18",
+        "source": "BBC News"
+    },
+    {
+        "relationshipKey": "Saudi Arabia-Turkiye",
+        "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+        "summary": "Turkiye offers military assistance to Saudi Arabia for its security amid escalating Houthi attacks, as part of a new trilateral defense pact.",
+        "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+        "country": "Saudi Arabia",
+        "relatedCountry": "Turkiye",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "Trump announces new 'AI force' amid mounting pressure",
+        "summary": "United States President Trump announced the formation of an 'AI force,' emphasizing the nation's intent to maintain technological leadership over China and the rest of the world.",
+        "url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-top-1022-rdf",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "Deutsche Welle"
+    },
+    {
+        "relationshipKey": "Canada-United States",
+        "title": "French outpost off Canada in the spotlight as Macron hosts Carney on symbolic visit",
+        "summary": "Canada is actively seeking closer alignment with France and Europe as a strategic foreign policy shift, driven by escalating tensions and threats from the United States.",
+        "url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
+        "country": "Canada",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "NATO-Russia",
+        "title": "NATO ‘ready’ for potential Russian false flag attack, alliance’s top general says",
+        "summary": "NATO is preparing for potential false flag attacks and and escalation from Russia on its eastern flank.",
+        "url": "https://www.politico.eu/article/nato-ready-russia-false-flag-attack-giuseppe-cavo-dragone/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "NATO",
+        "relatedCountry": "Russia",
+        "published": "2026-09-19",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Canada-European Union",
+        "title": "Membership Without Membership: What Can Europe Really Offer Canada?",
+        "summary": "Canada is seeking closer economic and political ties with the European Union, including a proposed \"associate membership,\" which has caused trade tensions and warnings from the United States.",
+        "url": "https://www.cfr.org/articles/membership-without-membership-what-can-europe-really-offer-canada",
+        "country": "Canada",
+        "relatedCountry": "European Union",
+        "published": "2026-09-18",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Iran-Saudi Arabia",
+        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+        "summary": "Saudi Arabia intercepted a ballistic missile fired by Iran-backed Houthi forces from Yemen, targeting Riyadh.",
+        "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+        "country": "Iran",
+        "relatedCountry": "Saudi Arabia",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Denmark-United States",
+        "title": "Greenland Deal: Greenland: A Trump Win or Danish Masterclass?",
+        "summary": "The United States, under President Trump, sought control of Greenland, a semi-autonomous Danish territory, leading to diplomatic tensions and military concerns among NATO countries.",
+        "url": "https://www.france24.com/en/tv-shows/spotlight/20260919-greenland-deal-greenland-a-trump-win-or-danish-masterclass",
+        "country": "Denmark",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "Botswana-United Kingdom",
+        "title": "Botswana hunting revenues almost double amid UK opposition",
+        "summary": "Botswana's hunting revenues have increased, despite opposition from the United Kingdom and other Western countries regarding the importation of wildlife trophies.",
+        "url": "https://www.voanews.com/a/botswana-hunting-revenues-almost-double-amid-uk-opposition-/8010588.html",
+        "country": "Botswana",
+        "relatedCountry": "United Kingdom",
+        "published": "2025-03-14",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Saudi Arabia-Yemen",
+        "title": "Smoke and flight delays at Riyadh airport after air raid alert",
+        "summary": "Saudi Arabia experienced an air raid alert in Riyadh amidst its ongoing military conflict with Yemen's Iran-backed Houthi rebels.",
+        "url": "https://www.politico.eu/article/smoke-flight-delays-riyadh-king-khalid-airport-air-raid-alert/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "Saudi Arabia",
+        "relatedCountry": "Yemen",
+        "published": "2026-09-19",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Bangladesh-Myanmar",
+        "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
+        "summary": "The UN General Assembly President, a Bangladeshi diplomat, discussed global trust, AI, and lessons from the Rohingya crisis, highlighting the United Nations' role in resolving international conflicts and humanitarian issues, particularly concerning Myanmar and Bangladesh.",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168375",
+        "country": "Bangladesh",
+        "relatedCountry": "Myanmar",
+        "published": "2026-09-18",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "Russia-United States",
+        "title": "How the U.S. Can Alter Putin’s Calculus on Ukraine",
+        "summary": "The United States is considering a comprehensive strategy involving resistance, deterrence, and dialogue to pressure Russia to change its objectives in the war with Ukraine.",
+        "url": "https://www.cfr.org/articles/how-the-u-s-can-alter-putins-calculus-on-ukraine",
+        "country": "Russia",
+        "relatedCountry": "United States",
+        "published": "2026-09-17",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Ukraine steps up measures to protect railways",
+        "summary": "Russia continues to target Ukraine's railway infrastructure, prompting Ukraine to enhance protection measures and seek international assistance.",
+        "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-top-1022-rdf",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-09-19",
+        "source": "Deutsche Welle"
+    },
+    {
+        "relationshipKey": "Canada-United States",
+        "title": "The U.S.-Canada Trade War Could Mark a Breaking Point",
+        "summary": "The United States and Canada are experiencing a significant strain in their economic relationship due to a trade dispute involving tariffs and retaliatory measures.",
+        "url": "https://www.cfr.org/articles/the-u-s-canada-trade-war-could-mark-a-breaking-point",
+        "country": "Canada",
+        "relatedCountry": "United States",
+        "published": "2026-09-16",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Israel-Palestine",
+        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+        "summary": "Israel's president pardoned a soldier who killed a Palestinian, drawing international condemnation and a US travel ban on the soldier, highlighting ongoing tensions in the Israeli-Palestinian conflict.",
+        "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+        "country": "Israel",
+        "relatedCountry": "Palestine",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
+        "summary": "A UN human rights report documents widespread sexual violence by Russian forces against Ukrainian civilians and prisoners of war during the invasion of Ukraine.",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-09-18",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "Other Countries-United States",
+        "title": "Why AI’s Biggest Rivals Are Suddenly Calling for Restraint",
+        "summary": "The United States is concerned about the national security implications of rapidly advancing AI, specifically the potential for other countries to misuse it for bioweapon development.",
+        "url": "https://www.cfr.org/articles/why-ais-biggest-rivals-are-suddenly-calling-for-restraint",
+        "country": "Other Countries",
+        "relatedCountry": "United States",
+        "published": "2026-09-15",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Israel-Palestine",
+        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+        "summary": "The ongoing conflict between Israel and Gaza has severely impacted the technology sector and educational opportunities for students in Gaza.",
+        "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+        "country": "Israel",
+        "relatedCountry": "Palestine",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Canada-France",
+        "title": "Macron visits remote French territory in the North America, a first in over a decade",
+        "summary": "French President Emmanuel Macron hosts Canadian Prime Minister Mark Carney in a French territory amidst rising tensions with the United States.",
+        "url": "https://www.france24.com/en/macron-visits-remote-french-territory-in-the-north-america-a-first-in-over-a-decade",
+        "country": "Canada",
+        "relatedCountry": "France",
+        "published": "2026-09-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "Building Trust in AI Is Critical to the Frontier’s Future",
+        "summary": "The United States is debating AI regulation, with concerns that slowing development could give China an advantage in the global AI race, impacting international alliances.",
+        "url": "https://www.cfr.org/articles/building-trust-in-ai-is-critical-to-the-frontiers-future",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-14",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+        "summary": "The United States Secretary of Defense launched a domestic tour amidst public backlash regarding a war involving the United States, Israel, and Iran.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Saudi Arabia-Yemen",
+        "title": "Black smoke seen near Riyadh amid air raid alerts in Saudi Arabia",
+        "summary": "Saudi Arabia is targeted by missile and drone attacks launched by Iran-backed Houthi rebels from Yemen.",
+        "url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia",
+        "country": "Saudi Arabia",
+        "relatedCountry": "Yemen",
+        "published": "2026-09-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "Denmark-United States",
+        "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+        "summary": "Denmark and the United States have agreed on a deal concerning Greenland's security, aimed at preventing Russian and Chinese military bases, while Denmark asserts Greenland's sovereignty.",
+        "url": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+        "country": "Denmark",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Luxembourg-Russia",
+        "title": "Drone sightings briefly shut Luxembourg airport",
+        "summary": "Luxembourg is investigating drone sightings at its airport, collaborating with NATO allies amid European concerns over potential Russian-linked hybrid attacks.",
+        "url": "https://www.dw.com/en/drone-sightings-briefly-shut-luxembourg-airport/a-79338859?maca=en-rss-en-top-1022-rdf",
+        "country": "Luxembourg",
+        "relatedCountry": "Russia",
+        "published": "2026-09-19",
+        "source": "Deutsche Welle"
+    },
+    {
+        "relationshipKey": "Morocco-Spain",
+        "title": "IS in Sahel expands terror threat beyond strongholds",
+        "summary": "Morocco and Spain are coordinating counter-terrorism efforts by dismantling cells aligned with the Islamic State in the Sahel, which is expanding its terror threat across North and West Africa.",
+        "url": "https://www.voanews.com/a/is-in-sahel-expands-terror-threat-beyond-strongholds/8009027.html",
+        "country": "Morocco",
+        "relatedCountry": "Spain",
+        "published": "2025-03-12",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Russia-United States",
+        "title": "Trump signs sweeping Russia sanctions bill",
+        "summary": "The United States has imposed broad sanctions on Russia's energy sector, affecting its economy and major oil and gas purchasers, with additional sanctions targeting Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+        "country": "Russia",
+        "relatedCountry": "United States",
+        "published": "2026-09-18",
+        "source": "BBC News"
+    },
+    {
+        "relationshipKey": "Canada-European Union",
+        "title": "Canadians warm to EU ‘associate membership’ proposal",
+        "summary": "Canada explores closer 'associate membership' ties with the European Union, a move influenced by its ongoing trade dispute with the United States.",
+        "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
+        "country": "Canada",
+        "relatedCountry": "European Union",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "China-Rwanda",
+        "title": "China is now Rwanda’s biggest export market – now comes the hard part",
+        "summary": "China has become Rwanda's largest export market due to reduced tariffs, strengthening their economic ties.",
+        "url": "https://www.france24.com/en/video/20260919-china-is-now-rwanda-s-biggest-export-market-%E2%80%93-now-comes-the-hard-part",
+        "country": "China",
+        "relatedCountry": "Rwanda",
+        "published": "2026-09-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "Alliance of Sahel States-Economic Community of West African States",
+        "title": "ECOWAS regional bloc activates counterterror force",
+        "summary": "The Economic Community of West African States (ECOWAS) activates a counter-terror force, facing challenges from the withdrawal of Burkina Faso, Mali, and Niger, which formed the Alliance of Sahel States.",
+        "url": "https://www.voanews.com/a/ecowas-regional-bloc-activates-counterterror-force/8008619.html",
+        "country": "Alliance of Sahel States",
+        "relatedCountry": "Economic Community of West African States",
+        "published": "2025-03-12",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock",
+        "summary": "The ongoing military conflict between the United States and Iran has caused a significant disruption in global oil supply, but market cushions have prevented a major oil shock.",
+        "url": "https://www.cfr.org/articles/crude-calculations-why-the-iran-war-hasnt-yet-caused-an-oil-shock",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-08-28",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+        "summary": "Former US President Trump announces plans for an 'AI Force' and 'AI czar' as part of a strategy to compete with China in artificial intelligence development.",
+        "url": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Canada-France",
+        "title": "France's Macron hosts Canadian PM Carney amid US tensions",
+        "summary": "France strengthens diplomatic ties with Canada through a prime ministerial visit, occurring amidst growing tensions with the United States.",
+        "url": "https://www.france24.com/en/france-s-macron-hosts-canadian-pm-carney-amid-us-tensions",
+        "country": "Canada",
+        "relatedCountry": "France",
+        "published": "2026-09-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "Angola-Democratic Republic of Congo",
+        "title": "DRC, M23 rebels to begin direct peace talks, Angola says",
+        "summary": "Angola will mediate direct peace talks between the Democratic Republic of Congo government and M23 rebels, with Rwanda accused of backing the rebel group.",
+        "url": "https://www.voanews.com/a/drc-m23-rebels-to-begin-direct-peace-talks-angola-says/8008553.html",
+        "country": "Angola",
+        "relatedCountry": "Democratic Republic of Congo",
+        "published": "2025-03-12",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Iran-Saudi Arabia",
+        "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
+        "summary": "The conflict in Yemen, involving Saudi-backed government forces and Iran-backed Houthi militia, is exacerbating a humanitarian crisis and causing displacement to Djibouti.",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168364",
+        "country": "Iran",
+        "relatedCountry": "Saudi Arabia",
+        "published": "2026-09-18",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
+        "summary": "The war between the United States and Iran, also involving Israel and a Pakistan-mediated ceasefire, has transformed regional dynamics and U.S. Middle East policy.",
+        "url": "https://www.cfr.org/articles/the-iran-war-at-six-months-a-region-and-its-relationship-with-the-u-s-transformed",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-08-27",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+        "summary": "Iran has sent conditions to the United States via Qatar to end the ongoing conflict and re-engage in talks.",
+        "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Europe-Russia",
+        "title": "Putin says Europe is 'preparing for war'",
+        "summary": "Russian President Vladimir Putin states that Europe, specifically NATO, is preparing for war with Russia, citing the expansion of the alliance and ongoing support for Ukraine.",
+        "url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
+        "country": "Europe",
+        "relatedCountry": "Russia",
+        "published": "2026-09-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "African Union-Somalia",
+        "title": "Somali forces kill 50 militants in airstrikes after ending hotel siege",
+        "summary": "Somalia, supported by African Union troops and international partners, is engaged in military conflict against the al-Shabab militant group.",
+        "url": "https://www.voanews.com/a/somali-forces-kill-50-militants-in-airstrikes-after-ending-hotel-siege/8008152.html",
+        "country": "African Union",
+        "relatedCountry": "Somalia",
+        "published": "2025-03-12",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "Six Months Into the Iran War, the United States Has No Good Options",
+        "summary": "The United States is six months into a war with Iran, facing challenges with military escalation and economic sanctions, while regional allies like Saudi Arabia, Pakistan, and Turkey form new alliances.",
+        "url": "https://www.cfr.org/articles/six-months-into-the-iran-war-the-united-states-has-no-good-options",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-08-26",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Israel-Lebanon",
+        "title": "Israel targets paramedics in southern Lebanon",
+        "summary": "Israel conducted air strikes in southern Lebanon, targeting paramedics amidst ongoing military conflict.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
+        "country": "Israel",
+        "relatedCountry": "Lebanon",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Cuba-United States",
+        "title": "Millions without power in Cuba as electrical grid collapses again",
+        "summary": "A de facto energy blockade by the United States has worsened Cuba's severe power outages.",
+        "url": "https://www.france24.com/en/millions-without-power-in-cuba-as-electrical-grid-collapses-again",
+        "country": "Cuba",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "India-Mauritius",
+        "title": "India, Mauritius upgrade strategic ties with eye on China",
+        "summary": "India and Mauritius have strengthened their strategic ties in the Indian Ocean, a move seen by analysts as countering China's growing influence in the region.",
+        "url": "https://www.voanews.com/a/india-mauritius-upgrade-strategic-ties-with-eye-on-china/8008079.html",
+        "country": "India",
+        "relatedCountry": "Mauritius",
+        "published": "2025-03-12",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Saudi Arabia-United States",
+        "title": "The U.S.-Led Middle East Order Is Over. The Mecca Agreement Proves It.",
+        "summary": "A defense pact between Pakistan, Saudi Arabia, and Turkey signals a decline in United States' influence in the Middle East.",
+        "url": "https://www.cfr.org/articles/the-u-s-led-middle-east-order-is-over-the-mecca-agreement-proves-it",
+        "country": "Saudi Arabia",
+        "relatedCountry": "United States",
+        "published": "2026-08-13",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "China-India",
+        "title": "Can India Exploit China’s ‘Malacca Dilemma’?",
+        "summary": "India is exploring strategies to exploit China's maritime vulnerability in the Strait of Malacca to offset its military disadvantage against Beijing.",
+        "url": "https://thediplomat.com/2026/09/can-india-exploit-chinas-malacca-dilemma/",
+        "country": "China",
+        "relatedCountry": "India",
+        "published": "2026-09-11",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Afghanistan-Pakistan",
+        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+        "summary": "Pakistan blames Afghanistan's Taliban government for harboring militants, including the TTP, who carry out attacks within Pakistan, a claim Afghanistan denies.",
+        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+        "country": "Afghanistan",
+        "relatedCountry": "Pakistan",
+        "published": "2026-09-18",
+        "source": "BBC News"
+    },
+    {
+        "relationshipKey": "Cuba-United States",
+        "title": "Cuba works to restore power after another major nationwide blackout",
+        "summary": "The United States' imposed energy blockade on Cuba is contributing to frequent nationwide power blackouts and economic pressure on the island nation.",
+        "url": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
+        "country": "Cuba",
+        "relatedCountry": "United States",
+        "published": "2026-09-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Saudi Arabia-Yemen",
+        "title": "Saudi Arabia says air defences intercepted Houthi ballistic missile targeting Riyadh",
+        "summary": "Saudi Arabia intercepted a ballistic missile launched by Houthi rebels from Yemen, indicating ongoing military conflict and cross-border tensions.",
+        "url": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
+        "country": "Saudi Arabia",
+        "relatedCountry": "Yemen",
+        "published": "2026-09-19",
+        "source": "France 24"
     }
 ]
