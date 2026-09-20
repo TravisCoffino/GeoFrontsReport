@@ -174,17 +174,22 @@ function setupCountryLayer(countryData) {
 }
 
 document.getElementById('switchMapButton').addEventListener('click',function(){
+    var switchButton = document.getElementById('switchMapButton');
 
     if(usingEngMap){
         map.removeLayer(engMap);
         nativeMap.addTo(map);
-        document.getElementById('switchMapButton').textContent = "Switch to Simplified Map";
+        switchButton.classList.remove("showDetailedLabel");
+        switchButton.classList.add("showSimplifiedLabel");
+        switchButton.setAttribute("aria-label", "Switch to Simplified Map");
         usingEngMap=false;
     }
     else{
         map.removeLayer(nativeMap);
         engMap.addTo(map);
-        document.getElementById('switchMapButton').textContent = "Switch to Detailed Map";
+        switchButton.classList.remove("showSimplifiedLabel");
+        switchButton.classList.add("showDetailedLabel");
+        switchButton.setAttribute("aria-label", "Switch to Detailed Map");
         usingEngMap=true;
     }
 
@@ -520,7 +525,6 @@ function showAllRoutes() {
         countryLayer.resetStyle();
     }
 
-    document.getElementById("hideCountryRoutesButton").hidden=true;
     document.getElementById("selectedCountryLabel").textContent="";
 
     setActiveRouteButton("showAllRoutesButton");
@@ -536,7 +540,6 @@ function startCountryExploration() {
         countryLayer.resetStyle();
     }
 
-    document.getElementById("hideCountryRoutesButton").hidden=true;
     document.getElementById("selectedCountryLabel").textContent=
     "Click a country to reveal its routes."
 
@@ -582,22 +585,6 @@ function showRoutesForCountry(countryName, clickedLayer){
 
     document.getElementById("selectedCountryLabel").textContent=
         "Showing routes for " + selectedCountry;
-
-    document.getElementById("hideCountryRoutesButton").hidden=false;
-    }
-
-
-function hideSelectedCountryRoutes() {
-    selectedCountry= null;
-    hideEveryRoute();
-
-    if (countryLayer) {
-        countryLayer.resetStyle();
-    }
-
-    document.getElementById("hideCountryRoutesButton").hidden = true;
-    document.getElementById("selectedCountryLabel").textContent =
-        "Click a country to reveal its routes.";
 }
 
 function setActiveRouteButton(activeButtonId) {
@@ -617,10 +604,6 @@ document
 document
     .getElementById("exploreCountryButton")
     .addEventListener("click", startCountryExploration);
-
-document
-    .getElementById("hideCountryRoutesButton")
-    .addEventListener("click", hideSelectedCountryRoutes);
 
 document
     .getElementById("relationshipSearch")

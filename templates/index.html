@@ -4,10 +4,6 @@
         <meta charset="UTF-8">
         <title>Geo Fronts Report</title>
 
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Schoolbell&display=swap" rel="stylesheet">
-
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
     <link rel="stylesheet" href="{{ url_for('static',filename='style.css')}}">
@@ -22,12 +18,22 @@
             <button id="loginButton">Login to submit articles</button>
         </div>-->
         <div id="mapControls">
-            <button id="switchMapButton">Switch Map Details</button>
+            <button
+                id="switchMapButton"
+                class="showDetailedLabel"
+                aria-label="Switch to Detailed Map"
+            ></button>
 
             <div id="routeControls">
-                <button id="showAllRoutesButton" class="active">Show all routes</button>
-                <button id="exploreCountryButton">Explore by country</button>
-                <button id="hideCountryRoutesButton" hidden>Hide lines</button>
+                <button
+                    id="showAllRoutesButton"
+                    class="active"
+                    aria-label="Show all routes"
+                ></button>
+                <button
+                    id="exploreCountryButton"
+                    aria-label="Explore by country"
+                ></button>
                 <span id="selectedCountryLabel"></span>
             </div>
         </div>
