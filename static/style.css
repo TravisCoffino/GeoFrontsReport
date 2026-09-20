@@ -160,7 +160,8 @@ body {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    height: 48px;
+    box-sizing: border-box;
+    height: 54px;
     padding: 5px 10px;
     border: 2px solid #565047;
     border-radius: 8px 4px 9px 5px / 5px 9px 4px 8px;
@@ -177,49 +178,47 @@ body {
 #routeControls button::before {
     content: "";
     display: block;
-    background-image: url("/static/button-handwriting.png");
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     mix-blend-mode: multiply;
 }
 
 #switchMapButton {
-    width: 252px;
+    width: 302px;
 }
 
 #switchMapButton::before {
-    width: 230px;
+    width: 280px;
     height: 36px;
-    background-size: 483px 77px;
 }
 
 #switchMapButton.showDetailedLabel::before {
-    background-position: -8px -6px;
+    background-image: url("/static/button-switch-detailed.png");
 }
 
 #switchMapButton.showSimplifiedLabel::before {
-    background-position: -9px -41px;
+    background-image: url("/static/button-switch-simplified.png");
 }
 
 #showAllRoutesButton {
-    width: 170px;
+    width: 200px;
 }
 
 #showAllRoutesButton::before {
-    width: 151px;
-    height: 28px;
-    background-size: 604px 97px;
-    background-position: -325px -1px;
+    width: 180px;
+    height: 34px;
+    background-image: url("/static/button-show-all-routes.png");
 }
 
 #exploreCountryButton {
-    width: 220px;
+    width: 210px;
 }
 
 #exploreCountryButton::before {
-    width: 202px;
-    height: 29px;
-    background-size: 459px 73px;
-    background-position: -246px -19px;
+    width: 190px;
+    height: 34px;
+    background-image: url("/static/button-explore-country.png");
 }
 
 #routeControls button:nth-of-type(1) {
