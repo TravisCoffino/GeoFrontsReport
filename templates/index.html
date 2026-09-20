@@ -3,7 +3,10 @@
     <head>
         <meta charset="UTF-8">
         <title>Geo Fronts Report</title>
-        
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
 
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
@@ -11,25 +14,40 @@
     </head>
 
     <body>
-        <h1 style="text-align:center;">The Geo Fronts Report</h1>
-        <h2 style="text-align:center;">Stay up to date with the worlds geopolitics</h2>
+        <header id="siteHeader">
+            <h1 id="siteMasthead">The Geo Fronts Report</h1>
+            <p id="siteTagline">Stay up to date with the world's geopolitics</p>
+        </header>
         <!--<div id="authForm">
             <button id="loginButton">Login to submit articles</button>
         </div>-->
-        <button id="switchMapButton">Switch Between Map Details</button>
+        <div id="mapControls">
+            <button id="switchMapButton">Switch Map Details</button>
 
-        <div id="routeControls">
-            <button id="showAllRoutesButton" class="active">Show all routes</button>
-            <button id="exploreCountryButton">Explore by country</button>
-            <button id="hideCountryRoutesButton" hidden>Hide lines</button>
-            <span id=""selectedCountryLabel></span>
+            <div id="routeControls">
+                <button id="showAllRoutesButton" class="active">Show all routes</button>
+                <button id="exploreCountryButton">Explore by country</button>
+                <button id="hideCountryRoutesButton" hidden>Hide lines</button>
+                <span id="selectedCountryLabel"></span>
+            </div>
         </div>
         <!--<button id="switchGeoLevelButton">Switch Geo Level Button</button>-->
         <div id="mainLayout">
             <div id="map"></div>
 
             <div id="articleSidebar">
-                <h2>Recent Relationships:</h2>
+                <div id="sidebarHeader">
+                    <h2>Recent Relationships</h2>
+                    <label for="relationshipSearch" class="visuallyHidden">
+                        Search country relationships
+                    </label>
+                    <input
+                        id="relationshipSearch"
+                        type="search"
+                        placeholder="Search countries…"
+                        autocomplete="off"
+                    >
+                </div>
                 <div id="articleList"></div>
             </div>
         </div>

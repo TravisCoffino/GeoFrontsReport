@@ -27,6 +27,10 @@ var routeMode= "all";
 var routeRecords= [];
 var countryLayer= null;
 var selectedCountry= null;
+var countryCenters = {};
+var routeAnimationTimers = [];
+var currentRelationshipPairs = {};
+var currentSidebarDaysSince = 30;
 
 var countryNameAliases = {
     "United States of America": "United States",
@@ -39,6 +43,86 @@ var countryNameAliases = {
 
 function normalizeCountryName(countryName) {
     return countryNameAliases[countryName] || countryName;
+}
+
+function calculateRingCenter(ring) {
+    var signedArea = 0;
+    var centerX = 0;
+    var centerY = 0;
+
+    for (var pointIndex = 0; pointIndex < ring.length - 1; pointIndex++) {
+        var currentPoint = ring[pointIndex];
+        var nextPoint = ring[pointIndex + 1];
+        var crossProduct =
+            currentPoint[0] * nextPoint[1] -
+            nextPoint[0] * currentPoint[1];
+
+        signedArea += crossProduct;
+        centerX += (currentPoint[0] + nextPoint[0]) * crossProduct;
+        centerY += (currentPoint[1] + nextPoint[1]) * crossProduct;
+    }
+
+    signedArea /= 2;
+
+    if (Math.abs(signedArea) < 0.000001) {
+        return null;
+    }
+
+    return {
+        area: Math.abs(signedArea),
+        lat: centerY / (6 * signedArea),
+        lng: centerX / (6 * signedArea)
+    };
+}
+
+function calculateCountryCenter(geometry) {
+    var polygons = geometry.type === "Polygon"
+        ? [geometry.coordinates]
+        : geometry.coordinates;
+    var totalArea = 0;
+    var weightedLat = 0;
+    var weightedLng = 0;
+
+    polygons.forEach(function (polygon) {
+        var polygonCenter = calculateRingCenter(polygon[0]);
+
+        if (!polygonCenter) {
+            return;
+        }
+
+        totalArea += polygonCenter.area;
+        weightedLat += polygonCenter.lat * polygonCenter.area;
+        weightedLng += polygonCenter.lng * polygonCenter.area;
+    });
+
+    if (totalArea === 0) {
+        return null;
+    }
+
+    return {
+        lat: weightedLat / totalArea,
+        lng: weightedLng / totalArea
+    };
+}
+
+function getCountryPoint(countryName, fallbackCoords) {
+    var normalizedName = normalizeCountryName(countryName);
+    var center = countryCenters[normalizedName];
+
+    if (center) {
+        return center;
+    }
+
+    var fallback = fallbackCoords[countryName] || fallbackCoords[normalizedName];
+
+    if (!fallback) {
+        return null;
+    }
+
+    return {
+        lat: fallback.lat,
+        lng: fallback.long
+    };
 }
 
 var normalCountryStyle = {
@@ -57,33 +141,37 @@ var selectedCountryStyle = {
 }
 
 
-//fetch geoJSON file for polygon coords
-fetch("/static/countries.geo.json")
-    .then(function(response){
-        return response.json();
-    })
-    .then(function (data) {
-        countryLayer = L.geoJSON(data, {
-            interactive: true,
+function setupCountryLayer(countryData) {
+    countryData.features.forEach(function (feature) {
+        var countryName = normalizeCountryName(feature.properties.name);
+        var center = calculateCountryCenter(feature.geometry);
 
-            style: function () {
-                return normalCountryStyle;
-            },
+        if (center) {
+            countryCenters[countryName] = center;
+        }
+    });
 
-            onEachFeature: function (feature, layer) {
-                layer.on("click", function () {
-                    if (routeMode !== "country") {
-                        return;
-                    }
+    countryLayer = L.geoJSON(countryData, {
+        interactive: true,
 
-                    showRoutesForCountry(
-                        normalizeCountryName(feature.properties.name),
-                        layer
-                    );
-                });
-            }
-        }).addTo(map);
-    })
+        style: function () {
+            return normalCountryStyle;
+        },
+
+        onEachFeature: function (feature, layer) {
+            layer.on("click", function () {
+                if (routeMode !== "country") {
+                    return;
+                }
+
+                showRoutesForCountry(
+                    normalizeCountryName(feature.properties.name),
+                    layer
+                );
+            });
+        }
+    }).addTo(map);
+}
 
 document.getElementById('switchMapButton').addEventListener('click',function(){
 
@@ -105,6 +193,9 @@ document.getElementById('switchMapButton').addEventListener('click',function(){
 
 
 Promise.all([
+    fetch("/static/countries.geo.json").then(function(response){
+        return response.json();
+    }),
     fetch("/coords").then(function(response){
         return response.json();
     }),
@@ -112,9 +203,11 @@ Promise.all([
         return response.json();
     })
 ]).then(function(results){
-    var coords=results[0];
-    var articleInfo=results[1];
+    var countryData=results[0];
+    var coords=results[1];
+    var articleInfo=results[2];
 
+    setupCountryLayer(countryData);
     drawMapLines(articleInfo,coords);
 });
 
@@ -142,14 +235,27 @@ function recentArticle(article, daysSince){
     return articleDate>=cutoffDate;
 }
 
-function addToSidebar(relationshipPairs,daysSince){
+function addToSidebar(relationshipPairs,daysSince,searchQuery){
     var articleList=document.getElementById("articleList");
-
+    var normalizedQuery = (searchQuery || "").trim().toLocaleLowerCase();
     var sidebarHTML="";
+    var visibleRelationshipCount = 0;
 
     for(var key in relationshipPairs){
         var groupedArticles=relationshipPairs[key];
         var firstArticle=groupedArticles[0];
+        var relationshipSearchText = (
+            firstArticle.country + " " + firstArticle.relatedCountry
+        ).toLocaleLowerCase();
+
+        if (
+            normalizedQuery &&
+            !relationshipSearchText.includes(normalizedQuery)
+        ) {
+            continue;
+        }
+
+        visibleRelationshipCount += 1;
 
         sidebarHTML+="<div class='articleCard'>";
         sidebarHTML+="<h3>"+firstArticle.country+" - " + firstArticle.relatedCountry+"</h3>";
@@ -165,7 +271,100 @@ function addToSidebar(relationshipPairs,daysSince){
         });
         sidebarHTML+="</div>";
     }
+
+    if (visibleRelationshipCount === 0) {
+        sidebarHTML = "<p class='noRelationshipResults'>" +
+            "No country relationships match your search." +
+            "</p>";
+    }
+
     articleList.innerHTML=sidebarHTML;
+}
+
+function stableRouteDirection(routeKey) {
+    var hash = 0;
+
+    for (var characterIndex = 0; characterIndex < routeKey.length; characterIndex++) {
+        hash = ((hash << 5) - hash) + routeKey.charCodeAt(characterIndex);
+        hash |= 0;
+    }
+
+    return Math.abs(hash) % 2 === 0 ? 1 : -1;
+}
+
+function createCurvedRoutePoints(startPoint, endPoint, routeKey) {
+    var latDifference = endPoint.lat - startPoint.lat;
+    var lngDifference = endPoint.lng - startPoint.lng;
+    var routeDistance = Math.sqrt(
+        latDifference * latDifference + lngDifference * lngDifference
+    );
+    var curveAmount = Math.min(Math.max(routeDistance * 0.16, 4), 28);
+    var direction = stableRouteDirection(routeKey);
+    var perpendicularLat = routeDistance === 0
+        ? 0
+        : (-lngDifference / routeDistance) * curveAmount * direction;
+    var perpendicularLng = routeDistance === 0
+        ? 0
+        : (latDifference / routeDistance) * curveAmount * direction;
+    var controlPoint = {
+        lat: (startPoint.lat + endPoint.lat) / 2 + perpendicularLat,
+        lng: (startPoint.lng + endPoint.lng) / 2 + perpendicularLng
+    };
+    var curvePoints = [];
+    var pointCount = 36;
+
+    for (var pointIndex = 0; pointIndex <= pointCount; pointIndex++) {
+        var progress = pointIndex / pointCount;
+        var inverseProgress = 1 - progress;
+        var latitude =
+            inverseProgress * inverseProgress * startPoint.lat +
+            2 * inverseProgress * progress * controlPoint.lat +
+            progress * progress * endPoint.lat;
+        var longitude =
+            inverseProgress * inverseProgress * startPoint.lng +
+            2 * inverseProgress * progress * controlPoint.lng +
+            progress * progress * endPoint.lng;
+
+        curvePoints.push([latitude, longitude]);
+    }
+
+    return curvePoints;
+}
+
+function clearRouteAnimations() {
+    routeAnimationTimers.forEach(function (timer) {
+        clearTimeout(timer);
+    });
+    routeAnimationTimers = [];
+}
+
+function animateRouteLine(line, delay) {
+    var timer = setTimeout(function () {
+        if (!line._path || !map.hasLayer(line)) {
+            return;
+        }
+
+        var path = line._path;
+        var pathLength = path.getTotalLength();
+
+        path.style.transition = "none";
+        path.style.strokeDasharray = pathLength + " " + pathLength;
+        path.style.strokeDashoffset = pathLength;
+        path.getBoundingClientRect();
+
+        requestAnimationFrame(function () {
+            path.style.transition = "stroke-dashoffset 850ms ease-out";
+            path.style.strokeDashoffset = "0";
+        });
+
+        path.addEventListener("transitionend", function finishAnimation() {
+            path.style.transition = "";
+            path.style.strokeDasharray = "";
+            path.style.strokeDashoffset = "";
+        }, {once: true});
+    }, delay);
+
+    routeAnimationTimers.push(timer);
 }
 
 function drawMapLines(articlesTest,coords){
@@ -189,8 +388,8 @@ function drawMapLines(articlesTest,coords){
         var groupedArticles=relationshipPairs[key];
         var firstArticle=groupedArticles[0];
 
-        var country1=coords[firstArticle.country];
-        var country2=coords[firstArticle.relatedCountry];
+        var country1=getCountryPoint(firstArticle.country, coords);
+        var country2=getCountryPoint(firstArticle.relatedCountry, coords);
 
         if(!country1||!country2){
             console.log("Missing coordinates for: ",firstArticle.country, firstArticle.relatedCountry);
@@ -251,19 +450,23 @@ function drawMapLines(articlesTest,coords){
         }*/
 });
 
-var line=L.polyline([
-        [country1.lat, country1.long],
-        [country2.lat, country2.long]
-    ], {
-        weight: 5.75,
-        opacity: 0.25,
-        color: "red"
+    var routePoints = createCurvedRoutePoints(
+        country1,
+        country2,
+        firstArticle.relationshipKey
+    );
+    var line=L.polyline(routePoints, {
+        weight: 3.5,
+        opacity: 0.3,
+        color: "red",
+        className: "relationship-line"
     });
 
     routeRecords.push({
         line: line,
         country1: firstArticle.country,
-        country2: firstArticle.relatedCountry
+        country2: firstArticle.relatedCountry,
+        routePoints: routePoints
     });
 
     if (
@@ -282,10 +485,18 @@ var line=L.polyline([
         line.bringToFront();
 }
 
-addToSidebar(relationshipPairs,daysSince);
+currentRelationshipPairs = relationshipPairs;
+currentSidebarDaysSince = daysSince;
+addToSidebar(
+    relationshipPairs,
+    daysSince,
+    document.getElementById("relationshipSearch").value
+);
 }
 
 function hideEveryRoute() {
+    clearRouteAnimations();
+
     routeRecords.forEach(function (route) {
         if (map.hasLayer(route.line)){
             map.removeLayer(route.line);
@@ -297,6 +508,11 @@ function showAllRoutes() {
     routeMode = "all";
     selectedCountry = null;
     routeRecords.forEach(function(route){
+        route.line.setLatLngs(route.routePoints);
+        route.line.setStyle({
+            weight: 3.5,
+            opacity: 0.3
+        });
         route.line.addTo(map);
     });
 
@@ -331,14 +547,29 @@ function showRoutesForCountry(countryName, clickedLayer){
     selectedCountry = normalizeCountryName(countryName);
     hideEveryRoute();
 
+    var visibleRouteIndex = 0;
+
     routeRecords.forEach(function (route){
         var isConnected=
             normalizeCountryName(route.country1) === selectedCountry ||
             normalizeCountryName(route.country2) === selectedCountry;
 
         if (isConnected){
+            var startsAtFirstCountry =
+                normalizeCountryName(route.country1) === selectedCountry;
+            var animatedPoints = startsAtFirstCountry
+                ? route.routePoints
+                : route.routePoints.slice().reverse();
+
+            route.line.setLatLngs(animatedPoints);
+            route.line.setStyle({
+                weight: 4,
+                opacity: 0.65
+            });
             route.line.addTo(map);
             route.line.bringToFront();
+            animateRouteLine(route.line, visibleRouteIndex * 45);
+            visibleRouteIndex += 1;
         }
     });
 
@@ -390,3 +621,13 @@ document
 document
     .getElementById("hideCountryRoutesButton")
     .addEventListener("click", hideSelectedCountryRoutes);
+
+document
+    .getElementById("relationshipSearch")
+    .addEventListener("input", function (event) {
+        addToSidebar(
+            currentRelationshipPairs,
+            currentSidebarDaysSince,
+            event.target.value
+        );
+    });
