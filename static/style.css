@@ -7,7 +7,7 @@ body {
     margin: 0;
     padding: 22px 28px 36px;
     color: #292722;
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #f2eddf;
     background-image:
         radial-gradient(circle at 18% 22%, rgba(91, 77, 51, 0.07) 0 0.7px, transparent 0.9px),
@@ -26,7 +26,7 @@ body {
 #siteMasthead {
     margin: 0;
     color: #171612;
-    font-family: "UnifrakturCook", "Old English Text MT", Georgia, serif;
+    font-family: "Cambria Math", "STIX Two Math", "Segoe UI Symbol", serif;
     font-size: clamp(44px, 7vw, 76px);
     font-weight: 700;
     line-height: 1;
@@ -87,7 +87,7 @@ body {
     width: 100%;
     padding: 9px 11px;
     color: #302d27;
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     border: 1.5px solid #777064;
     border-radius: 3px 7px 4px 6px;
@@ -159,9 +159,9 @@ body {
     position: relative;
     padding: 8px 15px 7px;
     color: #35312b;
-    font-family: "Kalam", "Segoe Print", cursive;
-    font-size: 15px;
-    font-weight: 700;
+    font-family: "Schoolbell", "Segoe Print", "Bradley Hand", cursive;
+    font-size: 18px;
+    font-weight: 400;
     line-height: 1.2;
     border: 2px solid #565047;
     border-radius: 8px 4px 9px 5px / 5px 9px 4px 8px;
@@ -235,7 +235,7 @@ body {
 
 #selectedCountryLabel {
     color: #4b5563;
-    font-family: "Kalam", "Segoe Print", cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
 
