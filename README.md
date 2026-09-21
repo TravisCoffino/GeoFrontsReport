@@ -1,3 +1,8 @@
+## Setup
+
+Geo Fronts is now hosted on Vercel! Visit: https://geofrontsreport.vercel.app to view it!
+
+
 # The Geo Fronts Report
 
 The Geo Fronts Report is a website used to scrape articles from multiple renowed news sources, filter them and classify them based on a two-country relationship to see current geopolitical news stories on an interactive map.
@@ -21,10 +26,6 @@ The Geo Fronts Report is a website used to scrape articles from multiple renowed
 * JavaScript
 * Leaflet / Carto / OpenStreetMap
 * Pytest
-
-## Setup
-
-Geo Fronts is now hosted on Vercel! Visit: https://geofrontsreport.vercel.app to view it!
 
 ## Acknowledgements
 
