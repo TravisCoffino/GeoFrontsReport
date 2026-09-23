@@ -330,16 +330,6 @@
         "source": "BBC News"
     },
     {
-        "relationshipKey": "South Africa-United States",
-        "title": "US to expel South Africa ambassador as relations deteriorate",
-        "summary": "The United States is expelling South Africa's ambassador and suspending aid, signaling deteriorating relations over disagreements on land expropriation and foreign policy.",
-        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
-        "country": "South Africa",
-        "relatedCountry": "United States",
-        "published": "2025-03-14",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "Iran-United States",
         "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
         "summary": "Iran has conveyed its conditions for ending the war and lifting US sanctions to the United States via Qatari mediators.",
@@ -448,16 +438,6 @@
         "relatedCountry": "United States",
         "published": "2026-09-19",
         "source": "France 24"
-    },
-    {
-        "relationshipKey": "Botswana-United Kingdom",
-        "title": "Botswana hunting revenues almost double amid UK opposition",
-        "summary": "Botswana's hunting revenues have increased, despite opposition from the United Kingdom and other Western countries regarding the importation of wildlife trophies.",
-        "url": "https://www.voanews.com/a/botswana-hunting-revenues-almost-double-amid-uk-opposition-/8010588.html",
-        "country": "Botswana",
-        "relatedCountry": "United Kingdom",
-        "published": "2025-03-14",
-        "source": "Voice of America"
     },
     {
         "relationshipKey": "Saudi Arabia-Yemen",
@@ -610,16 +590,6 @@
         "source": "Deutsche Welle"
     },
     {
-        "relationshipKey": "Morocco-Spain",
-        "title": "IS in Sahel expands terror threat beyond strongholds",
-        "summary": "Morocco and Spain are coordinating counter-terrorism efforts by dismantling cells aligned with the Islamic State in the Sahel, which is expanding its terror threat across North and West Africa.",
-        "url": "https://www.voanews.com/a/is-in-sahel-expands-terror-threat-beyond-strongholds/8009027.html",
-        "country": "Morocco",
-        "relatedCountry": "Spain",
-        "published": "2025-03-12",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "Russia-United States",
         "title": "Trump signs sweeping Russia sanctions bill",
         "summary": "The United States has imposed broad sanctions on Russia's energy sector, affecting its economy and major oil and gas purchasers, with additional sanctions targeting Iran.",
@@ -650,16 +620,6 @@
         "source": "France 24"
     },
     {
-        "relationshipKey": "Alliance of Sahel States-Economic Community of West African States",
-        "title": "ECOWAS regional bloc activates counterterror force",
-        "summary": "The Economic Community of West African States (ECOWAS) activates a counter-terror force, facing challenges from the withdrawal of Burkina Faso, Mali, and Niger, which formed the Alliance of Sahel States.",
-        "url": "https://www.voanews.com/a/ecowas-regional-bloc-activates-counterterror-force/8008619.html",
-        "country": "Alliance of Sahel States",
-        "relatedCountry": "Economic Community of West African States",
-        "published": "2025-03-12",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "Iran-United States",
         "title": "Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock",
         "summary": "The ongoing military conflict between the United States and Iran has caused a significant disruption in global oil supply, but market cushions have prevented a major oil shock.",
@@ -688,16 +648,6 @@
         "relatedCountry": "France",
         "published": "2026-09-19",
         "source": "France 24"
-    },
-    {
-        "relationshipKey": "Angola-Democratic Republic of Congo",
-        "title": "DRC, M23 rebels to begin direct peace talks, Angola says",
-        "summary": "Angola will mediate direct peace talks between the Democratic Republic of Congo government and M23 rebels, with Rwanda accused of backing the rebel group.",
-        "url": "https://www.voanews.com/a/drc-m23-rebels-to-begin-direct-peace-talks-angola-says/8008553.html",
-        "country": "Angola",
-        "relatedCountry": "Democratic Republic of Congo",
-        "published": "2025-03-12",
-        "source": "Voice of America"
     },
     {
         "relationshipKey": "Iran-Saudi Arabia",
@@ -740,16 +690,6 @@
         "source": "France 24"
     },
     {
-        "relationshipKey": "African Union-Somalia",
-        "title": "Somali forces kill 50 militants in airstrikes after ending hotel siege",
-        "summary": "Somalia, supported by African Union troops and international partners, is engaged in military conflict against the al-Shabab militant group.",
-        "url": "https://www.voanews.com/a/somali-forces-kill-50-militants-in-airstrikes-after-ending-hotel-siege/8008152.html",
-        "country": "African Union",
-        "relatedCountry": "Somalia",
-        "published": "2025-03-12",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "Iran-United States",
         "title": "Six Months Into the Iran War, the United States Has No Good Options",
         "summary": "The United States is six months into a war with Iran, facing challenges with military escalation and economic sanctions, while regional allies like Saudi Arabia, Pakistan, and Turkey form new alliances.",
@@ -778,26 +718,6 @@
         "relatedCountry": "United States",
         "published": "2026-09-19",
         "source": "France 24"
-    },
-    {
-        "relationshipKey": "India-Mauritius",
-        "title": "India, Mauritius upgrade strategic ties with eye on China",
-        "summary": "India and Mauritius have strengthened their strategic ties in the Indian Ocean, a move seen by analysts as countering China's growing influence in the region.",
-        "url": "https://www.voanews.com/a/india-mauritius-upgrade-strategic-ties-with-eye-on-china/8008079.html",
-        "country": "India",
-        "relatedCountry": "Mauritius",
-        "published": "2025-03-12",
-        "source": "Voice of America"
-    },
-    {
-        "relationshipKey": "Saudi Arabia-United States",
-        "title": "The U.S.-Led Middle East Order Is Over. The Mecca Agreement Proves It.",
-        "summary": "A defense pact between Pakistan, Saudi Arabia, and Turkey signals a decline in United States' influence in the Middle East.",
-        "url": "https://www.cfr.org/articles/the-u-s-led-middle-east-order-is-over-the-mecca-agreement-proves-it",
-        "country": "Saudi Arabia",
-        "relatedCountry": "United States",
-        "published": "2026-08-13",
-        "source": "Council on Foreign Relations"
     },
     {
         "relationshipKey": "China-India",
@@ -838,5 +758,115 @@
         "relatedCountry": "Yemen",
         "published": "2026-09-19",
         "source": "France 24"
+    },
+    {
+        "relationshipKey": "Pacific Islands-United States",
+        "title": "Busting the Myths of the US Military’s Presence in Hawai‘i",
+        "summary": "The United States' military presence in Hawaii, a strategic hub for its Pacific Islands policy, is facing scrutiny as land leases expire, raising questions about its regional impact.",
+        "url": "https://thediplomat.com/2026/09/busting-the-myths-of-the-us-militarys-presence-in-hawaii/",
+        "country": "Pacific Islands",
+        "relatedCountry": "United States",
+        "published": "2026-09-22",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Morocco-Spain",
+        "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
+        "summary": "A controversy in Spanish football highlights the political tensions between Spain and Morocco regarding the influx of migrants into the Spanish enclave of Ceuta.",
+        "url": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
+        "country": "Morocco",
+        "relatedCountry": "Spain",
+        "published": "2026-09-21",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "South Africa-United States",
+        "title": "US to expel South Africa ambassador as relations deteriorate",
+        "summary": "The United States is expelling South Africa's ambassador and suspending aid due to deteriorating relations over a controversial land expropriation act.",
+        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
+        "country": "South Africa",
+        "relatedCountry": "United States",
+        "published": "2025-03-14",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "France-Russia",
+        "title": "La Russie, éternel sparadrap du RN ?",
+        "summary": "France's Rassemblement National party is clarifying its stance on Russia, denouncing Moscow's attempts at interference and hybrid warfare amidst broader international tensions, especially regarding the war in Ukraine.",
+        "url": "https://www.politico.eu/podcast/playbook-paris-podcast/la-russie-eternel-sparadrap-du-rn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "France",
+        "relatedCountry": "Russia",
+        "published": "2026-09-21",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
+        "summary": "UN experts detail the human cost of Russia's invasion of Ukraine, including attacks on civilian infrastructure and the intimidation of Russian critics abroad.",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168386",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-09-21",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "South Korea-Vietnam",
+        "title": "Nuclear power is back on Southeast Asia's energy agenda",
+        "summary": "Several Southeast Asian nations, including Vietnam, are deepening cooperation on nuclear power projects with countries like South Korea to enhance energy security.",
+        "url": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-top-1022-rdf",
+        "country": "South Korea",
+        "relatedCountry": "Vietnam",
+        "published": "2026-09-21",
+        "source": "Deutsche Welle"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Russia has ‘lost control’ of its oil industry due to Ukraine war, says Trump",
+        "summary": "Donald Trump stated that the Ukraine war has caused Russia to lose control of its oil industry, calling for an end to the conflict, while Ukraine responded with conditions for de-escalation.",
+        "url": "https://www.politico.eu/article/russia-has-lost-control-of-its-oil-sector-trump-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-09-21",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Finland-United States",
+        "title": "22 countries back call to keep AI ‘under human control’",
+        "summary": "Finland, as a main organizer of a 22-nation declaration on AI oversight, is diplomatically engaging the United States to join a global regulatory framework.",
+        "url": "https://www.politico.eu/article/20-countries-urge-to-strenghten-oversight-of-ai-to-keep-it-under-human-control/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "Finland",
+        "relatedCountry": "United States",
+        "published": "2026-09-21",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "As US and China talk, middle powers jostle for position",
+        "summary": "The United States and China engage in diplomatic talks and economic rivalry, while the European Union navigates trade policies with both nations.",
+        "url": "https://www.dw.com/en/as-us-and-china-talk-middle-powers-jostle-for-position/a-79356540?maca=en-rss-en-top-1022-rdf",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-21",
+        "source": "Deutsche Welle"
+    },
+    {
+        "relationshipKey": "Botswana-United Kingdom",
+        "title": "Botswana hunting revenues almost double amid UK opposition",
+        "summary": "Botswana's revenue from hunting licenses has nearly doubled, despite growing opposition from the United Kingdom and other European countries considering bans on wildlife trophy imports.",
+        "url": "https://www.voanews.com/a/botswana-hunting-revenues-almost-double-amid-uk-opposition-/8010588.html",
+        "country": "Botswana",
+        "relatedCountry": "United Kingdom",
+        "published": "2025-03-14",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "European Union-Russia",
+        "title": "EU countries move toward Russia sanctions deal",
+        "summary": "The European Union is negotiating with its member states to renew sanctions against Russia, amidst discussions to remove specific Russian billionaires from the sanctions list.",
+        "url": "https://www.politico.eu/article/eu-countries-move-towards-russia-sanctions-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "European Union",
+        "relatedCountry": "Russia",
+        "published": "2026-09-21",
+        "source": "Politico Europe"
     }
 ]
