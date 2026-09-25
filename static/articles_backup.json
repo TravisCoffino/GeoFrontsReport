@@ -780,16 +780,6 @@
         "source": "Al Jazeera"
     },
     {
-        "relationshipKey": "South Africa-United States",
-        "title": "US to expel South Africa ambassador as relations deteriorate",
-        "summary": "The United States is expelling South Africa's ambassador and suspending aid due to deteriorating relations over a controversial land expropriation act.",
-        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
-        "country": "South Africa",
-        "relatedCountry": "United States",
-        "published": "2025-03-14",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "France-Russia",
         "title": "La Russie, éternel sparadrap du RN ?",
         "summary": "France's Rassemblement National party is clarifying its stance on Russia, denouncing Moscow's attempts at interference and hybrid warfare amidst broader international tensions, especially regarding the war in Ukraine.",
@@ -850,16 +840,6 @@
         "source": "Deutsche Welle"
     },
     {
-        "relationshipKey": "Botswana-United Kingdom",
-        "title": "Botswana hunting revenues almost double amid UK opposition",
-        "summary": "Botswana's revenue from hunting licenses has nearly doubled, despite growing opposition from the United Kingdom and other European countries considering bans on wildlife trophy imports.",
-        "url": "https://www.voanews.com/a/botswana-hunting-revenues-almost-double-amid-uk-opposition-/8010588.html",
-        "country": "Botswana",
-        "relatedCountry": "United Kingdom",
-        "published": "2025-03-14",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "European Union-Russia",
         "title": "EU countries move toward Russia sanctions deal",
         "summary": "The European Union is negotiating with its member states to renew sanctions against Russia, amidst discussions to remove specific Russian billionaires from the sanctions list.",
@@ -867,6 +847,156 @@
         "country": "European Union",
         "relatedCountry": "Russia",
         "published": "2026-09-21",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "Trump and Xi: Strongmen at the Temple of Thymos",
+        "summary": "The article analyzes the impact of the strongman leadership styles of former U.S. President Donald Trump and Chinese President Xi Jinping on the relationship between the United States and China.",
+        "url": "https://thediplomat.com/2026/09/trump-and-xi-strongmen-at-the-temple-of-thymos/",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-23",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Israel-Syria",
+        "title": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
+        "summary": "Syria's President warns that Israeli attacks are endangering its post-war recovery and demands Israel withdraw from Syrian territory, including the Golan Heights.",
+        "url": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
+        "country": "Israel",
+        "relatedCountry": "Syria",
+        "published": "2026-09-23",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Palestine-United States",
+        "title": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
+        "summary": "The US-led Board of Peace proposes a reconstruction and governance plan for Gaza amidst ongoing Israeli-Palestinian conflict and calls for Hamas disarmament.",
+        "url": "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-top-1022-rdf",
+        "country": "Palestine",
+        "relatedCountry": "United States",
+        "published": "2026-09-23",
+        "source": "Deutsche Welle"
+    },
+    {
+        "relationshipKey": "South Africa-United States",
+        "title": "US to expel South Africa ambassador as relations deteriorate",
+        "summary": "Relations between the United States and South Africa have deteriorated after the US announced the expulsion of South Africa's ambassador and suspended aid over a controversial land expropriation act.",
+        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
+        "country": "South Africa",
+        "relatedCountry": "United States",
+        "published": "2025-03-14",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Israel-Syria",
+        "title": "Syria begins ‘new phase of revival’, President Al-Sharaa tells General Assembly",
+        "summary": "Syrian President Al-Sharaa addressed the UN General Assembly, declaring a new phase of national revival and condemning Israel's continued incursions and annexation of the Golan Heights.",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168411",
+        "country": "Israel",
+        "relatedCountry": "Syria",
+        "published": "2026-09-23",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "Iran's President Delivers Wartime Address at UN, Accusing United States of Terrorism",
+        "summary": "Iran's president accused the United States of terrorism and aggression during a defiant wartime speech at the United Nations General Assembly.",
+        "url": "https://www.news4jax.com/news/world/2026/09/23/irans-president-to-speak-at-the-united-nations-in-rare-wartime-address/",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-09-23",
+        "source": "GDELT"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "Ten Issues to Watch at the Trump-Xi Summit in Washington",
+        "summary": "The article details key issues and the asymmetric nature of the relationship between the United States and China during an upcoming summit between President Trump and President Xi.",
+        "url": "https://www.cfr.org/articles/when-xi-comes-to-washington",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-22",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "India-Nepal",
+        "title": "Hindutva Is Slowly Seeping Into Nepal",
+        "summary": "India's Hindutva ideology is influencing Nepal, leading to increased Hindu-Muslim tensions and societal changes.",
+        "url": "https://thediplomat.com/2026/09/hindutva-is-slowly-seeping-into-nepal/",
+        "country": "India",
+        "relatedCountry": "Nepal",
+        "published": "2026-09-22",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Ethiopia-Tigray",
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+        "summary": "Ethiopia and the Tigray region accuse each other of new offensives, escalating fears of renewed full-scale conflict despite international calls for de-escalation.",
+        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "country": "Ethiopia",
+        "relatedCountry": "Tigray",
+        "published": "2026-09-23",
+        "source": "BBC News"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "Iran will 'never bend at the knee', Pezeshkian tells UN in defiant wartime address",
+        "summary": "Iran's President Pezeshkian addressed the UN, accusing the United States of terrorism against Iran, amidst ongoing conflict and diplomatic discussions between the two nations.",
+        "url": "https://www.france24.com/en/middle-east/20260923-iran-will-never-bend-at-the-knee-pezeshkian-tells-un-defiant-wartime-address",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-09-23",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "European Union-United States",
+        "title": "EU’s Ribera joins push for first woman to lead UN",
+        "summary": "The European Union and Spain advocate for a woman to become the next UN Secretary-General, while the United States pushes for significant organizational reforms.",
+        "url": "https://www.politico.eu/article/eu-teresa-ribera-push-for-first-woman-un-chief/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "European Union",
+        "relatedCountry": "United States",
+        "published": "2026-09-23",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
+        "summary": "The UN Security Council debates a path to peace in Ukraine, but Russia's veto continues to stall any resolution.",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168410",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-09-23",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "Cuba-United States",
+        "title": "Inside Cuba’s Mass Exodus: How Losing a Quarter of the Population Has Changed the Island",
+        "summary": "Long-standing United States sanctions contribute to Cuba's economic challenges, driving an unprecedented mass exodus that reshapes the island's future.",
+        "url": "https://www.cfr.org/articles/inside-cubas-mass-exodus-how-losing-a-quarter-of-the-population-has-changed-the-island",
+        "country": "Cuba",
+        "relatedCountry": "United States",
+        "published": "2026-09-21",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "US envoy walks out on Pezeshkian UN speech slamming war on Iran",
+        "summary": "The United States envoy walked out during Iranian President Masoud Pezeshkian's speech at the UN General Assembly, signaling diplomatic disapproval of Iran.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-envoy-walks-out-on-pezeshkian-un-speech-slamming-war-on-iran?traffic_source=rss",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-09-23",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Antigua and Barbuda-United Kingdom",
+        "title": "Burnham set to join King Charles at high-stakes Commonwealth summit",
+        "summary": "The United Kingdom and Antigua and Barbuda are in diplomatic disagreement over demands for reparations for historical slavery at the upcoming Commonwealth summit.",
+        "url": "https://www.politico.eu/article/andy-burnham-set-join-king-charles-high-stakes-commonwealth-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "Antigua and Barbuda",
+        "relatedCountry": "United Kingdom",
+        "published": "2026-09-23",
         "source": "Politico Europe"
     }
 ]
