@@ -880,16 +880,6 @@
         "source": "Deutsche Welle"
     },
     {
-        "relationshipKey": "South Africa-United States",
-        "title": "US to expel South Africa ambassador as relations deteriorate",
-        "summary": "Relations between the United States and South Africa have deteriorated after the US announced the expulsion of South Africa's ambassador and suspended aid over a controversial land expropriation act.",
-        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
-        "country": "South Africa",
-        "relatedCountry": "United States",
-        "published": "2025-03-14",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "Israel-Syria",
         "title": "Syria begins ‘new phase of revival’, President Al-Sharaa tells General Assembly",
         "summary": "Syrian President Al-Sharaa addressed the UN General Assembly, declaring a new phase of national revival and condemning Israel's continued incursions and annexation of the Golan Heights.",
@@ -998,5 +988,15 @@
         "relatedCountry": "United Kingdom",
         "published": "2026-09-23",
         "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "‘Xi, You’re Not Welcome’: As Trump Hosts China’s Leader, Thousands Protest in Washington",
+        "summary": "During Chinese President Xi Jinping's state visit to Washington, thousands protested human rights abuses, while talks between Xi and U.S. President Trump touched on AI, trade, Taiwan, and Iran.",
+        "url": "https://thediplomat.com/2026/09/xi-youre-not-welcome-as-trump-hosts-chinas-leader-thousands-protest-in-washington/",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-09-25",
+        "source": "The Diplomat"
     }
 ]

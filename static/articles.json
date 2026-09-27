@@ -661,16 +661,6 @@
     },
     {
         "relationshipKey": "Iran-United States",
-        "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
-        "summary": "The war between the United States and Iran, also involving Israel and a Pakistan-mediated ceasefire, has transformed regional dynamics and U.S. Middle East policy.",
-        "url": "https://www.cfr.org/articles/the-iran-war-at-six-months-a-region-and-its-relationship-with-the-u-s-transformed",
-        "country": "Iran",
-        "relatedCountry": "United States",
-        "published": "2026-08-27",
-        "source": "Council on Foreign Relations"
-    },
-    {
-        "relationshipKey": "Iran-United States",
         "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
         "summary": "Iran has sent conditions to the United States via Qatar to end the ongoing conflict and re-engage in talks.",
         "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
@@ -688,16 +678,6 @@
         "relatedCountry": "Russia",
         "published": "2026-09-19",
         "source": "France 24"
-    },
-    {
-        "relationshipKey": "Iran-United States",
-        "title": "Six Months Into the Iran War, the United States Has No Good Options",
-        "summary": "The United States is six months into a war with Iran, facing challenges with military escalation and economic sanctions, while regional allies like Saudi Arabia, Pakistan, and Turkey form new alliances.",
-        "url": "https://www.cfr.org/articles/six-months-into-the-iran-war-the-united-states-has-no-good-options",
-        "country": "Iran",
-        "relatedCountry": "United States",
-        "published": "2026-08-26",
-        "source": "Council on Foreign Relations"
     },
     {
         "relationshipKey": "Israel-Lebanon",
@@ -998,5 +978,25 @@
         "relatedCountry": "United States",
         "published": "2026-09-25",
         "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Afghanistan-Pakistan",
+        "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+        "summary": "Afghanistan and Pakistan accuse each other of cross-border terrorism and military action, escalating tensions between the two nations.",
+        "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+        "country": "Afghanistan",
+        "relatedCountry": "Pakistan",
+        "published": "2026-09-27",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "South Africa-United States",
+        "title": "US to expel South Africa ambassador as relations deteriorate",
+        "summary": "The United States is expelling South Africa's ambassador and suspending aid, signaling deteriorating relations between the two countries over South Africa's land expropriation act.",
+        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
+        "country": "South Africa",
+        "relatedCountry": "United States",
+        "published": "2025-03-14",
+        "source": "Voice of America"
     }
 ]
