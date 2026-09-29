@@ -620,16 +620,6 @@
         "source": "France 24"
     },
     {
-        "relationshipKey": "Iran-United States",
-        "title": "Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock",
-        "summary": "The ongoing military conflict between the United States and Iran has caused a significant disruption in global oil supply, but market cushions have prevented a major oil shock.",
-        "url": "https://www.cfr.org/articles/crude-calculations-why-the-iran-war-hasnt-yet-caused-an-oil-shock",
-        "country": "Iran",
-        "relatedCountry": "United States",
-        "published": "2026-08-28",
-        "source": "Council on Foreign Relations"
-    },
-    {
         "relationshipKey": "China-United States",
         "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
         "summary": "Former US President Trump announces plans for an 'AI Force' and 'AI czar' as part of a strategy to compete with China in artificial intelligence development.",
@@ -990,13 +980,23 @@
         "source": "Al Jazeera"
     },
     {
-        "relationshipKey": "South Africa-United States",
-        "title": "US to expel South Africa ambassador as relations deteriorate",
-        "summary": "The United States is expelling South Africa's ambassador and suspending aid, signaling deteriorating relations between the two countries over South Africa's land expropriation act.",
-        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
-        "country": "South Africa",
+        "relationshipKey": "Iran-United States",
+        "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
+        "summary": "Iran's military (IRGC) directly appealed to American voters to oust the Trump administration, accusing it of misleading the public about the ongoing conflict and Iran's nuclear program.",
+        "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
+        "country": "Iran",
         "relatedCountry": "United States",
-        "published": "2025-03-14",
-        "source": "Voice of America"
+        "published": "2026-09-29",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "European Union-United Kingdom",
+        "title": "Burnham sets out 'new path' for Britain, vows to seek consensus on ties with EU",
+        "summary": "The UK Prime Minister outlines a new vision for Britain, emphasizing the need to build consensus on its future relationship with the European Union.",
+        "url": "https://www.france24.com/en/europe/20260929-burnham-sets-out-new-path-for-britain-vows-to-seek-consensus-on-ties-with-eu",
+        "country": "European Union",
+        "relatedCountry": "United Kingdom",
+        "published": "2026-09-29",
+        "source": "France 24"
     }
 ]
