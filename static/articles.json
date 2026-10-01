@@ -998,5 +998,15 @@
         "relatedCountry": "United Kingdom",
         "published": "2026-09-29",
         "source": "France 24"
+    },
+    {
+        "relationshipKey": "Israel-Palestine",
+        "title": "Palestinian children in Israeli military detention",
+        "summary": "Israel detains hundreds of Palestinian children in its military detention system, raising international concerns about their treatment.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
+        "country": "Israel",
+        "relatedCountry": "Palestine",
+        "published": "2026-10-01",
+        "source": "Al Jazeera"
     }
 ]
