@@ -1008,5 +1008,15 @@
         "relatedCountry": "Palestine",
         "published": "2026-10-01",
         "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Australia-Japan",
+        "title": "Japan and Australia: Toward a More Autonomous and Resilient Partnership",
+        "summary": "Japan and Australia are deepening their security partnership and learning to depend on each other as the reliability of the United States wavers.",
+        "url": "https://thediplomat.com/2026/10/japan-and-australia-toward-a-more-autonomous-and-resilient-partnership/",
+        "country": "Australia",
+        "relatedCountry": "Japan",
+        "published": "2026-10-02",
+        "source": "The Diplomat"
     }
 ]
