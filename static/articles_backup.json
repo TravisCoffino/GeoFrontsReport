@@ -1018,5 +1018,15 @@
         "relatedCountry": "Japan",
         "published": "2026-10-02",
         "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Bhutan-Nepal",
+        "title": "Bhutan’s ‘Mindfulness City’ Hides a Dark Reality",
+        "summary": "Bhutan's proposed 'Mindfulness City' development faces criticism for being built on land from which Nepali-speaking communities were forcibly expelled, leading to a refugee crisis in Nepal and international resettlement.",
+        "url": "https://thediplomat.com/2026/10/bhutans-mindfulness-city-hides-a-dark-reality/",
+        "country": "Bhutan",
+        "relatedCountry": "Nepal",
+        "published": "2026-10-05",
+        "source": "The Diplomat"
     }
 ]

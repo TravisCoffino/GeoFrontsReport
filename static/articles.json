@@ -1028,5 +1028,15 @@
         "relatedCountry": "Nepal",
         "published": "2026-10-05",
         "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "China-Taiwan",
+        "title": "Missing the Forest for the Trees in Taiwan’s Defense Preparations",
+        "summary": "Taiwan is significantly enhancing its defense preparations and military strategy in the face of cross-strait tensions with China.",
+        "url": "https://thediplomat.com/2026/10/missing-the-forest-for-the-trees-in-taiwans-defense-preparations/",
+        "country": "China",
+        "relatedCountry": "Taiwan",
+        "published": "2026-10-07",
+        "source": "The Diplomat"
     }
 ]
