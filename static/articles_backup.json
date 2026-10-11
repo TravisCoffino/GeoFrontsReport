@@ -40,16 +40,6 @@
         "source": "The Diplomat"
     },
     {
-        "relationshipKey": "China-Taiwan",
-        "title": "Is China Really a Cyber Threat to Taiwan?",
-        "summary": "The article evaluates the extent of China's cyber threat to Taiwan, considering China's intent and capability in its goal to integrate Taiwan.",
-        "url": "https://thediplomat.com/2026/09/is-china-really-a-cyber-threat-to-taiwan/",
-        "country": "China",
-        "relatedCountry": "Taiwan",
-        "published": "2026-09-08",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "Cambodia-Myanmar",
         "title": "Myanmar’s Military-backed President Ticks Cambodia Off His Diplomatic Bucket List",
         "summary": "Myanmar's military-backed president visited Cambodia as part of a diplomatic effort to gain regional legitimacy.",
@@ -1037,6 +1027,16 @@
         "country": "China",
         "relatedCountry": "Taiwan",
         "published": "2026-10-07",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "North Korea-United States",
+        "title": "Why Kim Jong Un Should Want a 4th Summit With Donald Trump",
+        "summary": "North Korea considers a fourth summit with the United States to improve its global position and undermine Washington's influence, leveraging its ties with Russia and China.",
+        "url": "https://thediplomat.com/2026/10/why-kim-jong-un-should-want-a-4th-summit-with-donald-trump/",
+        "country": "North Korea",
+        "relatedCountry": "United States",
+        "published": "2026-10-10",
         "source": "The Diplomat"
     }
 ]

@@ -20,26 +20,6 @@
         "source": "The Diplomat"
     },
     {
-        "relationshipKey": "Nicaragua-North Korea",
-        "title": "North Korea’s Nicaragua Courtship",
-        "summary": "North Korea is actively pursuing stronger diplomatic ties with Nicaragua, indicating a potential shift in its foreign policy.",
-        "url": "https://thediplomat.com/2026/09/north-koreas-nicaragua-courtship/",
-        "country": "Nicaragua",
-        "relatedCountry": "North Korea",
-        "published": "2026-09-10",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-Nepal",
-        "title": "A Himalayan Flood Brings Economic Collapse to Nepal’s Border Region",
-        "summary": "A devastating flood in Nepal has destroyed its primary trade gateway with China, severely disrupting cross-border trade and impacting Nepal's economy.",
-        "url": "https://thediplomat.com/2026/09/a-himalayan-flood-brings-economic-collapse-to-nepals-border-region/",
-        "country": "China",
-        "relatedCountry": "Nepal",
-        "published": "2026-09-09",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "Cambodia-Myanmar",
         "title": "Myanmar’s Military-backed President Ticks Cambodia Off His Diplomatic Bucket List",
         "summary": "Myanmar's military-backed president visited Cambodia as part of a diplomatic effort to gain regional legitimacy.",
@@ -1038,5 +1018,15 @@
         "relatedCountry": "United States",
         "published": "2026-10-10",
         "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Israel-Palestine",
+        "title": "‘Who will represent us?’ Palestinians react to election delay",
+        "summary": "Palestinians reacted to the postponement of legislative elections, citing Israeli restrictions in Gaza and the occupied West Bank.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
+        "country": "Israel",
+        "relatedCountry": "Palestine",
+        "published": "2026-10-11",
+        "source": "Al Jazeera"
     }
 ]
