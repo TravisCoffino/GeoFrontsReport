@@ -1,25 +1,5 @@
 [
     {
-        "relationshipKey": "China-United States",
-        "title": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
-        "summary": "China's advancements in AI and robotics are poised to significantly alter the global balance of power, influencing its future relations with the United States.",
-        "url": "https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-09-11",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "India-Pakistan",
-        "title": "From 9/11 to Pahalgam: India’s Evolving Strategy in the Global War on Terror",
-        "summary": "India's foreign policy on counter-terrorism has evolved, leading to military operations into Pakistan in response to cross-border attacks.",
-        "url": "https://thediplomat.com/2026/09/from-9-11-to-pahalgam-indias-evolving-strategy-in-the-global-war-on-terror/",
-        "country": "India",
-        "relatedCountry": "Pakistan",
-        "published": "2026-09-11",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "Cambodia-Myanmar",
         "title": "Myanmar’s Military-backed President Ticks Cambodia Off His Diplomatic Bucket List",
         "summary": "Myanmar's military-backed president visited Cambodia as part of a diplomatic effort to gain regional legitimacy.",
@@ -57,26 +37,6 @@
         "country": "Myanmar",
         "relatedCountry": "United States",
         "published": "2026-09-14",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "India-Russia",
-        "title": "SCO Summit Produces Surprising Winners",
-        "summary": "At the Shanghai Cooperation Organization summit, India directly urged Russia to end the war in Ukraine, highlighting diplomatic tensions among major member states.",
-        "url": "https://thediplomat.com/2026/09/sco-summit-produces-surprising-winners/",
-        "country": "India",
-        "relatedCountry": "Russia",
-        "published": "2026-09-11",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "North Korea-United States",
-        "title": "What Role Does Denuclearization Have in North Korea-US Dialogue Today?",
-        "summary": "The United States and North Korea are engaged in diplomatic tensions over denuclearization, with North Korea rejecting renewed engagement while the U.S. maintains its denuclearization policy objective.",
-        "url": "https://thediplomat.com/2026/09/what-role-does-denuclearization-have-in-north-korea-us-dialogue-today/",
-        "country": "North Korea",
-        "relatedCountry": "United States",
-        "published": "2026-09-11",
         "source": "The Diplomat"
     },
     {
@@ -660,16 +620,6 @@
         "source": "France 24"
     },
     {
-        "relationshipKey": "China-India",
-        "title": "Can India Exploit China’s ‘Malacca Dilemma’?",
-        "summary": "India is exploring strategies to exploit China's maritime vulnerability in the Strait of Malacca to offset its military disadvantage against Beijing.",
-        "url": "https://thediplomat.com/2026/09/can-india-exploit-chinas-malacca-dilemma/",
-        "country": "China",
-        "relatedCountry": "India",
-        "published": "2026-09-11",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "Afghanistan-Pakistan",
         "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
         "summary": "Pakistan blames Afghanistan's Taliban government for harboring militants, including the TTP, who carry out attacks within Pakistan, a claim Afghanistan denies.",
@@ -1028,5 +978,25 @@
         "relatedCountry": "Palestine",
         "published": "2026-10-11",
         "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "Australia-China",
+        "title": "Wolf Warriors in Sheep’s Clothing: China’s New Subnational Diplomacy in Australia",
+        "summary": "China is employing a new, more subtle subnational diplomacy in Australia, where its diplomats use the language of the Australian government to exert influence on local affairs.",
+        "url": "https://thediplomat.com/2026/10/wolf-warriors-in-sheeps-clothing-chinas-new-subnational-diplomacy-in-australia/",
+        "country": "Australia",
+        "relatedCountry": "China",
+        "published": "2026-10-13",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Russia-United Kingdom",
+        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+        "summary": "The United Kingdom's intelligence chief warns of increasing state-backed threats from Russia, identified as 'aggressor number one,' which includes hybrid warfare and attempts to destabilise European countries.",
+        "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+        "country": "Russia",
+        "relatedCountry": "United Kingdom",
+        "published": "2026-10-13",
+        "source": "BBC News"
     }
 ]
