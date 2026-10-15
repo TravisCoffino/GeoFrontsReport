@@ -1,45 +1,5 @@
 [
     {
-        "relationshipKey": "Cambodia-Myanmar",
-        "title": "Myanmar’s Military-backed President Ticks Cambodia Off His Diplomatic Bucket List",
-        "summary": "Myanmar's military-backed president visited Cambodia as part of a diplomatic effort to gain regional legitimacy.",
-        "url": "https://thediplomat.com/2026/09/myanmars-military-backed-president-ticks-cambodia-off-his-diplomatic-bucket-list/",
-        "country": "Cambodia",
-        "relatedCountry": "Myanmar",
-        "published": "2026-09-14",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Cambodia-Thailand",
-        "title": "Thailand Accuses Cambodia of Stationing Troops at World Heritage Site During Border Fighting",
-        "summary": "Thailand accuses Cambodia of stationing troops at the disputed Preah Vihear temple during border fighting, following a UNESCO report detailing damage to the site.",
-        "url": "https://thediplomat.com/2026/09/thailand-accuses-cambodia-of-stationing-troops-at-world-heritage-site-during-border-fighting/",
-        "country": "Cambodia",
-        "relatedCountry": "Thailand",
-        "published": "2026-09-14",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-India",
-        "title": "Episodic Summitry Alone Cannot Reset India-China Relations",
-        "summary": "India and China are working to improve their strained relationship through high-level meetings and border agreements, often coinciding with multilateral summits.",
-        "url": "https://thediplomat.com/2026/09/episodic-summitry-alone-cannot-reset-india-china-relations/",
-        "country": "China",
-        "relatedCountry": "India",
-        "published": "2026-09-14",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Myanmar-United States",
-        "title": "Ahead of Credentials Showdown, Myanmar Accuses UN Representative of ‘Illegal’ Acts",
-        "summary": "Myanmar's military-backed government is challenging its United Nations representative over alleged illegal activities and ties to opposition groups, coordinating with the United States on the matter.",
-        "url": "https://thediplomat.com/2026/09/ahead-of-credentials-showdown-myanmar-accuses-un-representative-of-illegal-acts/",
-        "country": "Myanmar",
-        "relatedCountry": "United States",
-        "published": "2026-09-14",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "Myanmar-Russia",
         "title": "Fighters Without Borders: Mercenaries, Adventurers, and Volunteers in Myanmar’s Civil War",
         "summary": "Russia and Myanmar are strengthening military cooperation, including joint exercises and the potential involvement of Russian personnel in Myanmar's civil war.",
@@ -47,16 +7,6 @@
         "country": "Myanmar",
         "relatedCountry": "Russia",
         "published": "2026-09-15",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Australia-United States",
-        "title": "5 Years Later, Where Does AUKUS Stand?",
-        "summary": "Australia, the United States, and the United Kingdom are strengthening their AUKUS security alliance to counter China's growing military influence in the Pacific, impacting Australia's prior defense deal with France.",
-        "url": "https://thediplomat.com/2026/09/5-years-later-where-does-aukus-stand/",
-        "country": "Australia",
-        "relatedCountry": "United States",
-        "published": "2026-09-14",
         "source": "The Diplomat"
     },
     {
@@ -468,16 +418,6 @@
         "relatedCountry": "France",
         "published": "2026-09-19",
         "source": "France 24"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "Building Trust in AI Is Critical to the Frontier’s Future",
-        "summary": "The United States is debating AI regulation, with concerns that slowing development could give China an advantage in the global AI race, impacting international alliances.",
-        "url": "https://www.cfr.org/articles/building-trust-in-ai-is-critical-to-the-frontiers-future",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-09-14",
-        "source": "Council on Foreign Relations"
     },
     {
         "relationshipKey": "Iran-United States",
@@ -998,5 +938,65 @@
         "relatedCountry": "United Kingdom",
         "published": "2026-10-13",
         "source": "BBC News"
+    },
+    {
+        "relationshipKey": "Albania-European Union",
+        "title": "Albania’s PM dismisses calls to resign as student protests spread",
+        "summary": "Albania's Prime Minister faces domestic protests while also dealing with the country's ongoing negotiations for European Union membership.",
+        "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
+        "country": "Albania",
+        "relatedCountry": "European Union",
+        "published": "2026-10-15",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "France-Palestine",
+        "title": "Election delay 'a terrible disappointment', Palestinian activist Samer Sinijlawi says",
+        "summary": "France and other international partners express disappointment over the delay of Palestinian elections, which were a condition for state recognition and aid.",
+        "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261015-election-delay-a-terrible-disappointment-palestinian-activist-samer-sinijlawi-says",
+        "country": "France",
+        "relatedCountry": "Palestine",
+        "published": "2026-10-15",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "South Africa-United States",
+        "title": "US to expel South Africa ambassador as relations deteriorate",
+        "summary": "The United States is expelling South Africa's ambassador and suspending aid due to deteriorating relations over land expropriation and foreign policy disputes.",
+        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
+        "country": "South Africa",
+        "relatedCountry": "United States",
+        "published": "2025-03-14",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "European Union-France",
+        "title": "Le casse-tête politique du budget européen",
+        "summary": "France's stance on the European Union budget, particularly proposals to cut its contribution, highlights divisions among member states and complicates international diplomacy ahead of upcoming national elections.",
+        "url": "https://www.politico.eu/podcast/playbook-paris-podcast/le-casse-tete-politique-du-budget-europeen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "European Union",
+        "relatedCountry": "France",
+        "published": "2026-10-15",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+        "summary": "Russia's ongoing military attacks in Ukraine have destroyed critical health supplies and infrastructure, leading to severe healthcare disruption.",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168603",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-10-15",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "China’s Advance in the Bahamas",
+        "summary": "China's increasing commercial and strategic presence in the Bahamas is raising concerns for the United States due to its potential military implications in the Western Hemisphere.",
+        "url": "https://thediplomat.com/2026/10/chinas-advance-in-the-bahamas/",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-10-15",
+        "source": "The Diplomat"
     }
 ]
