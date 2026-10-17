@@ -1,55 +1,5 @@
 [
     {
-        "relationshipKey": "Myanmar-Russia",
-        "title": "Fighters Without Borders: Mercenaries, Adventurers, and Volunteers in Myanmar’s Civil War",
-        "summary": "Russia and Myanmar are strengthening military cooperation, including joint exercises and the potential involvement of Russian personnel in Myanmar's civil war.",
-        "url": "https://thediplomat.com/2026/09/fighters-without-borders-mercenaries-adventurers-and-volunteers-in-myanmars-civil-war/",
-        "country": "Myanmar",
-        "relatedCountry": "Russia",
-        "published": "2026-09-15",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "The Perils of Mind-Reading in the Taiwan Strait",
-        "summary": "A lack of sustained communication between China and the United States over Taiwan increases the risk of dangerous miscalculations.",
-        "url": "https://thediplomat.com/2026/09/the-perils-of-mind-reading-in-the-taiwan-strait/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-09-15",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Japan-Russia",
-        "title": "Japan Faces Hard Choices in Weaning off Russian Energy",
-        "summary": "Japan is balancing its energy security needs, which involve continued imports of Russian liquefied natural gas, against pressure from the United States to reduce reliance on Russia and diplomatic tensions over disputed territories.",
-        "url": "https://thediplomat.com/2026/09/japan-faces-hard-choices-in-weaning-off-russian-energy/",
-        "country": "Japan",
-        "relatedCountry": "Russia",
-        "published": "2026-09-15",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-Mexico",
-        "title": "China and Mexico: How Far Should Technology Cooperation Go?",
-        "summary": "Mexico is deepening technology cooperation with China, raising concerns for the United States.",
-        "url": "https://thediplomat.com/2026/09/china-and-mexico-how-far-should-technology-cooperation-go/",
-        "country": "China",
-        "relatedCountry": "Mexico",
-        "published": "2026-09-15",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "International Monetary Fund-Turkmenistan",
-        "title": "In Turkmenistan’s Data Desert, the Golden Age Is a Mirage",
-        "summary": "The International Monetary Fund declared Turkmenistan in breach of its obligations for failing to provide key economic data.",
-        "url": "https://thediplomat.com/2026/09/in-turkmenistans-data-desert-the-golden-age-is-a-mirage/",
-        "country": "International Monetary Fund",
-        "relatedCountry": "Turkmenistan",
-        "published": "2026-09-15",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "China-Nepal",
         "title": "Who Is to Blame for the Massive Death Toll in the Nepal Floods?",
         "summary": "Nepal and China are involved in a dispute over responsibility and data sharing following a devastating flood in Nepal, with some Nepalis blaming China for withholding information, a claim China denies.",
@@ -57,16 +7,6 @@
         "country": "China",
         "relatedCountry": "Nepal",
         "published": "2026-09-17",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Kyrgyzstan-Russia",
-        "title": "From Nomad Festival to National Showcase: Kyrgyzstan Takes Center Stage",
-        "summary": "Kyrgyzstan hosted the Shanghai Cooperation Organization (SCO) summit, attended by leaders from Russia, China, India, and Türkiye, showcasing its national pride and strengthening its diplomatic ties, particularly with Russia which will host the next World Nomad Games.",
-        "url": "https://thediplomat.com/2026/09/from-nomad-festival-to-national-showcase-kyrgyzstan-takes-center-stage/",
-        "country": "Kyrgyzstan",
-        "relatedCountry": "Russia",
-        "published": "2026-09-16",
         "source": "The Diplomat"
     },
     {
@@ -360,16 +300,6 @@
         "source": "Deutsche Welle"
     },
     {
-        "relationshipKey": "Canada-United States",
-        "title": "The U.S.-Canada Trade War Could Mark a Breaking Point",
-        "summary": "The United States and Canada are experiencing a significant strain in their economic relationship due to a trade dispute involving tariffs and retaliatory measures.",
-        "url": "https://www.cfr.org/articles/the-u-s-canada-trade-war-could-mark-a-breaking-point",
-        "country": "Canada",
-        "relatedCountry": "United States",
-        "published": "2026-09-16",
-        "source": "Council on Foreign Relations"
-    },
-    {
         "relationshipKey": "Israel-Palestine",
         "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
         "summary": "Israel's president pardoned a soldier who killed a Palestinian, drawing international condemnation and a US travel ban on the soldier, highlighting ongoing tensions in the Israeli-Palestinian conflict.",
@@ -388,16 +318,6 @@
         "relatedCountry": "Ukraine",
         "published": "2026-09-18",
         "source": "UN News"
-    },
-    {
-        "relationshipKey": "Other Countries-United States",
-        "title": "Why AI’s Biggest Rivals Are Suddenly Calling for Restraint",
-        "summary": "The United States is concerned about the national security implications of rapidly advancing AI, specifically the potential for other countries to misuse it for bioweapon development.",
-        "url": "https://www.cfr.org/articles/why-ais-biggest-rivals-are-suddenly-calling-for-restraint",
-        "country": "Other Countries",
-        "relatedCountry": "United States",
-        "published": "2026-09-15",
-        "source": "Council on Foreign Relations"
     },
     {
         "relationshipKey": "Israel-Palestine",
@@ -960,16 +880,6 @@
         "source": "France 24"
     },
     {
-        "relationshipKey": "South Africa-United States",
-        "title": "US to expel South Africa ambassador as relations deteriorate",
-        "summary": "The United States is expelling South Africa's ambassador and suspending aid due to deteriorating relations over land expropriation and foreign policy disputes.",
-        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
-        "country": "South Africa",
-        "relatedCountry": "United States",
-        "published": "2025-03-14",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "European Union-France",
         "title": "Le casse-tête politique du budget européen",
         "summary": "France's stance on the European Union budget, particularly proposals to cut its contribution, highlights divisions among member states and complicates international diplomacy ahead of upcoming national elections.",
@@ -998,5 +908,95 @@
         "relatedCountry": "United States",
         "published": "2026-10-15",
         "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Bangladesh-United States",
+        "title": "After 8 Months in Power, How Much Has the BNP Changed Bangladesh?",
+        "summary": "Bangladesh's economy faced disrupted fuel supplies and rationing due to a military conflict involving the United States, Israel, and Iran, highlighting the country's vulnerability to major international events.",
+        "url": "https://thediplomat.com/2026/10/after-8-months-in-power-how-much-has-the-bnp-changed-bangladesh/",
+        "country": "Bangladesh",
+        "relatedCountry": "United States",
+        "published": "2026-10-16",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Ukraine-United States",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "summary": "The United States' decision to waive sanctions on Russia has intensified tensions with Ukraine.",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "country": "Ukraine",
+        "relatedCountry": "United States",
+        "published": "2026-10-17",
+        "source": "BBC News"
+    },
+    {
+        "relationshipKey": "South Africa-United States",
+        "title": "US to expel South Africa ambassador as relations deteriorate",
+        "summary": "The United States is expelling South Africa's ambassador and suspending aid amidst deteriorating relations over South Africa's land expropriation act.",
+        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
+        "country": "South Africa",
+        "relatedCountry": "United States",
+        "published": "2025-03-14",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Ukraine-United States",
+        "title": "Starlink restrictions in Ukraine a ‘planned operation’, Zelenskyy says",
+        "summary": "Ukrainian President Zelenskyy claims Starlink restrictions are a planned operation affecting Ukraine's war efforts against Russia, while also criticizing US sanctions relief on Moscow.",
+        "url": "https://www.politico.eu/article/volodymyr-zelenskyy-says-vladimir-putin-looking-cause-ukraine-wide-blackout/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "Ukraine",
+        "relatedCountry": "United States",
+        "published": "2026-10-17",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Australia-Türkiye",
+        "title": "As disasters mount, next UN climate summit faces a test of trust",
+        "summary": "Türkiye and Australia are leading the upcoming UN Climate Summit (COP31) in a significant diplomatic effort to foster international cooperation on climate action and restore global trust in multilateralism.",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168617",
+        "country": "Australia",
+        "relatedCountry": "Türkiye",
+        "published": "2026-10-16",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "Iran-United States",
+        "title": "The Victory of Asymmetry in the Iran War",
+        "summary": "This article discusses a hypothetical war between the United States and Iran, examining Iran's asymmetrical warfare tactics and its broader geopolitical impacts on global energy and international alliances.",
+        "url": "https://www.cfr.org/articles/the-victory-of-asymmetry-in-the-iran-war",
+        "country": "Iran",
+        "relatedCountry": "United States",
+        "published": "2026-10-16",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
+        "summary": "Russian attacks on Ukraine's energy infrastructure and cities have led to record civilian casualties, exacerbating humanitarian concerns as winter approaches.",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168614",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-10-16",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Ukraine’s Attacks on Russian Data Centers Lay Bare a Global Risk to AI",
+        "summary": "Ukrainian drone attacks on Russian data centers highlight the vulnerability of critical AI infrastructure during wartime.",
+        "url": "https://www.cfr.org/articles/ukraines-attacks-on-russian-data-centers-lay-bare-a-global-risk-to-ai",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-10-16",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Ukraine-United States",
+        "title": "Trump’s ‘Diesel Deal’ With Russia Was Just the Start",
+        "summary": "The United States, under President Trump, pursued a diesel deal with Russia by relaxing sanctions and subsequently pressured Ukraine to cease attacks, threatening to cut aid, thus altering the U.S.-Ukraine relationship.",
+        "url": "https://www.cfr.org/articles/trumps-diesel-deal-with-russia-was-just-the-start",
+        "country": "Ukraine",
+        "relatedCountry": "United States",
+        "published": "2026-10-15",
+        "source": "Council on Foreign Relations"
     }
 ]
