@@ -1,75 +1,5 @@
 [
     {
-        "relationshipKey": "China-Nepal",
-        "title": "Who Is to Blame for the Massive Death Toll in the Nepal Floods?",
-        "summary": "Nepal and China are involved in a dispute over responsibility and data sharing following a devastating flood in Nepal, with some Nepalis blaming China for withholding information, a claim China denies.",
-        "url": "https://thediplomat.com/2026/09/who-is-to-blame-for-the-massive-death-toll-in-the-nepal-floods/",
-        "country": "China",
-        "relatedCountry": "Nepal",
-        "published": "2026-09-17",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Japan-United States",
-        "title": "The Potential Mismatch Between Japan and the US on China",
-        "summary": "Japan seeks to ensure the United States remains aligned on strategy regarding the challenge posed by China, emphasizing the importance of their alliance cohesion.",
-        "url": "https://thediplomat.com/2026/09/the-potential-mismatch-between-japan-and-the-us-on-china/",
-        "country": "Japan",
-        "relatedCountry": "United States",
-        "published": "2026-09-17",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "The Space Security Landscape Is Deteriorating Rapidly",
-        "summary": "The United States has deployed space control weapons in response to the development of similar capabilities by China and Russia, intensifying a global space arms race.",
-        "url": "https://thediplomat.com/2026/09/the-space-security-landscape-is-deteriorating-rapidly/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-09-17",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-Taiwan",
-        "title": "Will Taiwan Fight? We Need Better Evidence.",
-        "summary": "The article discusses the debate around Taiwan's potential willingness to fight if China were to use force, reflecting ongoing cross-strait tensions.",
-        "url": "https://thediplomat.com/2026/09/will-taiwan-fight-we-need-better-evidence/",
-        "country": "China",
-        "relatedCountry": "Taiwan",
-        "published": "2026-09-17",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "India-Pakistan",
-        "title": "Indian, Pakistani Naval Vessels Collide in Arabian Sea, Prompting Diplomatic Tensions",
-        "summary": "A naval collision between Indian and Pakistani vessels in the Arabian Sea has escalated diplomatic tensions between the two nations.",
-        "url": "https://thediplomat.com/2026/09/indian-pakistani-naval-vessels-collide-in-arabian-sea-prompting-diplomatic-tensions/",
-        "country": "India",
-        "relatedCountry": "Pakistan",
-        "published": "2026-09-17",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Cambodia-United States",
-        "title": "US Congressmen Call for Tougher Actions Against Key Southeast Asian Scam Enablers",
-        "summary": "United States congressmen called for the Trump administration to investigate and potentially sanction individuals and entities involved in online scam operations in Cambodia, Laos, and Myanmar.",
-        "url": "https://thediplomat.com/2026/09/us-congressmen-call-for-tougher-actions-against-key-southeast-asian-scam-enablers/",
-        "country": "Cambodia",
-        "relatedCountry": "United States",
-        "published": "2026-09-17",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "What’s Wrong With US Pacific Islands Policy?",
-        "summary": "The article critically examines United States foreign policy in the Pacific Islands, using the Federated States of Micronesia as a case study, highlighting perceived shortcomings in light of increasing Chinese influence and infrastructure development in the region.",
-        "url": "https://thediplomat.com/2026/09/whats-wrong-with-us-pacific-islands-policy/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-09-18",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "India-Pakistan",
         "title": "India’s New Eye in the Sky: EOS-05 Satellite and What It Means for South Asia",
         "summary": "India has launched the EOS-05 surveillance satellite to enhance its intelligence capabilities, specifically to track military movements from Pakistan.",
@@ -170,26 +100,6 @@
         "source": "Politico Europe"
     },
     {
-        "relationshipKey": "China-United States",
-        "title": "The U.S. Is Highly Vulnerable to Cyber Threats From China. Here’s What It Should Do",
-        "summary": "The United States faces significant cyber threats from China, highlighting a growing asymmetry in cyber capabilities and a need for a national defense strategy.",
-        "url": "https://www.cfr.org/articles/the-u-s-is-highly-vulnerable-to-cyber-threats-from-china-heres-what-it-should-do",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-09-18",
-        "source": "Council on Foreign Relations"
-    },
-    {
-        "relationshipKey": "Denmark-United States",
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "summary": "The United States and Denmark have reached a deal on Greenland's security, resolving a diplomatic dispute sparked by former President Trump's threats to acquire the territory.",
-        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "country": "Denmark",
-        "relatedCountry": "United States",
-        "published": "2026-09-18",
-        "source": "BBC News"
-    },
-    {
         "relationshipKey": "Saudi Arabia-Turkiye",
         "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
         "summary": "Turkiye offers military assistance to Saudi Arabia for its security amid escalating Houthi attacks, as part of a new trilateral defense pact.",
@@ -230,16 +140,6 @@
         "source": "Politico Europe"
     },
     {
-        "relationshipKey": "Canada-European Union",
-        "title": "Membership Without Membership: What Can Europe Really Offer Canada?",
-        "summary": "Canada is seeking closer economic and political ties with the European Union, including a proposed \"associate membership,\" which has caused trade tensions and warnings from the United States.",
-        "url": "https://www.cfr.org/articles/membership-without-membership-what-can-europe-really-offer-canada",
-        "country": "Canada",
-        "relatedCountry": "European Union",
-        "published": "2026-09-18",
-        "source": "Council on Foreign Relations"
-    },
-    {
         "relationshipKey": "Iran-Saudi Arabia",
         "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
         "summary": "Saudi Arabia intercepted a ballistic missile fired by Iran-backed Houthi forces from Yemen, targeting Riyadh.",
@@ -270,26 +170,6 @@
         "source": "Politico Europe"
     },
     {
-        "relationshipKey": "Bangladesh-Myanmar",
-        "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
-        "summary": "The UN General Assembly President, a Bangladeshi diplomat, discussed global trust, AI, and lessons from the Rohingya crisis, highlighting the United Nations' role in resolving international conflicts and humanitarian issues, particularly concerning Myanmar and Bangladesh.",
-        "url": "https://news.un.org/feed/view/en/story/2026/09/1168375",
-        "country": "Bangladesh",
-        "relatedCountry": "Myanmar",
-        "published": "2026-09-18",
-        "source": "UN News"
-    },
-    {
-        "relationshipKey": "Russia-United States",
-        "title": "How the U.S. Can Alter Putin’s Calculus on Ukraine",
-        "summary": "The United States is considering a comprehensive strategy involving resistance, deterrence, and dialogue to pressure Russia to change its objectives in the war with Ukraine.",
-        "url": "https://www.cfr.org/articles/how-the-u-s-can-alter-putins-calculus-on-ukraine",
-        "country": "Russia",
-        "relatedCountry": "United States",
-        "published": "2026-09-17",
-        "source": "Council on Foreign Relations"
-    },
-    {
         "relationshipKey": "Russia-Ukraine",
         "title": "Ukraine steps up measures to protect railways",
         "summary": "Russia continues to target Ukraine's railway infrastructure, prompting Ukraine to enhance protection measures and seek international assistance.",
@@ -308,16 +188,6 @@
         "relatedCountry": "Palestine",
         "published": "2026-09-19",
         "source": "Al Jazeera"
-    },
-    {
-        "relationshipKey": "Russia-Ukraine",
-        "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
-        "summary": "A UN human rights report documents widespread sexual violence by Russian forces against Ukrainian civilians and prisoners of war during the invasion of Ukraine.",
-        "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
-        "country": "Russia",
-        "relatedCountry": "Ukraine",
-        "published": "2026-09-18",
-        "source": "UN News"
     },
     {
         "relationshipKey": "Israel-Palestine",
@@ -380,16 +250,6 @@
         "source": "Deutsche Welle"
     },
     {
-        "relationshipKey": "Russia-United States",
-        "title": "Trump signs sweeping Russia sanctions bill",
-        "summary": "The United States has imposed broad sanctions on Russia's energy sector, affecting its economy and major oil and gas purchasers, with additional sanctions targeting Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-        "country": "Russia",
-        "relatedCountry": "United States",
-        "published": "2026-09-18",
-        "source": "BBC News"
-    },
-    {
         "relationshipKey": "Canada-European Union",
         "title": "Canadians warm to EU ‘associate membership’ proposal",
         "summary": "Canada explores closer 'associate membership' ties with the European Union, a move influenced by its ongoing trade dispute with the United States.",
@@ -430,16 +290,6 @@
         "source": "France 24"
     },
     {
-        "relationshipKey": "Iran-Saudi Arabia",
-        "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
-        "summary": "The conflict in Yemen, involving Saudi-backed government forces and Iran-backed Houthi militia, is exacerbating a humanitarian crisis and causing displacement to Djibouti.",
-        "url": "https://news.un.org/feed/view/en/story/2026/09/1168364",
-        "country": "Iran",
-        "relatedCountry": "Saudi Arabia",
-        "published": "2026-09-18",
-        "source": "UN News"
-    },
-    {
         "relationshipKey": "Iran-United States",
         "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
         "summary": "Iran has sent conditions to the United States via Qatar to end the ongoing conflict and re-engage in talks.",
@@ -478,16 +328,6 @@
         "relatedCountry": "United States",
         "published": "2026-09-19",
         "source": "France 24"
-    },
-    {
-        "relationshipKey": "Afghanistan-Pakistan",
-        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-        "summary": "Pakistan blames Afghanistan's Taliban government for harboring militants, including the TTP, who carry out attacks within Pakistan, a claim Afghanistan denies.",
-        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "country": "Afghanistan",
-        "relatedCountry": "Pakistan",
-        "published": "2026-09-18",
-        "source": "BBC News"
     },
     {
         "relationshipKey": "Cuba-United States",
@@ -930,16 +770,6 @@
         "source": "BBC News"
     },
     {
-        "relationshipKey": "South Africa-United States",
-        "title": "US to expel South Africa ambassador as relations deteriorate",
-        "summary": "The United States is expelling South Africa's ambassador and suspending aid amidst deteriorating relations over South Africa's land expropriation act.",
-        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
-        "country": "South Africa",
-        "relatedCountry": "United States",
-        "published": "2025-03-14",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "Ukraine-United States",
         "title": "Starlink restrictions in Ukraine a ‘planned operation’, Zelenskyy says",
         "summary": "Ukrainian President Zelenskyy claims Starlink restrictions are a planned operation affecting Ukraine's war efforts against Russia, while also criticizing US sanctions relief on Moscow.",
@@ -998,5 +828,115 @@
         "relatedCountry": "United States",
         "published": "2026-10-15",
         "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "China-North Korea",
+        "title": "What the New China-North Korea Bridge Really Means",
+        "summary": "The opening of a new bridge between China and North Korea signifies potential for increased bilateral trade and economic cooperation, highlighting North Korea's cautious approach to external economic engagement.",
+        "url": "https://thediplomat.com/2026/10/what-the-new-china-north-korea-bridge-really-means/",
+        "country": "China",
+        "relatedCountry": "North Korea",
+        "published": "2026-10-19",
+        "source": "The Diplomat"
+    },
+    {
+        "relationshipKey": "Israel-United States",
+        "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+        "summary": "Israeli Prime Minister Netanyahu unveils a new security doctrine emphasizing regional alliances and preemptive action, while considering potential changes in the United States' support.",
+        "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
+        "country": "Israel",
+        "relatedCountry": "United States",
+        "published": "2026-10-19",
+        "source": "Al Jazeera"
+    },
+    {
+        "relationshipKey": "France-Germany",
+        "title": "France issues curfew for parts of central Paris",
+        "summary": "Multiple European countries, including Germany, have issued travel advisories warning their citizens about security risks and widespread protests in France, prompting caution for international visitors.",
+        "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
+        "country": "France",
+        "relatedCountry": "Germany",
+        "published": "2026-10-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "South Africa-United States",
+        "title": "United States to expel South Africa ambassador as relations deteriorate",
+        "summary": "The United States plans to expel South Africa's ambassador to Washington, signaling worsening diplomatic relations between the two countries due to foreign policy disagreements and a controversial land act.",
+        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
+        "country": "South Africa",
+        "relatedCountry": "United States",
+        "published": "2025-03-14",
+        "source": "Voice of America"
+    },
+    {
+        "relationshipKey": "Indonesia-United Nations",
+        "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+        "summary": "UN Secretary-General Guterres honored Indonesian peacekeepers, highlighting Indonesia's significant role in UN peacekeeping missions and multilateralism.",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+        "country": "Indonesia",
+        "relatedCountry": "United Nations",
+        "published": "2026-10-19",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "Cambodia-United States",
+        "title": "AI Is Supercharging Cyber Scams and Human Trafficking in Southeast Asia",
+        "summary": "Criminal networks operating in countries like Cambodia are leveraging AI to conduct human trafficking and cyber scams that defraud victims globally, including significant losses for citizens in the United States.",
+        "url": "https://www.cfr.org/articles/ai-is-supercharging-cyber-scams-and-human-trafficking-in-southeast-asia",
+        "country": "Cambodia",
+        "relatedCountry": "United States",
+        "published": "2026-10-19",
+        "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Israel-Palestine",
+        "title": "Gaza: Funding cuts leave half a million without food assistance",
+        "summary": "Funding cuts by international organizations are severely impacting food assistance for half a million people in Gaza, a Palestinian territory affected by the ongoing conflict with Israel.",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+        "country": "Israel",
+        "relatedCountry": "Palestine",
+        "published": "2026-10-19",
+        "source": "UN News"
+    },
+    {
+        "relationshipKey": "United Kingdom-United States",
+        "title": "UK and Poland accuse Hegseth of downplaying allies’ role in Afghanistan",
+        "summary": "The United Kingdom and Poland have criticized U.S. Defense Secretary Pete Hegseth for downplaying their significant contributions to the Afghanistan war, creating tension within NATO.",
+        "url": "https://www.politico.eu/article/uk-poland-pete-hegseth-downplay-role-afghanistan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "country": "United Kingdom",
+        "relatedCountry": "United States",
+        "published": "2026-10-19",
+        "source": "Politico Europe"
+    },
+    {
+        "relationshipKey": "Eritrea-Ethiopia",
+        "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+        "summary": "Tensions are rising between Ethiopia and Eritrea over renewed accusations of military support and border violations, raising fears of a new regional conflict.",
+        "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-top-1022-rdf",
+        "country": "Eritrea",
+        "relatedCountry": "Ethiopia",
+        "published": "2026-10-19",
+        "source": "Deutsche Welle"
+    },
+    {
+        "relationshipKey": "Russia-Ukraine",
+        "title": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
+        "summary": "Ukraine has used an aerial drone to evacuate a wounded soldier from the front line, showcasing evolving military technology in its ongoing conflict with Russia.",
+        "url": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
+        "country": "Russia",
+        "relatedCountry": "Ukraine",
+        "published": "2026-10-19",
+        "source": "France 24"
+    },
+    {
+        "relationshipKey": "Botswana-United Kingdom",
+        "title": "Botswana hunting revenues almost double amid UK opposition",
+        "summary": "Botswana's increased hunting revenue is creating tension with the United Kingdom, which opposes the importation of wildlife trophies.",
+        "url": "https://www.voanews.com/a/botswana-hunting-revenues-almost-double-amid-uk-opposition-/8010588.html",
+        "country": "Botswana",
+        "relatedCountry": "United Kingdom",
+        "published": "2025-03-14",
+        "source": "Voice of America"
     }
 ]
