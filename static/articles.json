@@ -1,95 +1,5 @@
 [
     {
-        "relationshipKey": "Pacific Islands-United States",
-        "title": "Busting the Myths of the US Military’s Presence in Hawai‘i",
-        "summary": "The United States' military presence in Hawaii, a strategic hub for its Pacific Islands policy, is facing scrutiny as land leases expire, raising questions about its regional impact.",
-        "url": "https://thediplomat.com/2026/09/busting-the-myths-of-the-us-militarys-presence-in-hawaii/",
-        "country": "Pacific Islands",
-        "relatedCountry": "United States",
-        "published": "2026-09-22",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Morocco-Spain",
-        "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
-        "summary": "A controversy in Spanish football highlights the political tensions between Spain and Morocco regarding the influx of migrants into the Spanish enclave of Ceuta.",
-        "url": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
-        "country": "Morocco",
-        "relatedCountry": "Spain",
-        "published": "2026-09-21",
-        "source": "Al Jazeera"
-    },
-    {
-        "relationshipKey": "France-Russia",
-        "title": "La Russie, éternel sparadrap du RN ?",
-        "summary": "France's Rassemblement National party is clarifying its stance on Russia, denouncing Moscow's attempts at interference and hybrid warfare amidst broader international tensions, especially regarding the war in Ukraine.",
-        "url": "https://www.politico.eu/podcast/playbook-paris-podcast/la-russie-eternel-sparadrap-du-rn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "country": "France",
-        "relatedCountry": "Russia",
-        "published": "2026-09-21",
-        "source": "Politico Europe"
-    },
-    {
-        "relationshipKey": "Russia-Ukraine",
-        "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
-        "summary": "UN experts detail the human cost of Russia's invasion of Ukraine, including attacks on civilian infrastructure and the intimidation of Russian critics abroad.",
-        "url": "https://news.un.org/feed/view/en/story/2026/09/1168386",
-        "country": "Russia",
-        "relatedCountry": "Ukraine",
-        "published": "2026-09-21",
-        "source": "UN News"
-    },
-    {
-        "relationshipKey": "South Korea-Vietnam",
-        "title": "Nuclear power is back on Southeast Asia's energy agenda",
-        "summary": "Several Southeast Asian nations, including Vietnam, are deepening cooperation on nuclear power projects with countries like South Korea to enhance energy security.",
-        "url": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-top-1022-rdf",
-        "country": "South Korea",
-        "relatedCountry": "Vietnam",
-        "published": "2026-09-21",
-        "source": "Deutsche Welle"
-    },
-    {
-        "relationshipKey": "Russia-Ukraine",
-        "title": "Russia has ‘lost control’ of its oil industry due to Ukraine war, says Trump",
-        "summary": "Donald Trump stated that the Ukraine war has caused Russia to lose control of its oil industry, calling for an end to the conflict, while Ukraine responded with conditions for de-escalation.",
-        "url": "https://www.politico.eu/article/russia-has-lost-control-of-its-oil-sector-trump-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "country": "Russia",
-        "relatedCountry": "Ukraine",
-        "published": "2026-09-21",
-        "source": "Politico Europe"
-    },
-    {
-        "relationshipKey": "Finland-United States",
-        "title": "22 countries back call to keep AI ‘under human control’",
-        "summary": "Finland, as a main organizer of a 22-nation declaration on AI oversight, is diplomatically engaging the United States to join a global regulatory framework.",
-        "url": "https://www.politico.eu/article/20-countries-urge-to-strenghten-oversight-of-ai-to-keep-it-under-human-control/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "country": "Finland",
-        "relatedCountry": "United States",
-        "published": "2026-09-21",
-        "source": "Politico Europe"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "As US and China talk, middle powers jostle for position",
-        "summary": "The United States and China engage in diplomatic talks and economic rivalry, while the European Union navigates trade policies with both nations.",
-        "url": "https://www.dw.com/en/as-us-and-china-talk-middle-powers-jostle-for-position/a-79356540?maca=en-rss-en-top-1022-rdf",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-09-21",
-        "source": "Deutsche Welle"
-    },
-    {
-        "relationshipKey": "European Union-Russia",
-        "title": "EU countries move toward Russia sanctions deal",
-        "summary": "The European Union is negotiating with its member states to renew sanctions against Russia, amidst discussions to remove specific Russian billionaires from the sanctions list.",
-        "url": "https://www.politico.eu/article/eu-countries-move-towards-russia-sanctions-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "country": "European Union",
-        "relatedCountry": "Russia",
-        "published": "2026-09-21",
-        "source": "Politico Europe"
-    },
-    {
         "relationshipKey": "China-United States",
         "title": "Trump and Xi: Strongmen at the Temple of Thymos",
         "summary": "The article analyzes the impact of the strongman leadership styles of former U.S. President Donald Trump and Chinese President Xi Jinping on the relationship between the United States and China.",
@@ -140,26 +50,6 @@
         "source": "GDELT"
     },
     {
-        "relationshipKey": "China-United States",
-        "title": "Ten Issues to Watch at the Trump-Xi Summit in Washington",
-        "summary": "The article details key issues and the asymmetric nature of the relationship between the United States and China during an upcoming summit between President Trump and President Xi.",
-        "url": "https://www.cfr.org/articles/when-xi-comes-to-washington",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-09-22",
-        "source": "Council on Foreign Relations"
-    },
-    {
-        "relationshipKey": "India-Nepal",
-        "title": "Hindutva Is Slowly Seeping Into Nepal",
-        "summary": "India's Hindutva ideology is influencing Nepal, leading to increased Hindu-Muslim tensions and societal changes.",
-        "url": "https://thediplomat.com/2026/09/hindutva-is-slowly-seeping-into-nepal/",
-        "country": "India",
-        "relatedCountry": "Nepal",
-        "published": "2026-09-22",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "Ethiopia-Tigray",
         "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
         "summary": "Ethiopia and the Tigray region accuse each other of new offensives, escalating fears of renewed full-scale conflict despite international calls for de-escalation.",
@@ -198,16 +88,6 @@
         "relatedCountry": "Ukraine",
         "published": "2026-09-23",
         "source": "UN News"
-    },
-    {
-        "relationshipKey": "Cuba-United States",
-        "title": "Inside Cuba’s Mass Exodus: How Losing a Quarter of the Population Has Changed the Island",
-        "summary": "Long-standing United States sanctions contribute to Cuba's economic challenges, driving an unprecedented mass exodus that reshapes the island's future.",
-        "url": "https://www.cfr.org/articles/inside-cubas-mass-exodus-how-losing-a-quarter-of-the-population-has-changed-the-island",
-        "country": "Cuba",
-        "relatedCountry": "United States",
-        "published": "2026-09-21",
-        "source": "Council on Foreign Relations"
     },
     {
         "relationshipKey": "Iran-United States",
@@ -600,16 +480,6 @@
         "source": "Al Jazeera"
     },
     {
-        "relationshipKey": "South Africa-United States",
-        "title": "US to expel South Africa ambassador as relations deteriorate",
-        "summary": "The United States is expelling South Africa's ambassador and suspending aid, signaling worsening relations over South Africa's land expropriation act and foreign policy differences.",
-        "url": "https://www.voanews.com/a/us-to-expel-south-africa-ambassador-as-relations-deteriorate/8011493.html",
-        "country": "South Africa",
-        "relatedCountry": "United States",
-        "published": "2025-03-14",
-        "source": "Voice of America"
-    },
-    {
         "relationshipKey": "Cambodia-Thailand",
         "title": "The Proliferation of Illicit Drones in Southeast Asia",
         "summary": "The increasing use of commercial drones for criminal and militant activities contributes to security challenges and cross-border tensions among countries in Southeast Asia, notably in the Thailand-Cambodia border conflict.",
@@ -668,15 +538,5 @@
         "relatedCountry": "Ukraine",
         "published": "2026-10-21",
         "source": "France 24"
-    },
-    {
-        "relationshipKey": "Botswana-United Kingdom",
-        "title": "Botswana hunting revenues almost double amid UK opposition",
-        "summary": "Botswana's increased hunting revenues, derived from a policy of sustainable wildlife utilization, are met with opposition from the United Kingdom and other European countries which advocate for a ban on the importation of African wildlife trophies.",
-        "url": "https://www.voanews.com/a/botswana-hunting-revenues-almost-double-amid-uk-opposition-/8010588.html",
-        "country": "Botswana",
-        "relatedCountry": "United Kingdom",
-        "published": "2025-03-14",
-        "source": "Voice of America"
     }
 ]
