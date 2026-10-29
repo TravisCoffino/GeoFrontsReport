@@ -1,15 +1,5 @@
 [
     {
-        "relationshipKey": "Afghanistan-Pakistan",
-        "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
-        "summary": "Afghanistan and Pakistan accuse each other of cross-border terrorism and military action, escalating tensions between the two nations.",
-        "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
-        "country": "Afghanistan",
-        "relatedCountry": "Pakistan",
-        "published": "2026-09-27",
-        "source": "Al Jazeera"
-    },
-    {
         "relationshipKey": "Iran-United States",
         "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
         "summary": "Iran's military (IRGC) directly appealed to American voters to oust the Trump administration, accusing it of misleading the public about the ongoing conflict and Iran's nuclear program.",
