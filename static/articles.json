@@ -1,25 +1,5 @@
 [
     {
-        "relationshipKey": "North Korea-United States",
-        "title": "Why Kim Jong Un Should Want a 4th Summit With Donald Trump",
-        "summary": "North Korea considers a fourth summit with the United States to improve its global position and undermine Washington's influence, leveraging its ties with Russia and China.",
-        "url": "https://thediplomat.com/2026/10/why-kim-jong-un-should-want-a-4th-summit-with-donald-trump/",
-        "country": "North Korea",
-        "relatedCountry": "United States",
-        "published": "2026-10-10",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Israel-Palestine",
-        "title": "‘Who will represent us?’ Palestinians react to election delay",
-        "summary": "Palestinians reacted to the postponement of legislative elections, citing Israeli restrictions in Gaza and the occupied West Bank.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
-        "country": "Israel",
-        "relatedCountry": "Palestine",
-        "published": "2026-10-11",
-        "source": "Al Jazeera"
-    },
-    {
         "relationshipKey": "Australia-China",
         "title": "Wolf Warriors in Sheep’s Clothing: China’s New Subnational Diplomacy in Australia",
         "summary": "China is employing a new, more subtle subnational diplomacy in Australia, where its diplomats use the language of the Australian government to exert influence on local affairs.",
