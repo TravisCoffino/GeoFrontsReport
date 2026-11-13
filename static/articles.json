@@ -1,25 +1,5 @@
 [
     {
-        "relationshipKey": "Australia-China",
-        "title": "Wolf Warriors in Sheep’s Clothing: China’s New Subnational Diplomacy in Australia",
-        "summary": "China is employing a new, more subtle subnational diplomacy in Australia, where its diplomats use the language of the Australian government to exert influence on local affairs.",
-        "url": "https://thediplomat.com/2026/10/wolf-warriors-in-sheeps-clothing-chinas-new-subnational-diplomacy-in-australia/",
-        "country": "Australia",
-        "relatedCountry": "China",
-        "published": "2026-10-13",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Russia-United Kingdom",
-        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-        "summary": "The United Kingdom's intelligence chief warns of increasing state-backed threats from Russia, identified as 'aggressor number one,' which includes hybrid warfare and attempts to destabilise European countries.",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-        "country": "Russia",
-        "relatedCountry": "United Kingdom",
-        "published": "2026-10-13",
-        "source": "BBC News"
-    },
-    {
         "relationshipKey": "Albania-European Union",
         "title": "Albania’s PM dismisses calls to resign as student protests spread",
         "summary": "Albania's Prime Minister faces domestic protests while also dealing with the country's ongoing negotiations for European Union membership.",
