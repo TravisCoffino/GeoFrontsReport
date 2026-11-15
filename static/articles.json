@@ -1,55 +1,5 @@
 [
     {
-        "relationshipKey": "Albania-European Union",
-        "title": "Albania’s PM dismisses calls to resign as student protests spread",
-        "summary": "Albania's Prime Minister faces domestic protests while also dealing with the country's ongoing negotiations for European Union membership.",
-        "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
-        "country": "Albania",
-        "relatedCountry": "European Union",
-        "published": "2026-10-15",
-        "source": "Al Jazeera"
-    },
-    {
-        "relationshipKey": "France-Palestine",
-        "title": "Election delay 'a terrible disappointment', Palestinian activist Samer Sinijlawi says",
-        "summary": "France and other international partners express disappointment over the delay of Palestinian elections, which were a condition for state recognition and aid.",
-        "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261015-election-delay-a-terrible-disappointment-palestinian-activist-samer-sinijlawi-says",
-        "country": "France",
-        "relatedCountry": "Palestine",
-        "published": "2026-10-15",
-        "source": "France 24"
-    },
-    {
-        "relationshipKey": "European Union-France",
-        "title": "Le casse-tête politique du budget européen",
-        "summary": "France's stance on the European Union budget, particularly proposals to cut its contribution, highlights divisions among member states and complicates international diplomacy ahead of upcoming national elections.",
-        "url": "https://www.politico.eu/podcast/playbook-paris-podcast/le-casse-tete-politique-du-budget-europeen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "country": "European Union",
-        "relatedCountry": "France",
-        "published": "2026-10-15",
-        "source": "Politico Europe"
-    },
-    {
-        "relationshipKey": "Russia-Ukraine",
-        "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
-        "summary": "Russia's ongoing military attacks in Ukraine have destroyed critical health supplies and infrastructure, leading to severe healthcare disruption.",
-        "url": "https://news.un.org/feed/view/en/story/2026/10/1168603",
-        "country": "Russia",
-        "relatedCountry": "Ukraine",
-        "published": "2026-10-15",
-        "source": "UN News"
-    },
-    {
-        "relationshipKey": "China-United States",
-        "title": "China’s Advance in the Bahamas",
-        "summary": "China's increasing commercial and strategic presence in the Bahamas is raising concerns for the United States due to its potential military implications in the Western Hemisphere.",
-        "url": "https://thediplomat.com/2026/10/chinas-advance-in-the-bahamas/",
-        "country": "China",
-        "relatedCountry": "United States",
-        "published": "2026-10-15",
-        "source": "The Diplomat"
-    },
-    {
         "relationshipKey": "Bangladesh-United States",
         "title": "After 8 Months in Power, How Much Has the BNP Changed Bangladesh?",
         "summary": "Bangladesh's economy faced disrupted fuel supplies and rationing due to a military conflict involving the United States, Israel, and Iran, highlighting the country's vulnerability to major international events.",
@@ -117,16 +67,6 @@
         "country": "Russia",
         "relatedCountry": "Ukraine",
         "published": "2026-10-16",
-        "source": "Council on Foreign Relations"
-    },
-    {
-        "relationshipKey": "Ukraine-United States",
-        "title": "Trump’s ‘Diesel Deal’ With Russia Was Just the Start",
-        "summary": "The United States, under President Trump, pursued a diesel deal with Russia by relaxing sanctions and subsequently pressured Ukraine to cease attacks, threatening to cut aid, thus altering the U.S.-Ukraine relationship.",
-        "url": "https://www.cfr.org/articles/trumps-diesel-deal-with-russia-was-just-the-start",
-        "country": "Ukraine",
-        "relatedCountry": "United States",
-        "published": "2026-10-15",
         "source": "Council on Foreign Relations"
     },
     {
