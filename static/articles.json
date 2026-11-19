@@ -1,95 +1,5 @@
 [
     {
-        "relationshipKey": "China-North Korea",
-        "title": "What the New China-North Korea Bridge Really Means",
-        "summary": "The opening of a new bridge between China and North Korea signifies potential for increased bilateral trade and economic cooperation, highlighting North Korea's cautious approach to external economic engagement.",
-        "url": "https://thediplomat.com/2026/10/what-the-new-china-north-korea-bridge-really-means/",
-        "country": "China",
-        "relatedCountry": "North Korea",
-        "published": "2026-10-19",
-        "source": "The Diplomat"
-    },
-    {
-        "relationshipKey": "Israel-United States",
-        "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
-        "summary": "Israeli Prime Minister Netanyahu unveils a new security doctrine emphasizing regional alliances and preemptive action, while considering potential changes in the United States' support.",
-        "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
-        "country": "Israel",
-        "relatedCountry": "United States",
-        "published": "2026-10-19",
-        "source": "Al Jazeera"
-    },
-    {
-        "relationshipKey": "France-Germany",
-        "title": "France issues curfew for parts of central Paris",
-        "summary": "Multiple European countries, including Germany, have issued travel advisories warning their citizens about security risks and widespread protests in France, prompting caution for international visitors.",
-        "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
-        "country": "France",
-        "relatedCountry": "Germany",
-        "published": "2026-10-19",
-        "source": "France 24"
-    },
-    {
-        "relationshipKey": "Indonesia-United Nations",
-        "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-        "summary": "UN Secretary-General Guterres honored Indonesian peacekeepers, highlighting Indonesia's significant role in UN peacekeeping missions and multilateralism.",
-        "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-        "country": "Indonesia",
-        "relatedCountry": "United Nations",
-        "published": "2026-10-19",
-        "source": "UN News"
-    },
-    {
-        "relationshipKey": "Cambodia-United States",
-        "title": "AI Is Supercharging Cyber Scams and Human Trafficking in Southeast Asia",
-        "summary": "Criminal networks operating in countries like Cambodia are leveraging AI to conduct human trafficking and cyber scams that defraud victims globally, including significant losses for citizens in the United States.",
-        "url": "https://www.cfr.org/articles/ai-is-supercharging-cyber-scams-and-human-trafficking-in-southeast-asia",
-        "country": "Cambodia",
-        "relatedCountry": "United States",
-        "published": "2026-10-19",
-        "source": "Council on Foreign Relations"
-    },
-    {
-        "relationshipKey": "Israel-Palestine",
-        "title": "Gaza: Funding cuts leave half a million without food assistance",
-        "summary": "Funding cuts by international organizations are severely impacting food assistance for half a million people in Gaza, a Palestinian territory affected by the ongoing conflict with Israel.",
-        "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-        "country": "Israel",
-        "relatedCountry": "Palestine",
-        "published": "2026-10-19",
-        "source": "UN News"
-    },
-    {
-        "relationshipKey": "United Kingdom-United States",
-        "title": "UK and Poland accuse Hegseth of downplaying allies’ role in Afghanistan",
-        "summary": "The United Kingdom and Poland have criticized U.S. Defense Secretary Pete Hegseth for downplaying their significant contributions to the Afghanistan war, creating tension within NATO.",
-        "url": "https://www.politico.eu/article/uk-poland-pete-hegseth-downplay-role-afghanistan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "country": "United Kingdom",
-        "relatedCountry": "United States",
-        "published": "2026-10-19",
-        "source": "Politico Europe"
-    },
-    {
-        "relationshipKey": "Eritrea-Ethiopia",
-        "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
-        "summary": "Tensions are rising between Ethiopia and Eritrea over renewed accusations of military support and border violations, raising fears of a new regional conflict.",
-        "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-top-1022-rdf",
-        "country": "Eritrea",
-        "relatedCountry": "Ethiopia",
-        "published": "2026-10-19",
-        "source": "Deutsche Welle"
-    },
-    {
-        "relationshipKey": "Russia-Ukraine",
-        "title": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
-        "summary": "Ukraine has used an aerial drone to evacuate a wounded soldier from the front line, showcasing evolving military technology in its ongoing conflict with Russia.",
-        "url": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
-        "country": "Russia",
-        "relatedCountry": "Ukraine",
-        "published": "2026-10-19",
-        "source": "France 24"
-    },
-    {
         "relationshipKey": "China-United States",
         "title": "China Capitalizes on America’s Scientific Brain Drain",
         "summary": "China is increasingly attracting top researchers from U.S. institutions, influenced by geopolitical issues and United States immigration policies.",
@@ -178,5 +88,15 @@
         "relatedCountry": "Ukraine",
         "published": "2026-10-21",
         "source": "France 24"
+    },
+    {
+        "relationshipKey": "China-United States",
+        "title": "Boom or Bubble? Understanding AI and the U.S. Economy",
+        "summary": "The article discusses the U.S. AI boom, its economic implications, and the competitive relationship with China in the technology sector, including an alleged Chinese espionage operation.",
+        "url": "https://www.cfr.org/articles/boom-or-bubble-understanding-ai-and-the-u-s-economy",
+        "country": "China",
+        "relatedCountry": "United States",
+        "published": "2026-11-19",
+        "source": "Council on Foreign Relations"
     }
 ]
