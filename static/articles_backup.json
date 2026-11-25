@@ -8,5 +8,15 @@
         "relatedCountry": "United States",
         "published": "2026-11-19",
         "source": "Council on Foreign Relations"
+    },
+    {
+        "relationshipKey": "Iran-South Korea",
+        "title": "South Korea’s Coal Use Is Surging – and Not Just Because of the Iran War",
+        "summary": "South Korea's energy policy is being impacted by global energy market instability, partly caused by the conflict involving Iran.",
+        "url": "https://thediplomat.com/2026/11/south-koreas-coal-use-is-surging-and-not-just-because-of-the-iran-war/",
+        "country": "Iran",
+        "relatedCountry": "South Korea",
+        "published": "2026-11-20",
+        "source": "The Diplomat"
     }
 ]
